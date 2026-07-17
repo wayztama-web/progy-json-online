@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T22:58:20.038Z",
+  "updatedAt": "2026-07-17T23:03:20.940Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -8,10 +8,10 @@
   "siValue": "Wirawan",
   "siReadMode": "BV5 getValue before date/shift update",
   "dateSelector": "7/18/2026",
-  "shiftSelector": "NS",
+  "shiftSelector": "MS",
   "productionDateSerial": 46221,
   "productionDateText": "7/18/2026",
-  "shiftSet": "NS",
+  "shiftSet": "MS",
   "shifts": {
     "MS": {
       "cm3": [],
