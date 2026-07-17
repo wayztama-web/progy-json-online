@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T20:13:19.028Z",
+  "updatedAt": "2026-07-17T20:18:19.583Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -460,7 +460,7 @@
           "dt_proc": "25",
           "loss": "10.8",
           "pct_loss": "2.2%",
-          "overlap": "",
+          "overlap": "215",
           "ket": "D + GF + C + G. TRAV",
           "status": "Actual",
           "eff": "30.1%"
@@ -496,18 +496,18 @@
           "mc": "L 7",
           "jenis": "GF",
           "plan": "03:00",
-          "doff": "",
-          "start": "",
+          "doff": "02:40",
+          "start": "03:05",
           "code": "",
           "std": "35.8",
-          "dt_mc": "",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
+          "dt_mc": "25",
+          "dt_proc": "20",
+          "loss": "15.8",
+          "pct_loss": "3.3%",
           "overlap": "",
-          "ket": "D + GF",
-          "status": "Plan",
-          "eff": ""
+          "ket": "D + GF + C + G. TRAV + CLEANING",
+          "status": "Actual",
+          "eff": "44.1%"
         }
       ]
     }
@@ -948,7 +948,7 @@
       "dt_proc": "25",
       "loss": "10.8",
       "pct_loss": "2.2%",
-      "overlap": "",
+      "overlap": "215",
       "ket": "D + GF + C + G. TRAV",
       "status": "Actual",
       "eff": "30.1%"
@@ -984,18 +984,18 @@
       "mc": "L 7",
       "jenis": "GF",
       "plan": "03:00",
-      "doff": "",
-      "start": "",
+      "doff": "02:40",
+      "start": "03:05",
       "code": "",
       "std": "35.8",
-      "dt_mc": "",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
+      "dt_mc": "25",
+      "dt_proc": "20",
+      "loss": "15.8",
+      "pct_loss": "3.3%",
       "overlap": "",
-      "ket": "D + GF",
-      "status": "Plan",
-      "eff": ""
+      "ket": "D + GF + C + G. TRAV + CLEANING",
+      "status": "Actual",
+      "eff": "44.1%"
     }
   ]
 }
