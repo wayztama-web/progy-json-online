@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T06:58:35.132Z",
+  "updatedAt": "2026-07-18T07:03:37.150Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -8,10 +8,10 @@
   "siValue": "Eko BY",
   "siReadMode": "BV5 getValue before date/shift update",
   "dateSelector": "7/18/2026",
-  "shiftSelector": "MS",
+  "shiftSelector": "AS",
   "productionDateSerial": 46221,
   "productionDateText": "7/18/2026",
-  "shiftSet": "MS",
+  "shiftSet": "AS",
   "shifts": {
     "MS": {
       "cm3": [
@@ -32,7 +32,7 @@
           "dt_proc": "115",
           "loss": "-17.7",
           "pct_loss": "-3.7%",
-          "overlap": "",
+          "overlap": "430",
           "ket": "D, GF, C, Briefing",
           "status": "Actual",
           "eff": "-18.2%"
@@ -68,18 +68,18 @@
           "mc": "HE 7",
           "jenis": "D",
           "plan": "12:50",
-          "doff": "",
-          "start": "",
+          "doff": "12:45",
+          "start": "13:55",
           "code": "",
           "std": "17.8",
-          "dt_mc": "",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
+          "dt_mc": "70",
+          "dt_proc": "70",
+          "loss": "-52.2",
+          "pct_loss": "-10.9%",
           "overlap": "",
-          "ket": "",
-          "status": "Plan",
-          "eff": ""
+          "ket": "D, Crealing, HB (55)",
+          "status": "Actual",
+          "eff": "-293.8%"
         },
         {
           "key": "20260718-MS-DT 13-PLAN",
@@ -1082,7 +1082,7 @@
       "dt_proc": "115",
       "loss": "-17.7",
       "pct_loss": "-3.7%",
-      "overlap": "",
+      "overlap": "430",
       "ket": "D, GF, C, Briefing",
       "status": "Actual",
       "eff": "-18.2%"
@@ -1118,18 +1118,18 @@
       "mc": "HE 7",
       "jenis": "D",
       "plan": "12:50",
-      "doff": "",
-      "start": "",
+      "doff": "12:45",
+      "start": "13:55",
       "code": "",
       "std": "17.8",
-      "dt_mc": "",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
+      "dt_mc": "70",
+      "dt_proc": "70",
+      "loss": "-52.2",
+      "pct_loss": "-10.9%",
       "overlap": "",
-      "ket": "",
-      "status": "Plan",
-      "eff": ""
+      "ket": "D, Crealing, HB (55)",
+      "status": "Actual",
+      "eff": "-293.8%"
     },
     {
       "key": "20260718-MS-DT 13-PLAN",
