@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T06:33:34.611Z",
+  "updatedAt": "2026-07-18T06:38:37.845Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -468,16 +468,16 @@
           "plan": "13:35",
           "doff": "13:40",
           "start": "14:00",
-          "code": "",
+          "code": "L",
           "std": "13.5",
           "dt_mc": "20",
-          "dt_proc": "20",
-          "loss": "-6.5",
-          "pct_loss": "-1.4%",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "",
           "ket": "Stop akhir blum di doff",
           "status": "Actual",
-          "eff": "-48.6%"
+          "eff": ""
         },
         {
           "key": "20260718-MS-L 14-PLAN",
@@ -1516,16 +1516,16 @@
       "plan": "13:35",
       "doff": "13:40",
       "start": "14:00",
-      "code": "",
+      "code": "L",
       "std": "13.5",
       "dt_mc": "20",
-      "dt_proc": "20",
-      "loss": "-6.5",
-      "pct_loss": "-1.4%",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "",
       "ket": "Stop akhir blum di doff",
       "status": "Actual",
-      "eff": "-48.6%"
+      "eff": ""
     },
     {
       "key": "20260718-MS-L 14-PLAN",
