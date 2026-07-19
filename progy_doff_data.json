@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T13:44:36.705Z",
+  "updatedAt": "2026-07-19T13:49:42.228Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -942,7 +942,7 @@
           "dt_proc": "20",
           "loss": "15.8",
           "pct_loss": "3.3%",
-          "overlap": "",
+          "overlap": "465",
           "ket": "D + GF + C",
           "status": "Actual",
           "eff": "44.1%"
@@ -992,6 +992,28 @@
           "eff": "-498.0%"
         },
         {
+          "key": "20260719-AS-L 13-PLAN",
+          "date": "7/19/2026",
+          "shift": "AS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 13",
+          "jenis": "GF",
+          "plan": "20:30",
+          "doff": "20:30",
+          "start": "20:50",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "20",
+          "dt_proc": "20",
+          "loss": "15.8",
+          "pct_loss": "3.3%",
+          "overlap": "",
+          "ket": "D + GF + C",
+          "status": "Actual",
+          "eff": "44.1%"
+        },
+        {
           "key": "20260719-AS-L 8-PLAN",
           "date": "7/19/2026",
           "shift": "AS",
@@ -1000,9 +1022,9 @@
           "mc": "L 8",
           "jenis": "GF",
           "plan": "14:00",
-          "doff": "",
-          "start": "",
-          "code": "",
+          "doff": "14:00",
+          "start": "22:00",
+          "code": "L",
           "std": "35.8",
           "dt_mc": "",
           "dt_proc": "",
@@ -1010,7 +1032,7 @@
           "pct_loss": "",
           "overlap": "",
           "ket": "No allocation order",
-          "status": "Plan",
+          "status": "Actual",
           "eff": ""
         }
       ]
@@ -2536,7 +2558,7 @@
       "dt_proc": "20",
       "loss": "15.8",
       "pct_loss": "3.3%",
-      "overlap": "",
+      "overlap": "465",
       "ket": "D + GF + C",
       "status": "Actual",
       "eff": "44.1%"
@@ -2586,6 +2608,28 @@
       "eff": "-498.0%"
     },
     {
+      "key": "20260719-AS-L 13-PLAN",
+      "date": "7/19/2026",
+      "shift": "AS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 13",
+      "jenis": "GF",
+      "plan": "20:30",
+      "doff": "20:30",
+      "start": "20:50",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "20",
+      "dt_proc": "20",
+      "loss": "15.8",
+      "pct_loss": "3.3%",
+      "overlap": "",
+      "ket": "D + GF + C",
+      "status": "Actual",
+      "eff": "44.1%"
+    },
+    {
       "key": "20260719-AS-L 8-PLAN",
       "date": "7/19/2026",
       "shift": "AS",
@@ -2594,9 +2638,9 @@
       "mc": "L 8",
       "jenis": "GF",
       "plan": "14:00",
-      "doff": "",
-      "start": "",
-      "code": "",
+      "doff": "14:00",
+      "start": "22:00",
+      "code": "L",
       "std": "35.8",
       "dt_mc": "",
       "dt_proc": "",
@@ -2604,7 +2648,7 @@
       "pct_loss": "",
       "overlap": "",
       "ket": "No allocation order",
-      "status": "Plan",
+      "status": "Actual",
       "eff": ""
     },
     {
