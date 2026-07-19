@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T21:49:51.236Z",
+  "updatedAt": "2026-07-19T21:54:52.317Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -41,7 +41,7 @@
           "loss": "-32.2",
           "pct_loss": "-6.7%",
           "overlap": "305",
-          "ket": "D+c+hb+patwal mc",
+          "ket": "D+C+HB+Patwal MC",
           "status": "Actual",
           "eff": "-181.3%"
         },
@@ -619,7 +619,7 @@
       "loss": "-32.2",
       "pct_loss": "-6.7%",
       "overlap": "305",
-      "ket": "D+c+hb+patwal mc",
+      "ket": "D+C+HB+Patwal MC",
       "status": "Actual",
       "eff": "-181.3%"
     },
