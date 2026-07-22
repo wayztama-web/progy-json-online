@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T17:47:22.965Z",
+  "updatedAt": "2026-07-22T17:52:18.339Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -593,7 +593,7 @@
           "loss": "-4.2",
           "pct_loss": "-0.9%",
           "overlap": "",
-          "ket": "D+ gf",
+          "ket": "GF",
           "status": "Actual",
           "eff": "-11.8%"
         },
@@ -1279,7 +1279,7 @@
       "loss": "-4.2",
       "pct_loss": "-0.9%",
       "overlap": "",
-      "ket": "D+ gf",
+      "ket": "GF",
       "status": "Actual",
       "eff": "-11.8%"
     },
