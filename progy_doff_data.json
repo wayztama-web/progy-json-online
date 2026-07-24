@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T22:59:03.628Z",
+  "updatedAt": "2026-07-24T23:04:04.931Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -8,10 +8,10 @@
   "siValue": "Eko BY",
   "siReadMode": "BV5 getValue before date/shift update",
   "dateSelector": "7/25/2026",
-  "shiftSelector": "NS",
+  "shiftSelector": "MS",
   "productionDateSerial": 46228,
   "productionDateText": "7/25/2026",
-  "shiftSet": "NS",
+  "shiftSet": "MS",
   "shifts": {
     "MS": {
       "cm3": [],
