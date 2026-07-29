@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T19:53:06.365Z",
+  "updatedAt": "2026-07-29T19:58:07.184Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -262,7 +262,7 @@
           "loss": "",
           "pct_loss": "",
           "overlap": "30",
-          "ket": "Doff + gf + istirahat",
+          "ket": "Doff + gf + ganti traveler + istirahat",
           "status": "Actual",
           "eff": ""
         }
@@ -840,7 +840,7 @@
       "loss": "",
       "pct_loss": "",
       "overlap": "30",
-      "ket": "Doff + gf + istirahat",
+      "ket": "Doff + gf + ganti traveler + istirahat",
       "status": "Actual",
       "eff": ""
     },
