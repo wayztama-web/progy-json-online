@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T06:22:34.955Z",
+  "updatedAt": "2026-07-29T06:27:36.398Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -259,6 +259,28 @@
         }
       ],
       "cm6": [
+        {
+          "key": "20260729-MS-Delta 1-REP-1323",
+          "date": "7/29/2026",
+          "shift": "MS",
+          "cluster": "CM6",
+          "group": "Delta",
+          "mc": "Delta 1",
+          "jenis": "Problem",
+          "plan": "",
+          "doff": "13:23",
+          "start": "13:25",
+          "code": "REP",
+          "std": "37.1",
+          "dt_mc": "2",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "Test stop",
+          "status": "0",
+          "eff": ""
+        },
         {
           "key": "20260729-MS-Delta 9-PLAN",
           "date": "7/29/2026",
@@ -1394,6 +1416,28 @@
       "ket": "D + GF + TF + TB + R",
       "status": "Actual",
       "eff": "-458.9%"
+    },
+    {
+      "key": "20260729-MS-Delta 1-REP-1323",
+      "date": "7/29/2026",
+      "shift": "MS",
+      "cluster": "CM6",
+      "group": "Delta",
+      "mc": "Delta 1",
+      "jenis": "Problem",
+      "plan": "",
+      "doff": "13:23",
+      "start": "13:25",
+      "code": "REP",
+      "std": "37.1",
+      "dt_mc": "2",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "Test stop",
+      "status": "0",
+      "eff": ""
     },
     {
       "key": "20260729-MS-Delta 9-PLAN",
