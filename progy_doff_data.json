@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T06:48:24.301Z",
+  "updatedAt": "2026-07-30T06:53:24.796Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -77,7 +77,7 @@
           "loss": "-52.2",
           "pct_loss": "-10.9%",
           "overlap": "10",
-          "ket": "Doff+gnti traveler+gf 10 spd +HB dah heli 3",
+          "ket": "D + G.TRAVELER + GF 10SPDL + HB + DAH HELI 3",
           "status": "Actual",
           "eff": "-293.8%"
         },
@@ -92,16 +92,16 @@
           "plan": "12:30",
           "doff": "12:30",
           "start": "14:00",
-          "code": "",
+          "code": "L",
           "std": "97.3",
           "dt_mc": "90",
-          "dt_proc": "30",
-          "loss": "67.3",
-          "pct_loss": "14.0%",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "",
-          "ket": "Doff+dah heli 5",
+          "ket": "DOFF + DAH HELI 5",
           "status": "Actual",
-          "eff": "69.2%"
+          "eff": ""
         },
         {
           "key": "20260730-MS-DT 8-PLAN",
@@ -1084,7 +1084,7 @@
       "loss": "-52.2",
       "pct_loss": "-10.9%",
       "overlap": "10",
-      "ket": "Doff+gnti traveler+gf 10 spd +HB dah heli 3",
+      "ket": "D + G.TRAVELER + GF 10SPDL + HB + DAH HELI 3",
       "status": "Actual",
       "eff": "-293.8%"
     },
@@ -1099,16 +1099,16 @@
       "plan": "12:30",
       "doff": "12:30",
       "start": "14:00",
-      "code": "",
+      "code": "L",
       "std": "97.3",
       "dt_mc": "90",
-      "dt_proc": "30",
-      "loss": "67.3",
-      "pct_loss": "14.0%",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "",
-      "ket": "Doff+dah heli 5",
+      "ket": "DOFF + DAH HELI 5",
       "status": "Actual",
-      "eff": "69.2%"
+      "eff": ""
     },
     {
       "key": "20260730-MS-DT 8-PLAN",
