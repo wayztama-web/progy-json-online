@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T22:59:47.331Z",
+  "updatedAt": "2026-07-31T23:04:47.623Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -8,10 +8,10 @@
   "siValue": "Wahyu S",
   "siReadMode": "BV5 getValue before date/shift update",
   "dateSelector": "8/1/2026",
-  "shiftSelector": "NS",
+  "shiftSelector": "MS",
   "productionDateSerial": 46235,
   "productionDateText": "8/1/2026",
-  "shiftSet": "NS",
+  "shiftSet": "MS",
   "shifts": {
     "MS": {
       "cm3": [],
