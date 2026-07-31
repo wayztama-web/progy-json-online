@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T21:14:41.510Z",
+  "updatedAt": "2026-07-31T21:19:40.360Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -240,7 +240,7 @@
           "dt_proc": "45",
           "loss": "67.8",
           "pct_loss": "14.1%",
-          "overlap": "",
+          "overlap": "70",
           "ket": "D,gf, R",
           "status": "Actual",
           "eff": "60.1%"
@@ -466,6 +466,28 @@
           "eff": "44.1%"
         },
         {
+          "key": "20260801-NS-L 13-PLAN",
+          "date": "8/1/2026",
+          "shift": "NS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 13",
+          "jenis": "GF",
+          "plan": "23:30",
+          "doff": "23:45",
+          "start": "00:10",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "25",
+          "dt_proc": "25",
+          "loss": "10.8",
+          "pct_loss": "2.2%",
+          "overlap": "125",
+          "ket": "D+GF+C+TF",
+          "status": "Actual",
+          "eff": "30.1%"
+        },
+        {
           "key": "20260801-NS-L 7-PLAN",
           "date": "8/1/2026",
           "shift": "NS",
@@ -478,14 +500,14 @@
           "start": "01:50",
           "code": "",
           "std": "35.8",
-          "dt_mc": "40",
-          "dt_proc": "40",
-          "loss": "-4.2",
-          "pct_loss": "-0.9%",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "",
           "ket": "D+GF+C+Dah L3",
           "status": "Actual",
-          "eff": "-11.8%"
+          "eff": ""
         },
         {
           "key": "20260801-NS-L 3-PLAN",
@@ -529,28 +551,6 @@
           "overlap": "",
           "ket": "D+GF+C+TF",
           "status": "Actual",
-          "eff": ""
-        },
-        {
-          "key": "20260801-NS-L 13-PLAN",
-          "date": "8/1/2026",
-          "shift": "NS",
-          "cluster": "CM6",
-          "group": "TBR L",
-          "mc": "L 13",
-          "jenis": "GF",
-          "plan": "23:30",
-          "doff": "",
-          "start": "",
-          "code": "",
-          "std": "35.8",
-          "dt_mc": "",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
-          "overlap": "",
-          "ket": "",
-          "status": "Plan",
           "eff": ""
         }
       ]
@@ -772,7 +772,7 @@
       "dt_proc": "45",
       "loss": "67.8",
       "pct_loss": "14.1%",
-      "overlap": "",
+      "overlap": "70",
       "ket": "D,gf, R",
       "status": "Actual",
       "eff": "60.1%"
@@ -998,6 +998,28 @@
       "eff": "44.1%"
     },
     {
+      "key": "20260801-NS-L 13-PLAN",
+      "date": "8/1/2026",
+      "shift": "NS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 13",
+      "jenis": "GF",
+      "plan": "23:30",
+      "doff": "23:45",
+      "start": "00:10",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "25",
+      "dt_proc": "25",
+      "loss": "10.8",
+      "pct_loss": "2.2%",
+      "overlap": "125",
+      "ket": "D+GF+C+TF",
+      "status": "Actual",
+      "eff": "30.1%"
+    },
+    {
       "key": "20260801-NS-L 7-PLAN",
       "date": "8/1/2026",
       "shift": "NS",
@@ -1010,14 +1032,14 @@
       "start": "01:50",
       "code": "",
       "std": "35.8",
-      "dt_mc": "40",
-      "dt_proc": "40",
-      "loss": "-4.2",
-      "pct_loss": "-0.9%",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "",
       "ket": "D+GF+C+Dah L3",
       "status": "Actual",
-      "eff": "-11.8%"
+      "eff": ""
     },
     {
       "key": "20260801-NS-L 3-PLAN",
@@ -1061,28 +1083,6 @@
       "overlap": "",
       "ket": "D+GF+C+TF",
       "status": "Actual",
-      "eff": ""
-    },
-    {
-      "key": "20260801-NS-L 13-PLAN",
-      "date": "8/1/2026",
-      "shift": "NS",
-      "cluster": "CM6",
-      "group": "TBR L",
-      "mc": "L 13",
-      "jenis": "GF",
-      "plan": "23:30",
-      "doff": "",
-      "start": "",
-      "code": "",
-      "std": "35.8",
-      "dt_mc": "",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
-      "overlap": "",
-      "ket": "",
-      "status": "Plan",
       "eff": ""
     }
   ]
