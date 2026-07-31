@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T18:29:35.104Z",
+  "updatedAt": "2026-07-31T18:44:57.870Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -14,7 +14,30 @@
   "shiftSet": "NS",
   "shifts": {
     "MS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20260801-MS-Heli 1-REP-0142",
+          "date": "8/1/2026",
+          "shift": "",
+          "cluster": "CM3",
+          "group": "Alidra Heli",
+          "mc": "Heli 1",
+          "jenis": "MTN",
+          "plan": "",
+          "doff": "01:42",
+          "start": "",
+          "code": "REP",
+          "std": "",
+          "dt_mc": "-102",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "1378",
+          "ket": "",
+          "status": "0",
+          "eff": ""
+        }
+      ],
       "cm6": []
     },
     "AS": {
@@ -535,6 +558,28 @@
     }
   },
   "rows": [
+    {
+      "key": "20260801-MS-Heli 1-REP-0142",
+      "date": "8/1/2026",
+      "shift": "",
+      "cluster": "CM3",
+      "group": "Alidra Heli",
+      "mc": "Heli 1",
+      "jenis": "MTN",
+      "plan": "",
+      "doff": "01:42",
+      "start": "",
+      "code": "REP",
+      "std": "",
+      "dt_mc": "-102",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "1378",
+      "ket": "",
+      "status": "0",
+      "eff": ""
+    },
     {
       "key": "20260801-NS-HE 2-PLAN",
       "date": "8/1/2026",
