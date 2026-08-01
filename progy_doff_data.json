@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T22:45:38.416Z",
+  "updatedAt": "2026-08-01T22:50:39.446Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -482,7 +482,7 @@
           "dt_proc": "80",
           "loss": "-44.2",
           "pct_loss": "-9.2%",
-          "overlap": "",
+          "overlap": "280",
           "ket": "D + GF + C + Pergantian istirahat",
           "status": "Actual",
           "eff": "-123.6%"
@@ -518,17 +518,17 @@
           "mc": "L 6",
           "jenis": "GF",
           "plan": "22:00",
-          "doff": "",
-          "start": "",
-          "code": "",
+          "doff": "22:00",
+          "start": "06:00",
+          "code": "L",
           "std": "35.8",
           "dt_mc": "",
           "dt_proc": "",
           "loss": "",
           "pct_loss": "",
-          "overlap": "",
+          "overlap": "140",
           "ket": "No allocation order",
-          "status": "Plan",
+          "status": "Actual",
           "eff": ""
         }
       ]
@@ -992,7 +992,7 @@
       "dt_proc": "80",
       "loss": "-44.2",
       "pct_loss": "-9.2%",
-      "overlap": "",
+      "overlap": "280",
       "ket": "D + GF + C + Pergantian istirahat",
       "status": "Actual",
       "eff": "-123.6%"
@@ -1028,17 +1028,17 @@
       "mc": "L 6",
       "jenis": "GF",
       "plan": "22:00",
-      "doff": "",
-      "start": "",
-      "code": "",
+      "doff": "22:00",
+      "start": "06:00",
+      "code": "L",
       "std": "35.8",
       "dt_mc": "",
       "dt_proc": "",
       "loss": "",
       "pct_loss": "",
-      "overlap": "",
+      "overlap": "140",
       "ket": "No allocation order",
-      "status": "Plan",
+      "status": "Actual",
       "eff": ""
     }
   ]
