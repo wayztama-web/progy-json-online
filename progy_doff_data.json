@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T17:40:28.510Z",
+  "updatedAt": "2026-08-01T17:45:29.767Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -107,7 +107,7 @@
           "loss": "8.5",
           "pct_loss": "1.8%",
           "overlap": "",
-          "ket": "D+C+HB",
+          "ket": "Doff Criling hb",
           "status": "Actual",
           "eff": "62.8%"
         },
@@ -597,7 +597,7 @@
       "loss": "8.5",
       "pct_loss": "1.8%",
       "overlap": "",
-      "ket": "D+C+HB",
+      "ket": "Doff Criling hb",
       "status": "Actual",
       "eff": "62.8%"
     },
