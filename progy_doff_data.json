@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T06:00:02.591Z",
+  "updatedAt": "2026-08-01T06:05:02.382Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -146,6 +146,28 @@
           "ket": "D + C + HB + Dah no 14",
           "status": "Actual",
           "eff": "-271.6%"
+        },
+        {
+          "key": "20260801-MS-L 16-PLAN",
+          "date": "8/1/2026",
+          "shift": "",
+          "cluster": "CM3",
+          "group": "NL",
+          "mc": "L 16",
+          "jenis": "GF",
+          "plan": "11:15",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
         }
       ],
       "cm6": [
@@ -1152,6 +1174,28 @@
       "ket": "D + C + HB + Dah no 14",
       "status": "Actual",
       "eff": "-271.6%"
+    },
+    {
+      "key": "20260801-MS-L 16-PLAN",
+      "date": "8/1/2026",
+      "shift": "",
+      "cluster": "CM3",
+      "group": "NL",
+      "mc": "L 16",
+      "jenis": "GF",
+      "plan": "11:15",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
     },
     {
       "key": "20260801-MS-Delta 2-PLAN",
