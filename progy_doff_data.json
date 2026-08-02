@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T21:46:28.141Z",
+  "updatedAt": "2026-08-02T21:51:26.716Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -431,8 +431,8 @@
           "mc": "L 9",
           "jenis": "GF",
           "plan": "04:00",
-          "doff": "",
-          "start": "",
+          "doff": "03:40",
+          "start": "04:30",
           "code": "",
           "std": "35.8",
           "dt_mc": "",
@@ -441,7 +441,7 @@
           "pct_loss": "",
           "overlap": "",
           "ket": "D + GF + C",
-          "status": "Plan",
+          "status": "Actual",
           "eff": ""
         },
         {
@@ -875,8 +875,8 @@
       "mc": "L 9",
       "jenis": "GF",
       "plan": "04:00",
-      "doff": "",
-      "start": "",
+      "doff": "03:40",
+      "start": "04:30",
       "code": "",
       "std": "35.8",
       "dt_mc": "",
@@ -885,7 +885,7 @@
       "pct_loss": "",
       "overlap": "",
       "ket": "D + GF + C",
-      "status": "Plan",
+      "status": "Actual",
       "eff": ""
     },
     {
