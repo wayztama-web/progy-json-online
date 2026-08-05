@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T05:53:35.170Z",
+  "updatedAt": "2026-08-05T05:58:34.895Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -15,6 +15,28 @@
   "shifts": {
     "MS": {
       "cm3": [
+        {
+          "key": "20260805-MS-HE 7-PLAN",
+          "date": "8/5/2026",
+          "shift": "",
+          "cluster": "CM3",
+          "group": "Alidra Heli",
+          "mc": "HE 7",
+          "jenis": "GF",
+          "plan": "06:00",
+          "doff": "06:00",
+          "start": "08:10",
+          "code": "",
+          "std": "97.3",
+          "dt_mc": "130",
+          "dt_proc": "130",
+          "loss": "-32.7",
+          "pct_loss": "-6.8%",
+          "overlap": "",
+          "ket": "Lanjut proses awal mancing tribod dah heli 3+clean mc",
+          "status": "Actual",
+          "eff": "-33.6%"
+        },
         {
           "key": "20260805-MS-HE 3-PLAN",
           "date": "8/5/2026",
@@ -36,28 +58,6 @@
           "ket": "Dof+C+Hb(16)+patwal+brifing",
           "status": "Actual",
           "eff": "#VALUE!"
-        },
-        {
-          "key": "20260805-MS-HE 7-PLAN",
-          "date": "8/5/2026",
-          "shift": "",
-          "cluster": "CM3",
-          "group": "Alidra Heli",
-          "mc": "HE 7",
-          "jenis": "GF",
-          "plan": "06:00",
-          "doff": "",
-          "start": "",
-          "code": "",
-          "std": "97.3",
-          "dt_mc": "",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
-          "overlap": "",
-          "ket": "Mati awal +lanjut mancing tribot",
-          "status": "Plan",
-          "eff": ""
         },
         {
           "key": "20260805-MS-DT 14-PLAN",
@@ -1154,6 +1154,28 @@
   },
   "rows": [
     {
+      "key": "20260805-MS-HE 7-PLAN",
+      "date": "8/5/2026",
+      "shift": "",
+      "cluster": "CM3",
+      "group": "Alidra Heli",
+      "mc": "HE 7",
+      "jenis": "GF",
+      "plan": "06:00",
+      "doff": "06:00",
+      "start": "08:10",
+      "code": "",
+      "std": "97.3",
+      "dt_mc": "130",
+      "dt_proc": "130",
+      "loss": "-32.7",
+      "pct_loss": "-6.8%",
+      "overlap": "",
+      "ket": "Lanjut proses awal mancing tribod dah heli 3+clean mc",
+      "status": "Actual",
+      "eff": "-33.6%"
+    },
+    {
       "key": "20260805-MS-HE 3-PLAN",
       "date": "8/5/2026",
       "shift": "",
@@ -1174,28 +1196,6 @@
       "ket": "Dof+C+Hb(16)+patwal+brifing",
       "status": "Actual",
       "eff": "#VALUE!"
-    },
-    {
-      "key": "20260805-MS-HE 7-PLAN",
-      "date": "8/5/2026",
-      "shift": "",
-      "cluster": "CM3",
-      "group": "Alidra Heli",
-      "mc": "HE 7",
-      "jenis": "GF",
-      "plan": "06:00",
-      "doff": "",
-      "start": "",
-      "code": "",
-      "std": "97.3",
-      "dt_mc": "",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
-      "overlap": "",
-      "ket": "Mati awal +lanjut mancing tribot",
-      "status": "Plan",
-      "eff": ""
     },
     {
       "key": "20260805-MS-DT 14-PLAN",
