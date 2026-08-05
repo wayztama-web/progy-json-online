@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T15:13:57.825Z",
+  "updatedAt": "2026-08-05T15:19:03.945Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -89,6 +89,28 @@
           "ket": "",
           "status": "Plan",
           "eff": ""
+        },
+        {
+          "key": "20260806-NS-DT 12-PLAN",
+          "date": "8/6/2026",
+          "shift": "",
+          "cluster": "CM3",
+          "group": "DT New",
+          "mc": "DT 12",
+          "jenis": "D",
+          "plan": "02:15",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "13.5",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "D 2",
+          "status": "Plan",
+          "eff": ""
         }
       ],
       "cm6": []
@@ -158,6 +180,28 @@
       "pct_loss": "",
       "overlap": "",
       "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20260806-NS-DT 12-PLAN",
+      "date": "8/6/2026",
+      "shift": "",
+      "cluster": "CM3",
+      "group": "DT New",
+      "mc": "DT 12",
+      "jenis": "D",
+      "plan": "02:15",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "13.5",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "D 2",
       "status": "Plan",
       "eff": ""
     }
