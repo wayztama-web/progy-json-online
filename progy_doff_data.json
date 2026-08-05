@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T06:58:38.230Z",
+  "updatedAt": "2026-08-05T07:03:37.125Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -8,10 +8,10 @@
   "siValue": "Eko BY",
   "siReadMode": "BV5 getValue before date/shift update",
   "dateSelector": "8/5/2026",
-  "shiftSelector": "MS",
+  "shiftSelector": "AS",
   "productionDateSerial": 46239,
   "productionDateText": "8/5/2026",
-  "shiftSet": "MS",
+  "shiftSet": "AS",
   "shifts": {
     "MS": {
       "cm3": [
@@ -134,18 +134,18 @@
           "mc": "DT 14",
           "jenis": "GF",
           "plan": "08:40",
-          "doff": "",
-          "start": "",
-          "code": "",
+          "doff": "08:40",
+          "start": "14:00",
+          "code": "Sco",
           "std": "82.7",
-          "dt_mc": "",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
-          "overlap": "",
-          "ket": "",
+          "dt_mc": "320",
+          "dt_proc": "150",
+          "loss": "-67.3",
+          "pct_loss": "-14.0%",
+          "overlap": "155",
+          "ket": "Scouring",
           "status": "Plan",
-          "eff": ""
+          "eff": "-81.3%"
         }
       ],
       "cm6": [
@@ -1272,18 +1272,18 @@
       "mc": "DT 14",
       "jenis": "GF",
       "plan": "08:40",
-      "doff": "",
-      "start": "",
-      "code": "",
+      "doff": "08:40",
+      "start": "14:00",
+      "code": "Sco",
       "std": "82.7",
-      "dt_mc": "",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
-      "overlap": "",
-      "ket": "",
+      "dt_mc": "320",
+      "dt_proc": "150",
+      "loss": "-67.3",
+      "pct_loss": "-14.0%",
+      "overlap": "155",
+      "ket": "Scouring",
       "status": "Plan",
-      "eff": ""
+      "eff": "-81.3%"
     },
     {
       "key": "20260805-MS-Delta 3-PLAN",
