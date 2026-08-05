@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T23:14:12.211Z",
+  "updatedAt": "2026-08-05T23:19:18.083Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -15,7 +15,52 @@
   "shifts": {
     "MS": {
       "cm3": [],
-      "cm6": []
+      "cm6": [
+        {
+          "key": "20260806-MS-L 1-PLAN",
+          "date": "8/6/2026",
+          "shift": "MS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 1",
+          "jenis": "GF",
+          "plan": "06:30",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        },
+        {
+          "key": "20260806-MS-L 4-PLAN",
+          "date": "8/6/2026",
+          "shift": "MS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 4",
+          "jenis": "GF",
+          "plan": "08:30",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        }
+      ]
     },
     "AS": {
       "cm3": [],
@@ -558,6 +603,50 @@
     }
   },
   "rows": [
+    {
+      "key": "20260806-MS-L 1-PLAN",
+      "date": "8/6/2026",
+      "shift": "MS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 1",
+      "jenis": "GF",
+      "plan": "06:30",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20260806-MS-L 4-PLAN",
+      "date": "8/6/2026",
+      "shift": "MS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 4",
+      "jenis": "GF",
+      "plan": "08:30",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
     {
       "key": "20260806-AS-DT 7-PLAN",
       "date": "8/6/2026",
