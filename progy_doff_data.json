@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T21:19:12.142Z",
+  "updatedAt": "2026-08-05T21:24:15.421Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -59,14 +59,14 @@
           "start": "02:00",
           "code": "",
           "std": "97.3",
-          "dt_mc": "125",
-          "dt_proc": "125",
-          "loss": "-27.7",
-          "pct_loss": "-5.8%",
+          "dt_mc": "-1315",
+          "dt_proc": "-1315",
+          "loss": "1412.3",
+          "pct_loss": "294.2%",
           "overlap": "",
-          "ket": "Doff+GF+G.traveler+C",
+          "ket": "D+Gf+G, tensioner lmf+c",
           "status": "Actual",
-          "eff": "-28.4%"
+          "eff": "1451.0%"
         },
         {
           "key": "20260806-NS-HE 8-PLAN",
@@ -461,14 +461,14 @@
       "start": "02:00",
       "code": "",
       "std": "97.3",
-      "dt_mc": "125",
-      "dt_proc": "125",
-      "loss": "-27.7",
-      "pct_loss": "-5.8%",
+      "dt_mc": "-1315",
+      "dt_proc": "-1315",
+      "loss": "1412.3",
+      "pct_loss": "294.2%",
       "overlap": "",
-      "ket": "Doff+GF+G.traveler+C",
+      "ket": "D+Gf+G, tensioner lmf+c",
       "status": "Actual",
-      "eff": "-28.4%"
+      "eff": "1451.0%"
     },
     {
       "key": "20260806-NS-HE 8-PLAN",
