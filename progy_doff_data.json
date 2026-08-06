@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T06:59:32.961Z",
+  "updatedAt": "2026-08-06T07:04:30.980Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -8,10 +8,10 @@
   "siValue": "Eko BY",
   "siReadMode": "BV5 getValue before date/shift update",
   "dateSelector": "8/6/2026",
-  "shiftSelector": "MS",
+  "shiftSelector": "AS",
   "productionDateSerial": 46240,
   "productionDateText": "8/6/2026",
-  "shiftSet": "MS",
+  "shiftSet": "AS",
   "shifts": {
     "MS": {
       "cm3": [
@@ -680,7 +680,30 @@
       ]
     },
     "AS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20260806-AS-HE 5-PLAN",
+          "date": "8/6/2026",
+          "shift": "",
+          "cluster": "CM3",
+          "group": "Alidra Heli",
+          "mc": "HE 5",
+          "jenis": "GF",
+          "plan": "19:15",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "97.3",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        }
+      ],
       "cm6": [
         {
           "key": "20260806-AS-DT 7-PLAN",
@@ -1871,6 +1894,28 @@
       "start": "",
       "code": "",
       "std": "35.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20260806-AS-HE 5-PLAN",
+      "date": "8/6/2026",
+      "shift": "",
+      "cluster": "CM3",
+      "group": "Alidra Heli",
+      "mc": "HE 5",
+      "jenis": "GF",
+      "plan": "19:15",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "97.3",
       "dt_mc": "",
       "dt_proc": "",
       "loss": "",
