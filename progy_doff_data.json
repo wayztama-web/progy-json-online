@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T21:41:41.249Z",
+  "updatedAt": "2026-08-08T21:46:44.032Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -146,16 +146,16 @@
           "plan": "22:00",
           "doff": "22:00",
           "start": "00:00",
-          "code": "L",
+          "code": "",
           "std": "37.1",
           "dt_mc": "120",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
+          "dt_proc": "60",
+          "loss": "-23.0",
+          "pct_loss": "-4.8%",
           "overlap": "285",
           "ket": "Dahulukan nomer 3 . GF . PANCING lmf",
           "status": "Actual",
-          "eff": ""
+          "eff": "-61.9%"
         },
         {
           "key": "20260809-NS-Delta 5-PLAN",
@@ -612,16 +612,16 @@
       "plan": "22:00",
       "doff": "22:00",
       "start": "00:00",
-      "code": "L",
+      "code": "",
       "std": "37.1",
       "dt_mc": "120",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
+      "dt_proc": "60",
+      "loss": "-23.0",
+      "pct_loss": "-4.8%",
       "overlap": "285",
       "ket": "Dahulukan nomer 3 . GF . PANCING lmf",
       "status": "Actual",
-      "eff": ""
+      "eff": "-61.9%"
     },
     {
       "key": "20260809-NS-Delta 5-PLAN",
