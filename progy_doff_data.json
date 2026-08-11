@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T01:48:44.146Z",
+  "updatedAt": "2026-08-11T01:53:39.682Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -255,7 +255,7 @@
           "loss": "47.7",
           "pct_loss": "9.9%",
           "overlap": "",
-          "ket": "Doff +gf + dah no3+ clean mc",
+          "ket": "D + GF + Dah no. 3 + cleaning mc",
           "status": "Actual",
           "eff": "57.7%"
         },
@@ -951,7 +951,7 @@
       "loss": "47.7",
       "pct_loss": "9.9%",
       "overlap": "",
-      "ket": "Doff +gf + dah no3+ clean mc",
+      "ket": "D + GF + Dah no. 3 + cleaning mc",
       "status": "Actual",
       "eff": "57.7%"
     },
