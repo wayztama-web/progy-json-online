@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T09:34:05.825Z",
+  "updatedAt": "2026-08-11T09:39:05.876Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -144,7 +144,7 @@
           "dt_proc": "45",
           "loss": "-8.0",
           "pct_loss": "-1.7%",
-          "overlap": "210",
+          "overlap": "230",
           "ket": "Dof, GF",
           "status": "Actual",
           "eff": "-21.5%"
@@ -166,7 +166,7 @@
           "dt_proc": "100",
           "loss": "12.8",
           "pct_loss": "2.7%",
-          "overlap": "220",
+          "overlap": "180",
           "ket": "Dof, GF ( 1 kali Dof ), p. Istirahat",
           "status": "Actual",
           "eff": "11.3%"
@@ -188,7 +188,7 @@
           "dt_proc": "80",
           "loss": "32.8",
           "pct_loss": "6.8%",
-          "overlap": "",
+          "overlap": "255",
           "ket": "Dof, GF, dah no.5, cleaning m/c",
           "status": "Actual",
           "eff": "29.1%"
@@ -210,7 +210,7 @@
           "dt_proc": "40",
           "loss": "-31.8",
           "pct_loss": "-6.6%",
-          "overlap": "",
+          "overlap": "80",
           "ket": "Dof, crealing, handle breakage",
           "status": "Actual",
           "eff": "-384.8%"
@@ -232,7 +232,7 @@
           "dt_proc": "65",
           "loss": "-51.5",
           "pct_loss": "-10.7%",
-          "overlap": "190",
+          "overlap": "200",
           "ket": "D awal + briefing + HB (17)",
           "status": "Actual",
           "eff": "-383.1%"
@@ -254,7 +254,7 @@
           "dt_proc": "35",
           "loss": "47.7",
           "pct_loss": "9.9%",
-          "overlap": "280",
+          "overlap": "300",
           "ket": "D + GF + Dah no. 3 + cleaning mc",
           "status": "Actual",
           "eff": "57.7%"
@@ -276,7 +276,7 @@
           "dt_proc": "80",
           "loss": "-66.5",
           "pct_loss": "-13.9%",
-          "overlap": "1150",
+          "overlap": "65",
           "ket": "D + C + HB (17)",
           "status": "Actual",
           "eff": "-494.6%"
@@ -298,7 +298,7 @@
           "dt_proc": "25",
           "loss": "-11.5",
           "pct_loss": "-2.4%",
-          "overlap": "",
+          "overlap": "80",
           "ket": "Doff + c + hb12",
           "status": "Actual",
           "eff": "-85.8%"
@@ -320,7 +320,7 @@
           "dt_proc": "75",
           "loss": "7.7",
           "pct_loss": "1.6%",
-          "overlap": "",
+          "overlap": "70",
           "ket": "D+GF",
           "status": "Actual",
           "eff": "9.3%"
@@ -342,7 +342,7 @@
           "dt_proc": "5",
           "loss": "77.7",
           "pct_loss": "16.2%",
-          "overlap": "",
+          "overlap": "5",
           "ket": "Stop akhir (belum di doff)",
           "status": "Actual",
           "eff": "94.0%"
@@ -386,7 +386,7 @@
           "dt_proc": "80",
           "loss": "-44.2",
           "pct_loss": "-9.2%",
-          "overlap": "115",
+          "overlap": "120",
           "ket": "D+GF+C+brifing+Pat.awal",
           "status": "Actual",
           "eff": "-123.6%"
@@ -408,7 +408,7 @@
           "dt_proc": "70",
           "loss": "-34.2",
           "pct_loss": "-7.1%",
-          "overlap": "180",
+          "overlap": "55",
           "ket": "D+GF+C+Dah L4",
           "status": "Actual",
           "eff": "-95.6%"
@@ -430,7 +430,7 @@
           "dt_proc": "",
           "loss": "",
           "pct_loss": "",
-          "overlap": "315",
+          "overlap": "25",
           "ket": "D+GF+C+Pergi istirahat +Dah L12",
           "status": "Actual",
           "eff": ""
@@ -452,7 +452,7 @@
           "dt_proc": "",
           "loss": "",
           "pct_loss": "",
-          "overlap": "",
+          "overlap": "175",
           "ket": "D+GF+C+Dah L10",
           "status": "Actual",
           "eff": ""
@@ -474,7 +474,7 @@
           "dt_proc": "",
           "loss": "",
           "pct_loss": "",
-          "overlap": "210",
+          "overlap": "220",
           "ket": "Mesin stop",
           "status": "Actual",
           "eff": ""
@@ -722,7 +722,7 @@
           "dt_proc": "70",
           "loss": "-56.5",
           "pct_loss": "-11.8%",
-          "overlap": "",
+          "overlap": "80",
           "ket": "Dof creling tunggu bobin",
           "status": "Actual",
           "eff": "-420.3%"
@@ -744,7 +744,7 @@
           "dt_proc": "20",
           "loss": "-6.5",
           "pct_loss": "-1.4%",
-          "overlap": "",
+          "overlap": "50",
           "ket": "Dof creling HB 16, tunggu bobin",
           "status": "Actual",
           "eff": "-48.6%"
@@ -854,7 +854,7 @@
           "dt_proc": "20",
           "loss": "15.8",
           "pct_loss": "3.3%",
-          "overlap": "",
+          "overlap": "70",
           "ket": "Repair + Ok jam 14:20",
           "status": "Actual",
           "eff": "44.1%"
@@ -876,7 +876,7 @@
           "dt_proc": "35",
           "loss": "0.8",
           "pct_loss": "0.2%",
-          "overlap": "75",
+          "overlap": "65",
           "ket": "D + GF + C",
           "status": "Actual",
           "eff": "2.2%"
@@ -898,10 +898,32 @@
           "dt_proc": "30",
           "loss": "5.8",
           "pct_loss": "1.2%",
-          "overlap": "",
+          "overlap": "20",
           "ket": "D + GF + C",
           "status": "Actual",
           "eff": "16.2%"
+        },
+        {
+          "key": "20260811-AS-L 3-PLAN",
+          "date": "8/11/2026",
+          "shift": "AS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 3",
+          "jenis": "GF",
+          "plan": "15:00",
+          "doff": "16:00",
+          "start": "16:35",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "35",
+          "dt_proc": "35",
+          "loss": "0.8",
+          "pct_loss": "0.2%",
+          "overlap": "50",
+          "ket": "D + GF + C",
+          "status": "Actual",
+          "eff": "2.2%"
         },
         {
           "key": "20260811-AS-L 9-PLAN",
@@ -922,28 +944,6 @@
           "pct_loss": "",
           "overlap": "",
           "ket": "No allocation order",
-          "status": "Plan",
-          "eff": ""
-        },
-        {
-          "key": "20260811-AS-L 3-PLAN",
-          "date": "8/11/2026",
-          "shift": "AS",
-          "cluster": "CM6",
-          "group": "TBR L",
-          "mc": "L 3",
-          "jenis": "GF",
-          "plan": "15:00",
-          "doff": "",
-          "start": "",
-          "code": "",
-          "std": "35.8",
-          "dt_mc": "",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
-          "overlap": "",
-          "ket": "Doff",
           "status": "Plan",
           "eff": ""
         },
@@ -1058,7 +1058,7 @@
           "dt_proc": "20",
           "loss": "-6.5",
           "pct_loss": "-1.4%",
-          "overlap": "225",
+          "overlap": "35",
           "ket": "Doff + HB (11)",
           "status": "Actual",
           "eff": "-48.6%"
@@ -1080,7 +1080,7 @@
           "dt_proc": "30",
           "loss": "-16.5",
           "pct_loss": "-3.4%",
-          "overlap": "290",
+          "overlap": "10",
           "ket": "Doff + HB (15)",
           "status": "Actual",
           "eff": "-123.0%"
@@ -1102,7 +1102,7 @@
           "dt_proc": "30",
           "loss": "-16.5",
           "pct_loss": "-3.4%",
-          "overlap": "",
+          "overlap": "115",
           "ket": "Doff + HB (18)",
           "status": "Actual",
           "eff": "-123.0%"
@@ -1124,7 +1124,7 @@
           "dt_proc": "95",
           "loss": "-12.3",
           "pct_loss": "-2.6%",
-          "overlap": "160",
+          "overlap": "80",
           "ket": "Doff + GF + G. Tensioner lmf",
           "status": "Actual",
           "eff": "-14.8%"
@@ -1146,7 +1146,7 @@
           "dt_proc": "",
           "loss": "",
           "pct_loss": "",
-          "overlap": "",
+          "overlap": "20",
           "ket": "Stop akhir (belum di doff)",
           "status": "Actual",
           "eff": ""
@@ -1168,7 +1168,7 @@
           "dt_proc": "20",
           "loss": "15.8",
           "pct_loss": "3.3%",
-          "overlap": "40",
+          "overlap": "215",
           "ket": "D+Gf+c",
           "status": "Actual",
           "eff": "44.1%"
@@ -1190,7 +1190,7 @@
           "dt_proc": "20",
           "loss": "15.8",
           "pct_loss": "3.3%",
-          "overlap": "5",
+          "overlap": "190",
           "ket": "D+Gf+c+Cleaning mesin",
           "status": "Actual",
           "eff": "44.1%"
@@ -1212,7 +1212,7 @@
           "dt_proc": "140",
           "loss": "-104.2",
           "pct_loss": "-21.7%",
-          "overlap": "120",
+          "overlap": "305",
           "ket": "D+Gf+c+tunggu feeding rewinding(jalan1/2Lenght)+patroling mesin",
           "status": "Actual",
           "eff": "-291.2%"
@@ -1348,7 +1348,7 @@
       "dt_proc": "45",
       "loss": "-8.0",
       "pct_loss": "-1.7%",
-      "overlap": "210",
+      "overlap": "230",
       "ket": "Dof, GF",
       "status": "Actual",
       "eff": "-21.5%"
@@ -1370,7 +1370,7 @@
       "dt_proc": "100",
       "loss": "12.8",
       "pct_loss": "2.7%",
-      "overlap": "220",
+      "overlap": "180",
       "ket": "Dof, GF ( 1 kali Dof ), p. Istirahat",
       "status": "Actual",
       "eff": "11.3%"
@@ -1392,7 +1392,7 @@
       "dt_proc": "80",
       "loss": "32.8",
       "pct_loss": "6.8%",
-      "overlap": "",
+      "overlap": "255",
       "ket": "Dof, GF, dah no.5, cleaning m/c",
       "status": "Actual",
       "eff": "29.1%"
@@ -1414,7 +1414,7 @@
       "dt_proc": "40",
       "loss": "-31.8",
       "pct_loss": "-6.6%",
-      "overlap": "",
+      "overlap": "80",
       "ket": "Dof, crealing, handle breakage",
       "status": "Actual",
       "eff": "-384.8%"
@@ -1436,7 +1436,7 @@
       "dt_proc": "65",
       "loss": "-51.5",
       "pct_loss": "-10.7%",
-      "overlap": "190",
+      "overlap": "200",
       "ket": "D awal + briefing + HB (17)",
       "status": "Actual",
       "eff": "-383.1%"
@@ -1458,7 +1458,7 @@
       "dt_proc": "35",
       "loss": "47.7",
       "pct_loss": "9.9%",
-      "overlap": "280",
+      "overlap": "300",
       "ket": "D + GF + Dah no. 3 + cleaning mc",
       "status": "Actual",
       "eff": "57.7%"
@@ -1480,7 +1480,7 @@
       "dt_proc": "80",
       "loss": "-66.5",
       "pct_loss": "-13.9%",
-      "overlap": "1150",
+      "overlap": "65",
       "ket": "D + C + HB (17)",
       "status": "Actual",
       "eff": "-494.6%"
@@ -1502,7 +1502,7 @@
       "dt_proc": "25",
       "loss": "-11.5",
       "pct_loss": "-2.4%",
-      "overlap": "",
+      "overlap": "80",
       "ket": "Doff + c + hb12",
       "status": "Actual",
       "eff": "-85.8%"
@@ -1524,7 +1524,7 @@
       "dt_proc": "75",
       "loss": "7.7",
       "pct_loss": "1.6%",
-      "overlap": "",
+      "overlap": "70",
       "ket": "D+GF",
       "status": "Actual",
       "eff": "9.3%"
@@ -1546,7 +1546,7 @@
       "dt_proc": "5",
       "loss": "77.7",
       "pct_loss": "16.2%",
-      "overlap": "",
+      "overlap": "5",
       "ket": "Stop akhir (belum di doff)",
       "status": "Actual",
       "eff": "94.0%"
@@ -1590,7 +1590,7 @@
       "dt_proc": "80",
       "loss": "-44.2",
       "pct_loss": "-9.2%",
-      "overlap": "115",
+      "overlap": "120",
       "ket": "D+GF+C+brifing+Pat.awal",
       "status": "Actual",
       "eff": "-123.6%"
@@ -1612,7 +1612,7 @@
       "dt_proc": "70",
       "loss": "-34.2",
       "pct_loss": "-7.1%",
-      "overlap": "180",
+      "overlap": "55",
       "ket": "D+GF+C+Dah L4",
       "status": "Actual",
       "eff": "-95.6%"
@@ -1634,7 +1634,7 @@
       "dt_proc": "",
       "loss": "",
       "pct_loss": "",
-      "overlap": "315",
+      "overlap": "25",
       "ket": "D+GF+C+Pergi istirahat +Dah L12",
       "status": "Actual",
       "eff": ""
@@ -1656,7 +1656,7 @@
       "dt_proc": "",
       "loss": "",
       "pct_loss": "",
-      "overlap": "",
+      "overlap": "175",
       "ket": "D+GF+C+Dah L10",
       "status": "Actual",
       "eff": ""
@@ -1678,7 +1678,7 @@
       "dt_proc": "",
       "loss": "",
       "pct_loss": "",
-      "overlap": "210",
+      "overlap": "220",
       "ket": "Mesin stop",
       "status": "Actual",
       "eff": ""
@@ -1920,7 +1920,7 @@
       "dt_proc": "70",
       "loss": "-56.5",
       "pct_loss": "-11.8%",
-      "overlap": "",
+      "overlap": "80",
       "ket": "Dof creling tunggu bobin",
       "status": "Actual",
       "eff": "-420.3%"
@@ -1942,7 +1942,7 @@
       "dt_proc": "20",
       "loss": "-6.5",
       "pct_loss": "-1.4%",
-      "overlap": "",
+      "overlap": "50",
       "ket": "Dof creling HB 16, tunggu bobin",
       "status": "Actual",
       "eff": "-48.6%"
@@ -2052,7 +2052,7 @@
       "dt_proc": "20",
       "loss": "15.8",
       "pct_loss": "3.3%",
-      "overlap": "",
+      "overlap": "70",
       "ket": "Repair + Ok jam 14:20",
       "status": "Actual",
       "eff": "44.1%"
@@ -2074,7 +2074,7 @@
       "dt_proc": "35",
       "loss": "0.8",
       "pct_loss": "0.2%",
-      "overlap": "75",
+      "overlap": "65",
       "ket": "D + GF + C",
       "status": "Actual",
       "eff": "2.2%"
@@ -2096,10 +2096,32 @@
       "dt_proc": "30",
       "loss": "5.8",
       "pct_loss": "1.2%",
-      "overlap": "",
+      "overlap": "20",
       "ket": "D + GF + C",
       "status": "Actual",
       "eff": "16.2%"
+    },
+    {
+      "key": "20260811-AS-L 3-PLAN",
+      "date": "8/11/2026",
+      "shift": "AS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 3",
+      "jenis": "GF",
+      "plan": "15:00",
+      "doff": "16:00",
+      "start": "16:35",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "35",
+      "dt_proc": "35",
+      "loss": "0.8",
+      "pct_loss": "0.2%",
+      "overlap": "50",
+      "ket": "D + GF + C",
+      "status": "Actual",
+      "eff": "2.2%"
     },
     {
       "key": "20260811-AS-L 9-PLAN",
@@ -2120,28 +2142,6 @@
       "pct_loss": "",
       "overlap": "",
       "ket": "No allocation order",
-      "status": "Plan",
-      "eff": ""
-    },
-    {
-      "key": "20260811-AS-L 3-PLAN",
-      "date": "8/11/2026",
-      "shift": "AS",
-      "cluster": "CM6",
-      "group": "TBR L",
-      "mc": "L 3",
-      "jenis": "GF",
-      "plan": "15:00",
-      "doff": "",
-      "start": "",
-      "code": "",
-      "std": "35.8",
-      "dt_mc": "",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
-      "overlap": "",
-      "ket": "Doff",
       "status": "Plan",
       "eff": ""
     },
@@ -2250,7 +2250,7 @@
       "dt_proc": "20",
       "loss": "-6.5",
       "pct_loss": "-1.4%",
-      "overlap": "225",
+      "overlap": "35",
       "ket": "Doff + HB (11)",
       "status": "Actual",
       "eff": "-48.6%"
@@ -2272,7 +2272,7 @@
       "dt_proc": "30",
       "loss": "-16.5",
       "pct_loss": "-3.4%",
-      "overlap": "290",
+      "overlap": "10",
       "ket": "Doff + HB (15)",
       "status": "Actual",
       "eff": "-123.0%"
@@ -2294,7 +2294,7 @@
       "dt_proc": "30",
       "loss": "-16.5",
       "pct_loss": "-3.4%",
-      "overlap": "",
+      "overlap": "115",
       "ket": "Doff + HB (18)",
       "status": "Actual",
       "eff": "-123.0%"
@@ -2316,7 +2316,7 @@
       "dt_proc": "95",
       "loss": "-12.3",
       "pct_loss": "-2.6%",
-      "overlap": "160",
+      "overlap": "80",
       "ket": "Doff + GF + G. Tensioner lmf",
       "status": "Actual",
       "eff": "-14.8%"
@@ -2338,7 +2338,7 @@
       "dt_proc": "",
       "loss": "",
       "pct_loss": "",
-      "overlap": "",
+      "overlap": "20",
       "ket": "Stop akhir (belum di doff)",
       "status": "Actual",
       "eff": ""
@@ -2360,7 +2360,7 @@
       "dt_proc": "20",
       "loss": "15.8",
       "pct_loss": "3.3%",
-      "overlap": "40",
+      "overlap": "215",
       "ket": "D+Gf+c",
       "status": "Actual",
       "eff": "44.1%"
@@ -2382,7 +2382,7 @@
       "dt_proc": "20",
       "loss": "15.8",
       "pct_loss": "3.3%",
-      "overlap": "5",
+      "overlap": "190",
       "ket": "D+Gf+c+Cleaning mesin",
       "status": "Actual",
       "eff": "44.1%"
@@ -2404,7 +2404,7 @@
       "dt_proc": "140",
       "loss": "-104.2",
       "pct_loss": "-21.7%",
-      "overlap": "120",
+      "overlap": "305",
       "ket": "D+Gf+c+tunggu feeding rewinding(jalan1/2Lenght)+patroling mesin",
       "status": "Actual",
       "eff": "-291.2%"
