@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T14:47:30.742Z",
+  "updatedAt": "2026-08-14T14:52:32.251Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -811,7 +811,7 @@
           "loss": "-34.2",
           "pct_loss": "-7.1%",
           "overlap": "115",
-          "ket": "",
+          "ket": "D+gf+breefing awal",
           "status": "Actual",
           "eff": "-95.6%"
         },
@@ -833,7 +833,7 @@
           "loss": "-14.2",
           "pct_loss": "-3.0%",
           "overlap": "",
-          "ket": "",
+          "ket": "D+ GF + c",
           "status": "Actual",
           "eff": "-39.7%"
         },
@@ -847,17 +847,17 @@
           "jenis": "GF",
           "plan": "20:00",
           "doff": "20:00",
-          "start": "07:12",
+          "start": "20:30",
           "code": "",
           "std": "35.8",
-          "dt_mc": "28032",
-          "dt_proc": "28032",
-          "loss": "-27996.2",
-          "pct_loss": "-5832.5%",
+          "dt_mc": "30",
+          "dt_proc": "30",
+          "loss": "5.8",
+          "pct_loss": "1.2%",
           "overlap": "",
-          "ket": "",
+          "ket": "D+gf+c+Dari L12",
           "status": "Actual",
-          "eff": "-78232.9%"
+          "eff": "16.2%"
         },
         {
           "key": "20260814-AS-L 5-PLAN",
@@ -2251,7 +2251,7 @@
       "loss": "-34.2",
       "pct_loss": "-7.1%",
       "overlap": "115",
-      "ket": "",
+      "ket": "D+gf+breefing awal",
       "status": "Actual",
       "eff": "-95.6%"
     },
@@ -2273,7 +2273,7 @@
       "loss": "-14.2",
       "pct_loss": "-3.0%",
       "overlap": "",
-      "ket": "",
+      "ket": "D+ GF + c",
       "status": "Actual",
       "eff": "-39.7%"
     },
@@ -2287,17 +2287,17 @@
       "jenis": "GF",
       "plan": "20:00",
       "doff": "20:00",
-      "start": "07:12",
+      "start": "20:30",
       "code": "",
       "std": "35.8",
-      "dt_mc": "28032",
-      "dt_proc": "28032",
-      "loss": "-27996.2",
-      "pct_loss": "-5832.5%",
+      "dt_mc": "30",
+      "dt_proc": "30",
+      "loss": "5.8",
+      "pct_loss": "1.2%",
       "overlap": "",
-      "ket": "",
+      "ket": "D+gf+c+Dari L12",
       "status": "Actual",
-      "eff": "-78232.9%"
+      "eff": "16.2%"
     },
     {
       "key": "20260814-AS-L 5-PLAN",
