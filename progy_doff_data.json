@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T03:56:58.173Z",
+  "updatedAt": "2026-08-14T04:02:01.024Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -186,7 +186,7 @@
           "dt_proc": "60",
           "loss": "-24.2",
           "pct_loss": "-5.0%",
-          "overlap": "",
+          "overlap": "255",
           "ket": "D + GF + C + TF",
           "status": "Actual",
           "eff": "-67.7%"
@@ -200,8 +200,8 @@
           "mc": "DL",
           "jenis": "GF",
           "plan": "06:15",
-          "doff": "",
-          "start": "",
+          "doff": "07:15",
+          "start": "10:45",
           "code": "",
           "std": "37.1",
           "dt_mc": "",
@@ -209,8 +209,8 @@
           "loss": "",
           "pct_loss": "",
           "overlap": "",
-          "ket": "Doff",
-          "status": "Plan",
+          "ket": "D + GF + C + Dahulukan L17 + Pergantian istirahat",
+          "status": "Actual",
           "eff": ""
         },
         {
@@ -1104,7 +1104,7 @@
       "dt_proc": "60",
       "loss": "-24.2",
       "pct_loss": "-5.0%",
-      "overlap": "",
+      "overlap": "255",
       "ket": "D + GF + C + TF",
       "status": "Actual",
       "eff": "-67.7%"
@@ -1118,8 +1118,8 @@
       "mc": "DL",
       "jenis": "GF",
       "plan": "06:15",
-      "doff": "",
-      "start": "",
+      "doff": "07:15",
+      "start": "10:45",
       "code": "",
       "std": "37.1",
       "dt_mc": "",
@@ -1127,8 +1127,8 @@
       "loss": "",
       "pct_loss": "",
       "overlap": "",
-      "ket": "Doff",
-      "status": "Plan",
+      "ket": "D + GF + C + Dahulukan L17 + Pergantian istirahat",
+      "status": "Actual",
       "eff": ""
     },
     {
