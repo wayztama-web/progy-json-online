@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T17:27:41.871Z",
+  "updatedAt": "2026-08-14T17:32:39.031Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -562,18 +562,18 @@
           "mc": "L 11",
           "jenis": "GF",
           "plan": "22:00",
-          "doff": "",
-          "start": "",
+          "doff": "22:00",
+          "start": "00:10",
           "code": "",
           "std": "35.8",
-          "dt_mc": "",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
-          "overlap": "",
-          "ket": "",
-          "status": "Plan",
-          "eff": ""
+          "dt_mc": "130",
+          "dt_proc": "60",
+          "loss": "-24.2",
+          "pct_loss": "-5.0%",
+          "overlap": "70",
+          "ket": "GF + dari no.10 + TF",
+          "status": "Actual",
+          "eff": "-67.7%"
         }
       ]
     }
@@ -1116,18 +1116,18 @@
       "mc": "L 11",
       "jenis": "GF",
       "plan": "22:00",
-      "doff": "",
-      "start": "",
+      "doff": "22:00",
+      "start": "00:10",
       "code": "",
       "std": "35.8",
-      "dt_mc": "",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
-      "overlap": "",
-      "ket": "",
-      "status": "Plan",
-      "eff": ""
+      "dt_mc": "130",
+      "dt_proc": "60",
+      "loss": "-24.2",
+      "pct_loss": "-5.0%",
+      "overlap": "70",
+      "ket": "GF + dari no.10 + TF",
+      "status": "Actual",
+      "eff": "-67.7%"
     }
   ]
 }
