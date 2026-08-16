@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T10:09:34.515Z",
+  "updatedAt": "2026-08-16T10:14:31.177Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -755,7 +755,30 @@
             "eff": ""
           }
         ],
-        "cm6": []
+        "cm6": [
+          {
+            "key": "20260816-AS-L 10-PLAN",
+            "date": "8/16/2026",
+            "shift": "AS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 10",
+            "jenis": "GF",
+            "plan": "17:00",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          }
+        ]
       },
       "NS": {
         "cm3": [
@@ -10888,7 +10911,30 @@
           "eff": ""
         }
       ],
-      "cm6": []
+      "cm6": [
+        {
+          "key": "20260816-AS-L 10-PLAN",
+          "date": "8/16/2026",
+          "shift": "AS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 10",
+          "jenis": "GF",
+          "plan": "17:00",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        }
+      ]
     },
     "NS": {
       "cm3": [
@@ -11989,6 +12035,28 @@
       "start": "",
       "code": "",
       "std": "13.5",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20260816-AS-L 10-PLAN",
+      "date": "8/16/2026",
+      "shift": "AS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 10",
+      "jenis": "GF",
+      "plan": "17:00",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "35.8",
       "dt_mc": "",
       "dt_proc": "",
       "loss": "",
