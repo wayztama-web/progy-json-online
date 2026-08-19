@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T20:38:41.170Z",
+  "updatedAt": "2026-08-19T20:43:32.189Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -215,8 +215,8 @@
             "mc": "DT 12",
             "jenis": "D",
             "plan": "03:10",
-            "doff": "",
-            "start": "",
+            "doff": "03:10",
+            "start": "03:40",
             "code": "",
             "std": "13.5",
             "dt_mc": "",
@@ -224,8 +224,8 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "",
-            "status": "Plan",
+            "ket": "Doff + C + Hb + ganti tensioner lmf",
+            "status": "Actual",
             "eff": ""
           },
           {
@@ -8493,8 +8493,8 @@
           "mc": "DT 12",
           "jenis": "D",
           "plan": "03:10",
-          "doff": "",
-          "start": "",
+          "doff": "03:10",
+          "start": "03:40",
           "code": "",
           "std": "13.5",
           "dt_mc": "",
@@ -8502,8 +8502,8 @@
           "loss": "",
           "pct_loss": "",
           "overlap": "",
-          "ket": "",
-          "status": "Plan",
+          "ket": "Doff + C + Hb + ganti tensioner lmf",
+          "status": "Actual",
           "eff": ""
         },
         {
@@ -9093,8 +9093,8 @@
       "mc": "DT 12",
       "jenis": "D",
       "plan": "03:10",
-      "doff": "",
-      "start": "",
+      "doff": "03:10",
+      "start": "03:40",
       "code": "",
       "std": "13.5",
       "dt_mc": "",
@@ -9102,8 +9102,8 @@
       "loss": "",
       "pct_loss": "",
       "overlap": "",
-      "ket": "",
-      "status": "Plan",
+      "ket": "Doff + C + Hb + ganti tensioner lmf",
+      "status": "Actual",
       "eff": ""
     },
     {
