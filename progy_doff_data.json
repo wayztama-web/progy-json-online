@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T23:23:36.235Z",
+  "updatedAt": "2026-08-19T23:28:39.361Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -21,7 +21,52 @@
   "dates": {
     "2026-08-20": {
       "MS": {
-        "cm3": [],
+        "cm3": [
+          {
+            "key": "20260820-MS-DT 9-PLAN",
+            "date": "8/20/2026",
+            "shift": "MS",
+            "cluster": "CM3",
+            "group": "DT New",
+            "mc": "DT 9",
+            "jenis": "GF",
+            "plan": "09:45",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "82.7",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "GF",
+            "status": "Plan",
+            "eff": ""
+          },
+          {
+            "key": "20260820-MS-DT 10-PLAN",
+            "date": "8/20/2026",
+            "shift": "MS",
+            "cluster": "CM3",
+            "group": "DT New",
+            "mc": "DT 10",
+            "jenis": "D",
+            "plan": "11:00",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "13.5",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "D 2",
+            "status": "Plan",
+            "eff": ""
+          }
+        ],
         "cm6": []
       },
       "AS": {
@@ -8321,7 +8366,52 @@
   "shiftSet": "MS",
   "shifts": {
     "MS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20260820-MS-DT 9-PLAN",
+          "date": "8/20/2026",
+          "shift": "MS",
+          "cluster": "CM3",
+          "group": "DT New",
+          "mc": "DT 9",
+          "jenis": "GF",
+          "plan": "09:45",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "82.7",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "GF",
+          "status": "Plan",
+          "eff": ""
+        },
+        {
+          "key": "20260820-MS-DT 10-PLAN",
+          "date": "8/20/2026",
+          "shift": "MS",
+          "cluster": "CM3",
+          "group": "DT New",
+          "mc": "DT 10",
+          "jenis": "D",
+          "plan": "11:00",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "13.5",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "D 2",
+          "status": "Plan",
+          "eff": ""
+        }
+      ],
       "cm6": []
     },
     "AS": {
@@ -8952,6 +9042,50 @@
     }
   },
   "rows": [
+    {
+      "key": "20260820-MS-DT 9-PLAN",
+      "date": "8/20/2026",
+      "shift": "MS",
+      "cluster": "CM3",
+      "group": "DT New",
+      "mc": "DT 9",
+      "jenis": "GF",
+      "plan": "09:45",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "82.7",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "GF",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20260820-MS-DT 10-PLAN",
+      "date": "8/20/2026",
+      "shift": "MS",
+      "cluster": "CM3",
+      "group": "DT New",
+      "mc": "DT 10",
+      "jenis": "D",
+      "plan": "11:00",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "13.5",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "D 2",
+      "status": "Plan",
+      "eff": ""
+    },
     {
       "key": "20260820-NS-HE 8-PLAN",
       "date": "8/20/2026",
