@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T22:14:37.421Z",
+  "updatedAt": "2026-08-20T22:19:34.415Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -224,7 +224,7 @@
             "dt_proc": "55",
             "loss": "27.7",
             "pct_loss": "5.8%",
-            "overlap": "",
+            "overlap": "160",
             "ket": "doff + GF",
             "status": "Actual",
             "eff": "33.5%"
@@ -260,8 +260,8 @@
             "mc": "DT 12",
             "jenis": "D",
             "plan": "05:00",
-            "doff": "",
-            "start": "",
+            "doff": "05:00",
+            "start": "05:15",
             "code": "",
             "std": "13.5",
             "dt_mc": "",
@@ -269,8 +269,8 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "",
-            "status": "Plan",
+            "ket": "doff + crealing + handle breakage",
+            "status": "Actual",
             "eff": ""
           },
           {
@@ -8327,7 +8327,7 @@
           "dt_proc": "55",
           "loss": "27.7",
           "pct_loss": "5.8%",
-          "overlap": "",
+          "overlap": "160",
           "ket": "doff + GF",
           "status": "Actual",
           "eff": "33.5%"
@@ -8363,8 +8363,8 @@
           "mc": "DT 12",
           "jenis": "D",
           "plan": "05:00",
-          "doff": "",
-          "start": "",
+          "doff": "05:00",
+          "start": "05:15",
           "code": "",
           "std": "13.5",
           "dt_mc": "",
@@ -8372,8 +8372,8 @@
           "loss": "",
           "pct_loss": "",
           "overlap": "",
-          "ket": "",
-          "status": "Plan",
+          "ket": "doff + crealing + handle breakage",
+          "status": "Actual",
           "eff": ""
         },
         {
@@ -8861,7 +8861,7 @@
       "dt_proc": "55",
       "loss": "27.7",
       "pct_loss": "5.8%",
-      "overlap": "",
+      "overlap": "160",
       "ket": "doff + GF",
       "status": "Actual",
       "eff": "33.5%"
@@ -8897,8 +8897,8 @@
       "mc": "DT 12",
       "jenis": "D",
       "plan": "05:00",
-      "doff": "",
-      "start": "",
+      "doff": "05:00",
+      "start": "05:15",
       "code": "",
       "std": "13.5",
       "dt_mc": "",
@@ -8906,8 +8906,8 @@
       "loss": "",
       "pct_loss": "",
       "overlap": "",
-      "ket": "",
-      "status": "Plan",
+      "ket": "doff + crealing + handle breakage",
+      "status": "Actual",
       "eff": ""
     },
     {
