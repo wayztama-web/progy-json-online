@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T06:39:56.117Z",
+  "updatedAt": "2026-08-21T06:44:48.293Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -569,7 +569,7 @@
             "dt_proc": "",
             "loss": "",
             "pct_loss": "",
-            "overlap": "",
+            "overlap": "160",
             "ket": "D + GF + C",
             "status": "Actual",
             "eff": ""
@@ -583,8 +583,8 @@
             "mc": "L 10",
             "jenis": "GF",
             "plan": "12:30",
-            "doff": "",
-            "start": "",
+            "doff": "11:30",
+            "start": "13:30",
             "code": "",
             "std": "35.8",
             "dt_mc": "",
@@ -592,8 +592,8 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "",
-            "status": "Plan",
+            "ket": "D + GF + C + sholat jum'at + TB + cleaning MC",
+            "status": "Actual",
             "eff": ""
           }
         ]
@@ -9246,7 +9246,7 @@
           "dt_proc": "",
           "loss": "",
           "pct_loss": "",
-          "overlap": "",
+          "overlap": "160",
           "ket": "D + GF + C",
           "status": "Actual",
           "eff": ""
@@ -9260,8 +9260,8 @@
           "mc": "L 10",
           "jenis": "GF",
           "plan": "12:30",
-          "doff": "",
-          "start": "",
+          "doff": "11:30",
+          "start": "13:30",
           "code": "",
           "std": "35.8",
           "dt_mc": "",
@@ -9269,8 +9269,8 @@
           "loss": "",
           "pct_loss": "",
           "overlap": "",
-          "ket": "",
-          "status": "Plan",
+          "ket": "D + GF + C + sholat jum'at + TB + cleaning MC",
+          "status": "Actual",
           "eff": ""
         }
       ]
@@ -10361,7 +10361,7 @@
       "dt_proc": "",
       "loss": "",
       "pct_loss": "",
-      "overlap": "",
+      "overlap": "160",
       "ket": "D + GF + C",
       "status": "Actual",
       "eff": ""
@@ -10375,8 +10375,8 @@
       "mc": "L 10",
       "jenis": "GF",
       "plan": "12:30",
-      "doff": "",
-      "start": "",
+      "doff": "11:30",
+      "start": "13:30",
       "code": "",
       "std": "35.8",
       "dt_mc": "",
@@ -10384,8 +10384,8 @@
       "loss": "",
       "pct_loss": "",
       "overlap": "",
-      "ket": "",
-      "status": "Plan",
+      "ket": "D + GF + C + sholat jum'at + TB + cleaning MC",
+      "status": "Actual",
       "eff": ""
     },
     {
