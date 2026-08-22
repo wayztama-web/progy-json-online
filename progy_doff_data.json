@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T20:11:06.664Z",
+  "updatedAt": "2026-08-22T20:16:10.941Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -489,7 +489,7 @@
             "dt_proc": "35",
             "loss": "0.8",
             "pct_loss": "0.2%",
-            "overlap": "",
+            "overlap": "200",
             "ket": "D + GF + C",
             "status": "Actual",
             "eff": "2.2%"
@@ -525,8 +525,8 @@
             "mc": "L 10",
             "jenis": "GF",
             "plan": "02:30",
-            "doff": "",
-            "start": "",
+            "doff": "02:40",
+            "start": "03:10",
             "code": "",
             "std": "35.8",
             "dt_mc": "",
@@ -534,8 +534,8 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "Doff",
-            "status": "Plan",
+            "ket": "D + GF + C",
+            "status": "Actual",
             "eff": ""
           }
         ]
@@ -9251,7 +9251,7 @@
           "dt_proc": "35",
           "loss": "0.8",
           "pct_loss": "0.2%",
-          "overlap": "",
+          "overlap": "200",
           "ket": "D + GF + C",
           "status": "Actual",
           "eff": "2.2%"
@@ -9287,8 +9287,8 @@
           "mc": "L 10",
           "jenis": "GF",
           "plan": "02:30",
-          "doff": "",
-          "start": "",
+          "doff": "02:40",
+          "start": "03:10",
           "code": "",
           "std": "35.8",
           "dt_mc": "",
@@ -9296,8 +9296,8 @@
           "loss": "",
           "pct_loss": "",
           "overlap": "",
-          "ket": "Doff",
-          "status": "Plan",
+          "ket": "D + GF + C",
+          "status": "Actual",
           "eff": ""
         }
       ]
@@ -9761,7 +9761,7 @@
       "dt_proc": "35",
       "loss": "0.8",
       "pct_loss": "0.2%",
-      "overlap": "",
+      "overlap": "200",
       "ket": "D + GF + C",
       "status": "Actual",
       "eff": "2.2%"
@@ -9797,8 +9797,8 @@
       "mc": "L 10",
       "jenis": "GF",
       "plan": "02:30",
-      "doff": "",
-      "start": "",
+      "doff": "02:40",
+      "start": "03:10",
       "code": "",
       "std": "35.8",
       "dt_mc": "",
@@ -9806,8 +9806,8 @@
       "loss": "",
       "pct_loss": "",
       "overlap": "",
-      "ket": "Doff",
-      "status": "Plan",
+      "ket": "D + GF + C",
+      "status": "Actual",
       "eff": ""
     }
   ]
