@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T05:41:30.538Z",
+  "updatedAt": "2026-08-23T05:46:41.166Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -241,6 +241,28 @@
             "ket": "D + GF + R",
             "status": "Actual",
             "eff": ""
+          },
+          {
+            "key": "20260823-MS-L 16-PLAN",
+            "date": "8/23/2026",
+            "shift": "MS",
+            "cluster": "CM3",
+            "group": "NL",
+            "mc": "L 16",
+            "jenis": "GF",
+            "plan": "12:00",
+            "doff": "12:00",
+            "start": "12:40",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "40",
+            "dt_proc": "40",
+            "loss": "-4.2",
+            "pct_loss": "-0.9%",
+            "overlap": "",
+            "ket": "D + GF + R",
+            "status": "Actual",
+            "eff": "-11.8%"
           }
         ],
         "cm6": [
@@ -9423,6 +9445,28 @@
           "ket": "D + GF + R",
           "status": "Actual",
           "eff": ""
+        },
+        {
+          "key": "20260823-MS-L 16-PLAN",
+          "date": "8/23/2026",
+          "shift": "MS",
+          "cluster": "CM3",
+          "group": "NL",
+          "mc": "L 16",
+          "jenis": "GF",
+          "plan": "12:00",
+          "doff": "12:00",
+          "start": "12:40",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "40",
+          "dt_proc": "40",
+          "loss": "-4.2",
+          "pct_loss": "-0.9%",
+          "overlap": "",
+          "ket": "D + GF + R",
+          "status": "Actual",
+          "eff": "-11.8%"
         }
       ],
       "cm6": [
@@ -10363,6 +10407,28 @@
       "ket": "D + GF + R",
       "status": "Actual",
       "eff": ""
+    },
+    {
+      "key": "20260823-MS-L 16-PLAN",
+      "date": "8/23/2026",
+      "shift": "MS",
+      "cluster": "CM3",
+      "group": "NL",
+      "mc": "L 16",
+      "jenis": "GF",
+      "plan": "12:00",
+      "doff": "12:00",
+      "start": "12:40",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "40",
+      "dt_proc": "40",
+      "loss": "-4.2",
+      "pct_loss": "-0.9%",
+      "overlap": "",
+      "ket": "D + GF + R",
+      "status": "Actual",
+      "eff": "-11.8%"
     },
     {
       "key": "20260823-MS-Delta 12-PLAN",
