@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T23:39:34.611Z",
+  "updatedAt": "2026-08-25T23:41:46.505Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -22,6 +22,28 @@
     "2026-08-26": {
       "MS": {
         "cm3": [
+          {
+            "key": "20260826-MS-HE 2-PLAN",
+            "date": "8/26/2026",
+            "shift": "MS",
+            "cluster": "CM3",
+            "group": "Alidra Heli",
+            "mc": "HE 2",
+            "jenis": "GF",
+            "plan": "06:00",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "97.3",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "Gp 235 B ke 235 W",
+            "status": "Plan",
+            "eff": ""
+          },
           {
             "key": "20260826-MS-HE 3-PLAN",
             "date": "8/26/2026",
@@ -7549,6 +7571,28 @@
     "MS": {
       "cm3": [
         {
+          "key": "20260826-MS-HE 2-PLAN",
+          "date": "8/26/2026",
+          "shift": "MS",
+          "cluster": "CM3",
+          "group": "Alidra Heli",
+          "mc": "HE 2",
+          "jenis": "GF",
+          "plan": "06:00",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "97.3",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "Gp 235 B ke 235 W",
+          "status": "Plan",
+          "eff": ""
+        },
+        {
           "key": "20260826-MS-HE 3-PLAN",
           "date": "8/26/2026",
           "shift": "MS",
@@ -8422,6 +8466,28 @@
     }
   },
   "rows": [
+    {
+      "key": "20260826-MS-HE 2-PLAN",
+      "date": "8/26/2026",
+      "shift": "MS",
+      "cluster": "CM3",
+      "group": "Alidra Heli",
+      "mc": "HE 2",
+      "jenis": "GF",
+      "plan": "06:00",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "97.3",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "Gp 235 B ke 235 W",
+      "status": "Plan",
+      "eff": ""
+    },
     {
       "key": "20260826-MS-HE 3-PLAN",
       "date": "8/26/2026",
