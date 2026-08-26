@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T13:10:26.944Z",
+  "updatedAt": "2026-08-26T13:15:17.277Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1059,7 +1059,7 @@
             "dt_proc": "",
             "loss": "",
             "pct_loss": "",
-            "overlap": "",
+            "overlap": "110",
             "ket": "D+GF+C",
             "status": "Actual",
             "eff": ""
@@ -1073,8 +1073,8 @@
             "mc": "L 10",
             "jenis": "GF",
             "plan": "19:00",
-            "doff": "",
-            "start": "",
+            "doff": "19:50",
+            "start": "20:10",
             "code": "",
             "std": "35.8",
             "dt_mc": "",
@@ -1082,8 +1082,8 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "",
-            "status": "Plan",
+            "ket": "D+GF+C",
+            "status": "Actual",
             "eff": ""
           }
         ]
@@ -9247,7 +9247,7 @@
           "dt_proc": "",
           "loss": "",
           "pct_loss": "",
-          "overlap": "",
+          "overlap": "110",
           "ket": "D+GF+C",
           "status": "Actual",
           "eff": ""
@@ -9261,8 +9261,8 @@
           "mc": "L 10",
           "jenis": "GF",
           "plan": "19:00",
-          "doff": "",
-          "start": "",
+          "doff": "19:50",
+          "start": "20:10",
           "code": "",
           "std": "35.8",
           "dt_mc": "",
@@ -9270,8 +9270,8 @@
           "loss": "",
           "pct_loss": "",
           "overlap": "",
-          "ket": "",
-          "status": "Plan",
+          "ket": "D+GF+C",
+          "status": "Actual",
           "eff": ""
         }
       ]
@@ -10775,7 +10775,7 @@
       "dt_proc": "",
       "loss": "",
       "pct_loss": "",
-      "overlap": "",
+      "overlap": "110",
       "ket": "D+GF+C",
       "status": "Actual",
       "eff": ""
@@ -10789,8 +10789,8 @@
       "mc": "L 10",
       "jenis": "GF",
       "plan": "19:00",
-      "doff": "",
-      "start": "",
+      "doff": "19:50",
+      "start": "20:10",
       "code": "",
       "std": "35.8",
       "dt_mc": "",
@@ -10798,8 +10798,8 @@
       "loss": "",
       "pct_loss": "",
       "overlap": "",
-      "ket": "",
-      "status": "Plan",
+      "ket": "D+GF+C",
+      "status": "Actual",
       "eff": ""
     },
     {
