@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T23:20:19.235Z",
+  "updatedAt": "2026-08-26T23:25:23.076Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -21,7 +21,52 @@
   "dates": {
     "2026-08-27": {
       "MS": {
-        "cm3": [],
+        "cm3": [
+          {
+            "key": "20260827-MS-L 16-PLAN",
+            "date": "8/27/2026",
+            "shift": "MS",
+            "cluster": "CM3",
+            "group": "NL",
+            "mc": "L 16",
+            "jenis": "GF",
+            "plan": "06:15",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          },
+          {
+            "key": "20260827-MS-L 15-PLAN",
+            "date": "8/27/2026",
+            "shift": "MS",
+            "cluster": "CM3",
+            "group": "NL",
+            "mc": "L 15",
+            "jenis": "GF",
+            "plan": "12:00",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          }
+        ],
         "cm6": [
           {
             "key": "20260827-MS-L 7-PLAN",
@@ -7370,7 +7415,52 @@
   "shiftSet": "MS",
   "shifts": {
     "MS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20260827-MS-L 16-PLAN",
+          "date": "8/27/2026",
+          "shift": "MS",
+          "cluster": "CM3",
+          "group": "NL",
+          "mc": "L 16",
+          "jenis": "GF",
+          "plan": "06:15",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        },
+        {
+          "key": "20260827-MS-L 15-PLAN",
+          "date": "8/27/2026",
+          "shift": "MS",
+          "cluster": "CM3",
+          "group": "NL",
+          "mc": "L 15",
+          "jenis": "GF",
+          "plan": "12:00",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        }
+      ],
       "cm6": [
         {
           "key": "20260827-MS-L 7-PLAN",
@@ -7892,6 +7982,50 @@
     }
   },
   "rows": [
+    {
+      "key": "20260827-MS-L 16-PLAN",
+      "date": "8/27/2026",
+      "shift": "MS",
+      "cluster": "CM3",
+      "group": "NL",
+      "mc": "L 16",
+      "jenis": "GF",
+      "plan": "06:15",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20260827-MS-L 15-PLAN",
+      "date": "8/27/2026",
+      "shift": "MS",
+      "cluster": "CM3",
+      "group": "NL",
+      "mc": "L 15",
+      "jenis": "GF",
+      "plan": "12:00",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
     {
       "key": "20260827-MS-L 7-PLAN",
       "date": "8/27/2026",
