@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T15:11:05.924Z",
+  "updatedAt": "2026-08-27T15:16:16.498Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -30,7 +30,52 @@
       },
       "NS": {
         "cm3": [],
-        "cm6": []
+        "cm6": [
+          {
+            "key": "20260828-NS-L 5-PLAN",
+            "date": "8/28/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 5",
+            "jenis": "GF",
+            "plan": "22:50",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          },
+          {
+            "key": "20260828-NS-L 4-PLAN",
+            "date": "8/28/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 4",
+            "jenis": "GF",
+            "plan": "03:50",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          }
+        ]
       }
     },
     "2026-08-27": {
@@ -6628,8 +6673,98 @@
     },
     "NS": {
       "cm3": [],
-      "cm6": []
+      "cm6": [
+        {
+          "key": "20260828-NS-L 5-PLAN",
+          "date": "8/28/2026",
+          "shift": "NS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 5",
+          "jenis": "GF",
+          "plan": "22:50",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        },
+        {
+          "key": "20260828-NS-L 4-PLAN",
+          "date": "8/28/2026",
+          "shift": "NS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 4",
+          "jenis": "GF",
+          "plan": "03:50",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        }
+      ]
     }
   },
-  "rows": []
+  "rows": [
+    {
+      "key": "20260828-NS-L 5-PLAN",
+      "date": "8/28/2026",
+      "shift": "NS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 5",
+      "jenis": "GF",
+      "plan": "22:50",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20260828-NS-L 4-PLAN",
+      "date": "8/28/2026",
+      "shift": "NS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 4",
+      "jenis": "GF",
+      "plan": "03:50",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    }
+  ]
 }
