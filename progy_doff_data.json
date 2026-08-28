@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T16:42:10.422Z",
+  "updatedAt": "2026-08-28T16:47:16.538Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -4075,18 +4075,18 @@
             "mc": "HE 5",
             "jenis": "D",
             "plan": "14:10",
-            "doff": "14:10",
+            "doff": "Tidak ada data",
             "start": "15:25",
             "code": "",
             "std": "17.8",
-            "dt_mc": "75",
-            "dt_proc": "75",
-            "loss": "-57.2",
-            "pct_loss": "-11.9%",
+            "dt_mc": "#VALUE!",
+            "dt_proc": "#VALUE!",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "Doff awal + C + Hb + briefing",
             "status": "Actual",
-            "eff": "-321.9%"
+            "eff": "#VALUE!"
           },
           {
             "key": "20260826-AS-HE 8-PLAN",
