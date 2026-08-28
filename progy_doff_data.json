@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T14:22:16.778Z",
+  "updatedAt": "2026-08-28T14:27:09.714Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -840,7 +840,7 @@
             "loss": "-71.5",
             "pct_loss": "-14.9%",
             "overlap": "100",
-            "ket": "Criling hb 16 patroling awal",
+            "ket": "Doff Criling hb 16 patroling awal",
             "status": "Actual",
             "eff": "-531.8%"
           },
@@ -8962,7 +8962,7 @@
           "loss": "-71.5",
           "pct_loss": "-14.9%",
           "overlap": "100",
-          "ket": "Criling hb 16 patroling awal",
+          "ket": "Doff Criling hb 16 patroling awal",
           "status": "Actual",
           "eff": "-531.8%"
         },
@@ -10490,7 +10490,7 @@
       "loss": "-71.5",
       "pct_loss": "-14.9%",
       "overlap": "100",
-      "ket": "Criling hb 16 patroling awal",
+      "ket": "Doff Criling hb 16 patroling awal",
       "status": "Actual",
       "eff": "-531.8%"
     },
