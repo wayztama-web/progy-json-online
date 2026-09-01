@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T19:15:51.288Z",
+  "updatedAt": "2026-09-01T19:21:02.138Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -238,8 +238,8 @@
             "mc": "L 15",
             "jenis": "GF",
             "plan": "03:00",
-            "doff": "",
-            "start": "",
+            "doff": "01:00",
+            "start": "01:40",
             "code": "",
             "std": "35.8",
             "dt_mc": "",
@@ -247,8 +247,8 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "",
-            "status": "Plan",
+            "ket": "D + GF",
+            "status": "Actual",
             "eff": ""
           }
         ],
@@ -9753,8 +9753,8 @@
           "mc": "L 15",
           "jenis": "GF",
           "plan": "03:00",
-          "doff": "",
-          "start": "",
+          "doff": "01:00",
+          "start": "01:40",
           "code": "",
           "std": "35.8",
           "dt_mc": "",
@@ -9762,8 +9762,8 @@
           "loss": "",
           "pct_loss": "",
           "overlap": "",
-          "ket": "",
-          "status": "Plan",
+          "ket": "D + GF",
+          "status": "Actual",
           "eff": ""
         }
       ],
@@ -10177,8 +10177,8 @@
       "mc": "L 15",
       "jenis": "GF",
       "plan": "03:00",
-      "doff": "",
-      "start": "",
+      "doff": "01:00",
+      "start": "01:40",
       "code": "",
       "std": "35.8",
       "dt_mc": "",
@@ -10186,8 +10186,8 @@
       "loss": "",
       "pct_loss": "",
       "overlap": "",
-      "ket": "",
-      "status": "Plan",
+      "ket": "D + GF",
+      "status": "Actual",
       "eff": ""
     },
     {
