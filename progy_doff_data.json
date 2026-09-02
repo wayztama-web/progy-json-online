@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T13:06:36.013Z",
+  "updatedAt": "2026-09-02T13:11:31.462Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -863,6 +863,28 @@
             "ket": "D + GF + G TRAV + TB + R",
             "status": "Actual",
             "eff": "-67.7%"
+          },
+          {
+            "key": "20260902-AS-L 18-PLAN",
+            "date": "9/2/2026",
+            "shift": "AS",
+            "cluster": "CM3",
+            "group": "NL",
+            "mc": "L 18",
+            "jenis": "GF",
+            "plan": "19:30",
+            "doff": "19:30",
+            "start": "20:00",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "30",
+            "dt_proc": "30",
+            "loss": "5.8",
+            "pct_loss": "1.2%",
+            "overlap": "",
+            "ket": "D + GF + G TRAV + R",
+            "status": "Actual",
+            "eff": "16.2%"
           }
         ],
         "cm6": [
@@ -11349,6 +11371,28 @@
           "ket": "D + GF + G TRAV + TB + R",
           "status": "Actual",
           "eff": "-67.7%"
+        },
+        {
+          "key": "20260902-AS-L 18-PLAN",
+          "date": "9/2/2026",
+          "shift": "AS",
+          "cluster": "CM3",
+          "group": "NL",
+          "mc": "L 18",
+          "jenis": "GF",
+          "plan": "19:30",
+          "doff": "19:30",
+          "start": "20:00",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "30",
+          "dt_proc": "30",
+          "loss": "5.8",
+          "pct_loss": "1.2%",
+          "overlap": "",
+          "ket": "D + GF + G TRAV + R",
+          "status": "Actual",
+          "eff": "16.2%"
         }
       ],
       "cm6": [
@@ -12747,6 +12791,28 @@
       "ket": "D + GF + G TRAV + TB + R",
       "status": "Actual",
       "eff": "-67.7%"
+    },
+    {
+      "key": "20260902-AS-L 18-PLAN",
+      "date": "9/2/2026",
+      "shift": "AS",
+      "cluster": "CM3",
+      "group": "NL",
+      "mc": "L 18",
+      "jenis": "GF",
+      "plan": "19:30",
+      "doff": "19:30",
+      "start": "20:00",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "30",
+      "dt_proc": "30",
+      "loss": "5.8",
+      "pct_loss": "1.2%",
+      "overlap": "",
+      "ket": "D + GF + G TRAV + R",
+      "status": "Actual",
+      "eff": "16.2%"
     },
     {
       "key": "20260902-AS-DT 5-PLAN",
