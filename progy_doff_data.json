@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-03T07:02:11.307Z",
-  "source": "Wahyu S",
+  "updatedAt": "2026-09-03T07:07:26.749Z",
+  "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
-  "si": "Wahyu S",
+  "si": "Wirawan",
   "siCell": "BV5",
-  "siValue": "Wahyu S",
+  "siValue": "Wirawan",
   "siReadMode": "BV5 read before date and shift history update",
   "historyDays": 7,
   "latestDate": "2026-09-03",
@@ -512,7 +512,30 @@
       },
       "AS": {
         "cm3": [],
-        "cm6": []
+        "cm6": [
+          {
+            "key": "20260903-AS-DT 1-PLAN",
+            "date": "9/3/2026",
+            "shift": "AS",
+            "cluster": "CM6",
+            "group": "TBR DT",
+            "mc": "DT 1",
+            "jenis": "D",
+            "plan": "20:05",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "13.5",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "Doff",
+            "status": "Plan",
+            "eff": ""
+          }
+        ]
       },
       "NS": {
         "cm3": [
@@ -10600,7 +10623,30 @@
     },
     "AS": {
       "cm3": [],
-      "cm6": []
+      "cm6": [
+        {
+          "key": "20260903-AS-DT 1-PLAN",
+          "date": "9/3/2026",
+          "shift": "AS",
+          "cluster": "CM6",
+          "group": "TBR DT",
+          "mc": "DT 1",
+          "jenis": "D",
+          "plan": "20:05",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "13.5",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "Doff",
+          "status": "Plan",
+          "eff": ""
+        }
+      ]
     },
     "NS": {
       "cm3": [
@@ -11554,6 +11600,28 @@
       "overlap": "",
       "ket": "D+GF+C+Dah L8",
       "status": "Actual",
+      "eff": ""
+    },
+    {
+      "key": "20260903-AS-DT 1-PLAN",
+      "date": "9/3/2026",
+      "shift": "AS",
+      "cluster": "CM6",
+      "group": "TBR DT",
+      "mc": "DT 1",
+      "jenis": "D",
+      "plan": "20:05",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "13.5",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "Doff",
+      "status": "Plan",
       "eff": ""
     },
     {
