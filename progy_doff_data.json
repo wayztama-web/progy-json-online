@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T07:09:04.673Z",
+  "updatedAt": "2026-09-05T07:13:57.927Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -643,7 +643,30 @@
         ]
       },
       "AS": {
-        "cm3": [],
+        "cm3": [
+          {
+            "key": "20260905-AS-HE 6-PLAN",
+            "date": "9/5/2026",
+            "shift": "AS",
+            "cluster": "CM3",
+            "group": "Alidra Heli",
+            "mc": "HE 6",
+            "jenis": "GF",
+            "plan": "13:35",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "97.3",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          }
+        ],
         "cm6": []
       },
       "NS": {
@@ -11303,7 +11326,30 @@
       ]
     },
     "AS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20260905-AS-HE 6-PLAN",
+          "date": "9/5/2026",
+          "shift": "AS",
+          "cluster": "CM3",
+          "group": "Alidra Heli",
+          "mc": "HE 6",
+          "jenis": "GF",
+          "plan": "13:35",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "97.3",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        }
+      ],
       "cm6": []
     },
     "NS": {
@@ -12427,6 +12473,28 @@
       "start": "",
       "code": "",
       "std": "35.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20260905-AS-HE 6-PLAN",
+      "date": "9/5/2026",
+      "shift": "AS",
+      "cluster": "CM3",
+      "group": "Alidra Heli",
+      "mc": "HE 6",
+      "jenis": "GF",
+      "plan": "13:35",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "97.3",
       "dt_mc": "",
       "dt_proc": "",
       "loss": "",
