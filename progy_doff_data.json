@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T08:19:00.045Z",
+  "updatedAt": "2026-09-05T08:24:00.471Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -797,6 +797,28 @@
             "ket": "GF",
             "status": "Plan",
             "eff": ""
+          },
+          {
+            "key": "20260905-AS-L 15-PLAN",
+            "date": "9/5/2026",
+            "shift": "AS",
+            "cluster": "CM3",
+            "group": "NL",
+            "mc": "L 15",
+            "jenis": "GF",
+            "plan": "14:40",
+            "doff": "14:40",
+            "start": "15:15",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "35",
+            "dt_proc": "35",
+            "loss": "0.8",
+            "pct_loss": "0.2%",
+            "overlap": "",
+            "ket": "D + GF + R",
+            "status": "Actual",
+            "eff": "2.2%"
           }
         ],
         "cm6": [
@@ -11723,6 +11745,28 @@
           "ket": "GF",
           "status": "Plan",
           "eff": ""
+        },
+        {
+          "key": "20260905-AS-L 15-PLAN",
+          "date": "9/5/2026",
+          "shift": "AS",
+          "cluster": "CM3",
+          "group": "NL",
+          "mc": "L 15",
+          "jenis": "GF",
+          "plan": "14:40",
+          "doff": "14:40",
+          "start": "15:15",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "35",
+          "dt_proc": "35",
+          "loss": "0.8",
+          "pct_loss": "0.2%",
+          "overlap": "",
+          "ket": "D + GF + R",
+          "status": "Actual",
+          "eff": "2.2%"
         }
       ],
       "cm6": [
@@ -13121,6 +13165,28 @@
       "ket": "GF",
       "status": "Plan",
       "eff": ""
+    },
+    {
+      "key": "20260905-AS-L 15-PLAN",
+      "date": "9/5/2026",
+      "shift": "AS",
+      "cluster": "CM3",
+      "group": "NL",
+      "mc": "L 15",
+      "jenis": "GF",
+      "plan": "14:40",
+      "doff": "14:40",
+      "start": "15:15",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "35",
+      "dt_proc": "35",
+      "loss": "0.8",
+      "pct_loss": "0.2%",
+      "overlap": "",
+      "ket": "D + GF + R",
+      "status": "Actual",
+      "eff": "2.2%"
     },
     {
       "key": "20260905-AS-DT 2-PLAN",
