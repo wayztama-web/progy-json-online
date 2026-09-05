@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T11:44:05.849Z",
+  "updatedAt": "2026-09-05T11:49:11.908Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -667,28 +667,6 @@
             "eff": "-54.1%"
           },
           {
-            "key": "20260905-AS-DT 9-PLAN",
-            "date": "9/5/2026",
-            "shift": "AS",
-            "cluster": "CM3",
-            "group": "DT New",
-            "mc": "DT 9",
-            "jenis": "D",
-            "plan": "15:09",
-            "doff": "18:36",
-            "start": "18:41",
-            "code": "GP",
-            "std": "13.5",
-            "dt_mc": "5",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
-            "overlap": "",
-            "ket": "",
-            "status": "Plan",
-            "eff": ""
-          },
-          {
             "key": "20260905-AS-DT 13-PLAN",
             "date": "9/5/2026",
             "shift": "AS",
@@ -833,14 +811,14 @@
             "start": "15:15",
             "code": "",
             "std": "35.8",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "dt_mc": "35",
+            "dt_proc": "35",
+            "loss": "0.8",
+            "pct_loss": "0.2%",
             "overlap": "",
             "ket": "D + GF + R",
             "status": "Actual",
-            "eff": ""
+            "eff": "2.2%"
           }
         ],
         "cm6": [
@@ -11703,28 +11681,6 @@
           "eff": "-54.1%"
         },
         {
-          "key": "20260905-AS-DT 9-PLAN",
-          "date": "9/5/2026",
-          "shift": "AS",
-          "cluster": "CM3",
-          "group": "DT New",
-          "mc": "DT 9",
-          "jenis": "D",
-          "plan": "15:09",
-          "doff": "18:36",
-          "start": "18:41",
-          "code": "GP",
-          "std": "13.5",
-          "dt_mc": "5",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
-          "overlap": "",
-          "ket": "",
-          "status": "Plan",
-          "eff": ""
-        },
-        {
           "key": "20260905-AS-DT 13-PLAN",
           "date": "9/5/2026",
           "shift": "AS",
@@ -11869,14 +11825,14 @@
           "start": "15:15",
           "code": "",
           "std": "35.8",
-          "dt_mc": "",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
+          "dt_mc": "35",
+          "dt_proc": "35",
+          "loss": "0.8",
+          "pct_loss": "0.2%",
           "overlap": "",
           "ket": "D + GF + R",
           "status": "Actual",
-          "eff": ""
+          "eff": "2.2%"
         }
       ],
       "cm6": [
@@ -13211,28 +13167,6 @@
       "eff": "-54.1%"
     },
     {
-      "key": "20260905-AS-DT 9-PLAN",
-      "date": "9/5/2026",
-      "shift": "AS",
-      "cluster": "CM3",
-      "group": "DT New",
-      "mc": "DT 9",
-      "jenis": "D",
-      "plan": "15:09",
-      "doff": "18:36",
-      "start": "18:41",
-      "code": "GP",
-      "std": "13.5",
-      "dt_mc": "5",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
-      "overlap": "",
-      "ket": "",
-      "status": "Plan",
-      "eff": ""
-    },
-    {
       "key": "20260905-AS-DT 13-PLAN",
       "date": "9/5/2026",
       "shift": "AS",
@@ -13377,14 +13311,14 @@
       "start": "15:15",
       "code": "",
       "std": "35.8",
-      "dt_mc": "",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
+      "dt_mc": "35",
+      "dt_proc": "35",
+      "loss": "0.8",
+      "pct_loss": "0.2%",
       "overlap": "",
       "ket": "D + GF + R",
       "status": "Actual",
-      "eff": ""
+      "eff": "2.2%"
     },
     {
       "key": "20260905-AS-Delta 9-PLAN",
