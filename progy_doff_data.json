@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T06:39:53.516Z",
+  "updatedAt": "2026-09-06T06:44:47.384Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -197,6 +197,28 @@
             "ket": "D+GF½+C",
             "status": "Actual",
             "eff": "-271.6%"
+          },
+          {
+            "key": "20260906-MS-L 15-PLAN",
+            "date": "9/6/2026",
+            "shift": "MS",
+            "cluster": "CM3",
+            "group": "NL",
+            "mc": "L 15",
+            "jenis": "D",
+            "plan": "13:30",
+            "doff": "13:40",
+            "start": "14:00",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "Doff akhir ( blm di doff)",
+            "status": "Actual",
+            "eff": ""
           }
         ],
         "cm6": [
@@ -10659,6 +10681,28 @@
           "ket": "D+GF½+C",
           "status": "Actual",
           "eff": "-271.6%"
+        },
+        {
+          "key": "20260906-MS-L 15-PLAN",
+          "date": "9/6/2026",
+          "shift": "MS",
+          "cluster": "CM3",
+          "group": "NL",
+          "mc": "L 15",
+          "jenis": "D",
+          "plan": "13:30",
+          "doff": "13:40",
+          "start": "14:00",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "Doff akhir ( blm di doff)",
+          "status": "Actual",
+          "eff": ""
         }
       ],
       "cm6": [
@@ -11621,6 +11665,28 @@
       "ket": "D+GF½+C",
       "status": "Actual",
       "eff": "-271.6%"
+    },
+    {
+      "key": "20260906-MS-L 15-PLAN",
+      "date": "9/6/2026",
+      "shift": "MS",
+      "cluster": "CM3",
+      "group": "NL",
+      "mc": "L 15",
+      "jenis": "D",
+      "plan": "13:30",
+      "doff": "13:40",
+      "start": "14:00",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "Doff akhir ( blm di doff)",
+      "status": "Actual",
+      "eff": ""
     },
     {
       "key": "20260906-MS-Delta 13-PLAN",
