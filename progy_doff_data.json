@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T14:35:04.883Z",
+  "updatedAt": "2026-09-06T14:40:02.229Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -921,16 +921,16 @@
             "plan": "18:25",
             "doff": "18:30",
             "start": "22:00",
-            "code": "",
+            "code": "L",
             "std": "82.7",
             "dt_mc": "210",
-            "dt_proc": "50",
-            "loss": "32.7",
-            "pct_loss": "6.8%",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "D + dari MC lain + GF ½ mesin",
             "status": "Actual",
-            "eff": "39.6%"
+            "eff": ""
           }
         ]
       },
@@ -11869,16 +11869,16 @@
           "plan": "18:25",
           "doff": "18:30",
           "start": "22:00",
-          "code": "",
+          "code": "L",
           "std": "82.7",
           "dt_mc": "210",
-          "dt_proc": "50",
-          "loss": "32.7",
-          "pct_loss": "6.8%",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "",
           "ket": "D + dari MC lain + GF ½ mesin",
           "status": "Actual",
-          "eff": "39.6%"
+          "eff": ""
         }
       ]
     },
@@ -13309,16 +13309,16 @@
       "plan": "18:25",
       "doff": "18:30",
       "start": "22:00",
-      "code": "",
+      "code": "L",
       "std": "82.7",
       "dt_mc": "210",
-      "dt_proc": "50",
-      "loss": "32.7",
-      "pct_loss": "6.8%",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "",
       "ket": "D + dari MC lain + GF ½ mesin",
       "status": "Actual",
-      "eff": "39.6%"
+      "eff": ""
     },
     {
       "key": "20260906-NS-HE 2-PLAN",
