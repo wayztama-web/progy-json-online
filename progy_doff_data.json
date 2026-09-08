@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T14:37:04.484Z",
+  "updatedAt": "2026-09-08T14:42:01.954Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -899,16 +899,16 @@
             "plan": "14:00",
             "doff": "14:00",
             "start": "19:10",
-            "code": "",
+            "code": "SCR",
             "std": "82.7",
             "dt_mc": "310",
-            "dt_proc": "140",
-            "loss": "-57.3",
-            "pct_loss": "-11.9%",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "170",
             "ket": "Scouring ok pukul 17:00 + pasang feeding + LMF + mancing + pergantian istirahat",
             "status": "Actual",
-            "eff": "-69.2%"
+            "eff": ""
           },
           {
             "key": "20260908-AS-DT 4-PLAN",
@@ -12001,16 +12001,16 @@
           "plan": "14:00",
           "doff": "14:00",
           "start": "19:10",
-          "code": "",
+          "code": "SCR",
           "std": "82.7",
           "dt_mc": "310",
-          "dt_proc": "140",
-          "loss": "-57.3",
-          "pct_loss": "-11.9%",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "170",
           "ket": "Scouring ok pukul 17:00 + pasang feeding + LMF + mancing + pergantian istirahat",
           "status": "Actual",
-          "eff": "-69.2%"
+          "eff": ""
         },
         {
           "key": "20260908-AS-DT 4-PLAN",
@@ -13551,16 +13551,16 @@
       "plan": "14:00",
       "doff": "14:00",
       "start": "19:10",
-      "code": "",
+      "code": "SCR",
       "std": "82.7",
       "dt_mc": "310",
-      "dt_proc": "140",
-      "loss": "-57.3",
-      "pct_loss": "-11.9%",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "170",
       "ket": "Scouring ok pukul 17:00 + pasang feeding + LMF + mancing + pergantian istirahat",
       "status": "Actual",
-      "eff": "-69.2%"
+      "eff": ""
     },
     {
       "key": "20260908-AS-DT 4-PLAN",
