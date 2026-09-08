@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T05:31:22.377Z",
+  "updatedAt": "2026-09-08T05:36:21.732Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -218,6 +218,28 @@
             "overlap": "",
             "ket": "D",
             "status": "Plan",
+            "eff": ""
+          },
+          {
+            "key": "20260908-MS-L 17-PLAN",
+            "date": "9/8/2026",
+            "shift": "MS",
+            "cluster": "CM3",
+            "group": "NL",
+            "mc": "L 17",
+            "jenis": "GF",
+            "plan": "11:30",
+            "doff": "11:30",
+            "start": "13:00",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "D + GF + TB + R",
+            "status": "Actual",
             "eff": ""
           }
         ],
@@ -10879,6 +10901,28 @@
           "ket": "D",
           "status": "Plan",
           "eff": ""
+        },
+        {
+          "key": "20260908-MS-L 17-PLAN",
+          "date": "9/8/2026",
+          "shift": "MS",
+          "cluster": "CM3",
+          "group": "NL",
+          "mc": "L 17",
+          "jenis": "GF",
+          "plan": "11:30",
+          "doff": "11:30",
+          "start": "13:00",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "D + GF + TB + R",
+          "status": "Actual",
+          "eff": ""
         }
       ],
       "cm6": [
@@ -11994,6 +12038,28 @@
       "overlap": "",
       "ket": "D",
       "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20260908-MS-L 17-PLAN",
+      "date": "9/8/2026",
+      "shift": "MS",
+      "cluster": "CM3",
+      "group": "NL",
+      "mc": "L 17",
+      "jenis": "GF",
+      "plan": "11:30",
+      "doff": "11:30",
+      "start": "13:00",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "D + GF + TB + R",
+      "status": "Actual",
       "eff": ""
     },
     {
