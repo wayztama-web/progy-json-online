@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T02:22:16.359Z",
+  "updatedAt": "2026-09-09T02:27:23.408Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -244,6 +244,28 @@
           }
         ],
         "cm6": [
+          {
+            "key": "20260909-MS-Delta 6-PLAN",
+            "date": "9/9/2026",
+            "shift": "MS",
+            "cluster": "CM6",
+            "group": "TBR Delta",
+            "mc": "Delta 6",
+            "jenis": "GF",
+            "plan": "08:50",
+            "doff": "08:50",
+            "start": "14:00",
+            "code": "L",
+            "std": "112.8",
+            "dt_mc": "310",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "D+ stop no Allocation",
+            "status": "Actual",
+            "eff": ""
+          },
           {
             "key": "20260909-MS-DT 3-PLAN",
             "date": "9/9/2026",
@@ -10708,6 +10730,28 @@
       ],
       "cm6": [
         {
+          "key": "20260909-MS-Delta 6-PLAN",
+          "date": "9/9/2026",
+          "shift": "MS",
+          "cluster": "CM6",
+          "group": "TBR Delta",
+          "mc": "Delta 6",
+          "jenis": "GF",
+          "plan": "08:50",
+          "doff": "08:50",
+          "start": "14:00",
+          "code": "L",
+          "std": "112.8",
+          "dt_mc": "310",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "D+ stop no Allocation",
+          "status": "Actual",
+          "eff": ""
+        },
+        {
           "key": "20260909-MS-DT 3-PLAN",
           "date": "9/9/2026",
           "shift": "MS",
@@ -11622,6 +11666,28 @@
       "overlap": "",
       "ket": "",
       "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20260909-MS-Delta 6-PLAN",
+      "date": "9/9/2026",
+      "shift": "MS",
+      "cluster": "CM6",
+      "group": "TBR Delta",
+      "mc": "Delta 6",
+      "jenis": "GF",
+      "plan": "08:50",
+      "doff": "08:50",
+      "start": "14:00",
+      "code": "L",
+      "std": "112.8",
+      "dt_mc": "310",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "D+ stop no Allocation",
+      "status": "Actual",
       "eff": ""
     },
     {
