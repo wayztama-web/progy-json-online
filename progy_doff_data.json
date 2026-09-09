@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T14:13:05.680Z",
+  "updatedAt": "2026-09-09T14:18:06.219Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -552,7 +552,7 @@
             "loss": "22.3",
             "pct_loss": "4.7%",
             "overlap": "",
-            "ket": "D+Gf+clean mc",
+            "ket": "D+Gf+C+clean mc",
             "status": "Actual",
             "eff": "22.9%"
           },
@@ -11764,7 +11764,7 @@
           "loss": "22.3",
           "pct_loss": "4.7%",
           "overlap": "",
-          "ket": "D+Gf+clean mc",
+          "ket": "D+Gf+C+clean mc",
           "status": "Actual",
           "eff": "22.9%"
         },
@@ -13426,7 +13426,7 @@
       "loss": "22.3",
       "pct_loss": "4.7%",
       "overlap": "",
-      "ket": "D+Gf+clean mc",
+      "ket": "D+Gf+C+clean mc",
       "status": "Actual",
       "eff": "22.9%"
     },
