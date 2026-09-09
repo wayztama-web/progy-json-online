@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T23:38:10.635Z",
+  "updatedAt": "2026-09-09T23:43:13.818Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -21,7 +21,30 @@
   "dates": {
     "2026-09-10": {
       "MS": {
-        "cm3": [],
+        "cm3": [
+          {
+            "key": "20260910-MS-H 6-PLAN",
+            "date": "9/10/2026",
+            "shift": "MS",
+            "cluster": "CM3",
+            "group": "Alidra Heli",
+            "mc": "H 6",
+            "jenis": "GF",
+            "plan": "07:00",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "D+GF+C",
+            "status": "Plan",
+            "eff": ""
+          }
+        ],
         "cm6": [
           {
             "key": "20260910-MS-DT 3-PLAN",
@@ -10504,7 +10527,30 @@
   "shiftSet": "MS",
   "shifts": {
     "MS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20260910-MS-H 6-PLAN",
+          "date": "9/10/2026",
+          "shift": "MS",
+          "cluster": "CM3",
+          "group": "Alidra Heli",
+          "mc": "H 6",
+          "jenis": "GF",
+          "plan": "07:00",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "D+GF+C",
+          "status": "Plan",
+          "eff": ""
+        }
+      ],
       "cm6": [
         {
           "key": "20260910-MS-DT 3-PLAN",
@@ -11136,6 +11182,28 @@
     }
   },
   "rows": [
+    {
+      "key": "20260910-MS-H 6-PLAN",
+      "date": "9/10/2026",
+      "shift": "MS",
+      "cluster": "CM3",
+      "group": "Alidra Heli",
+      "mc": "H 6",
+      "jenis": "GF",
+      "plan": "07:00",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "D+GF+C",
+      "status": "Plan",
+      "eff": ""
+    },
     {
       "key": "20260910-MS-DT 3-PLAN",
       "date": "9/10/2026",
