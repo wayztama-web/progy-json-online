@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T23:46:58.270Z",
+  "updatedAt": "2026-09-12T23:51:55.391Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -255,16 +255,16 @@
             "plan": "06:00",
             "doff": "06:00",
             "start": "06:45",
-            "code": "L",
+            "code": "",
             "std": "37.1",
             "dt_mc": "45",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "dt_proc": "45",
+            "loss": "-8.0",
+            "pct_loss": "-1.7%",
             "overlap": "",
             "ket": "Lanjut proses awal",
             "status": "Actual",
-            "eff": ""
+            "eff": "-21.5%"
           },
           {
             "key": "20260913-MS-Delta 8-PLAN",
@@ -311,7 +311,7 @@
             "eff": ""
           },
           {
-            "key": "20260913-AS-Delta 9-PLAN",
+            "key": "20260913-MS-Delta 9-PLAN",
             "date": "9/13/2026",
             "shift": "MS",
             "cluster": "CM6",
@@ -11135,16 +11135,16 @@
           "plan": "06:00",
           "doff": "06:00",
           "start": "06:45",
-          "code": "L",
+          "code": "",
           "std": "37.1",
           "dt_mc": "45",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
+          "dt_proc": "45",
+          "loss": "-8.0",
+          "pct_loss": "-1.7%",
           "overlap": "",
           "ket": "Lanjut proses awal",
           "status": "Actual",
-          "eff": ""
+          "eff": "-21.5%"
         },
         {
           "key": "20260913-MS-Delta 8-PLAN",
@@ -11191,7 +11191,7 @@
           "eff": ""
         },
         {
-          "key": "20260913-AS-Delta 9-PLAN",
+          "key": "20260913-MS-Delta 9-PLAN",
           "date": "9/13/2026",
           "shift": "MS",
           "cluster": "CM6",
@@ -11985,16 +11985,16 @@
       "plan": "06:00",
       "doff": "06:00",
       "start": "06:45",
-      "code": "L",
+      "code": "",
       "std": "37.1",
       "dt_mc": "45",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
+      "dt_proc": "45",
+      "loss": "-8.0",
+      "pct_loss": "-1.7%",
       "overlap": "",
       "ket": "Lanjut proses awal",
       "status": "Actual",
-      "eff": ""
+      "eff": "-21.5%"
     },
     {
       "key": "20260913-MS-Delta 8-PLAN",
@@ -12041,7 +12041,7 @@
       "eff": ""
     },
     {
-      "key": "20260913-AS-Delta 9-PLAN",
+      "key": "20260913-MS-Delta 9-PLAN",
       "date": "9/13/2026",
       "shift": "MS",
       "cluster": "CM6",
