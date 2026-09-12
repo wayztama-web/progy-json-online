@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T00:15:49.412Z",
+  "updatedAt": "2026-09-12T00:20:51.320Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1381,6 +1381,28 @@
             "overlap": "",
             "ket": "D + GF + TF + TB + R",
             "status": "Actual",
+            "eff": ""
+          },
+          {
+            "key": "20260911-MS-L 17-PLAN",
+            "date": "9/11/2026",
+            "shift": "MS",
+            "cluster": "CM3",
+            "group": "NL",
+            "mc": "L 17",
+            "jenis": "GF",
+            "plan": "06:00",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
             "eff": ""
           },
           {
