@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T15:51:41.937Z",
+  "updatedAt": "2026-09-12T15:56:36.436Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1976,17 +1976,17 @@
             "jenis": "GF",
             "plan": "18:30",
             "doff": "22:00",
-            "start": "22:40",
+            "start": "22:50",
             "code": "",
             "std": "82.7",
-            "dt_mc": "40",
-            "dt_proc": "40",
-            "loss": "42.7",
-            "pct_loss": "8.9%",
+            "dt_mc": "50",
+            "dt_proc": "50",
+            "loss": "32.7",
+            "pct_loss": "6.8%",
             "overlap": "400",
-            "ket": "Lp mancing ½ MC pat awal",
+            "ket": "Lanjut proses,",
             "status": "Actual",
-            "eff": "51.6%"
+            "eff": "39.6%"
           },
           {
             "key": "20260912-NS-DT 6-PLAN",
@@ -2002,13 +2002,13 @@
             "code": "",
             "std": "13.5",
             "dt_mc": "100",
-            "dt_proc": "60",
-            "loss": "-46.5",
-            "pct_loss": "-9.7%",
+            "dt_proc": "50",
+            "loss": "-36.5",
+            "pct_loss": "-7.6%",
             "overlap": "160",
             "ket": "Doff Criling hb 17 dah dt 3",
             "status": "Actual",
-            "eff": "-345.9%"
+            "eff": "-271.6%"
           },
           {
             "key": "20260912-NS-DT 5-PLAN",
