@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T17:11:41.112Z",
+  "updatedAt": "2026-09-12T17:16:40.939Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -2005,7 +2005,7 @@
             "dt_proc": "50",
             "loss": "-36.5",
             "pct_loss": "-7.6%",
-            "overlap": "160",
+            "overlap": "130",
             "ket": "Doff Criling hb 17 dah dt 3",
             "status": "Actual",
             "eff": "-271.6%"
@@ -2019,18 +2019,18 @@
             "mc": "DT 5",
             "jenis": "D",
             "plan": "",
-            "doff": "00:00",
-            "start": "00:40",
+            "doff": "23:40",
+            "start": "00:10",
             "code": "",
             "std": "13.5",
-            "dt_mc": "40",
-            "dt_proc": "40",
-            "loss": "-26.5",
-            "pct_loss": "-5.5%",
+            "dt_mc": "30",
+            "dt_proc": "30",
+            "loss": "-16.5",
+            "pct_loss": "-3.4%",
             "overlap": "",
-            "ket": "Doff Criling hb 25",
+            "ket": "Dof creling HB 26",
             "status": "Actual",
-            "eff": "-197.3%"
+            "eff": "-123.0%"
           },
           {
             "key": "20260912-NS-DT 7-PLAN",
@@ -2046,13 +2046,13 @@
             "code": "",
             "std": "13.5",
             "dt_mc": "25",
-            "dt_proc": "15",
-            "loss": "-1.5",
-            "pct_loss": "-0.3%",
+            "dt_proc": "25",
+            "loss": "-11.5",
+            "pct_loss": "-2.4%",
             "overlap": "",
             "ket": "Doff Criling hb 11 dah dt 5",
             "status": "Actual",
-            "eff": "-11.5%"
+            "eff": "-85.8%"
           },
           {
             "key": "20260912-NS-DT 1-PLAN",
