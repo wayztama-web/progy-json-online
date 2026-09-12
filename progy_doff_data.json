@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T15:11:47.852Z",
+  "updatedAt": "2026-09-12T15:16:45.335Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -225,6 +225,28 @@
             "pct_loss": "",
             "overlap": "",
             "ket": "D+GF",
+            "status": "Plan",
+            "eff": ""
+          },
+          {
+            "key": "20260913-NS-L 16-PLAN",
+            "date": "9/13/2026",
+            "shift": "NS",
+            "cluster": "CM3",
+            "group": "NL",
+            "mc": "L 16",
+            "jenis": "GF",
+            "plan": "00:30",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
             "status": "Plan",
             "eff": ""
           }
@@ -1698,6 +1720,28 @@
             "ket": "Doff",
             "status": "Plan",
             "eff": ""
+          },
+          {
+            "key": "20260912-NS-L 17-PLAN",
+            "date": "9/12/2026",
+            "shift": "NS",
+            "cluster": "CM3",
+            "group": "NL",
+            "mc": "L 17",
+            "jenis": "GF",
+            "plan": "03:30",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
           }
         ],
         "cm6": [
@@ -1944,6 +1988,28 @@
             "eff": ""
           },
           {
+            "key": "20260912-NS-DT 7-PLAN",
+            "date": "9/12/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR DT",
+            "mc": "DT 7",
+            "jenis": "D",
+            "plan": "03:00",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "13.5",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "Dof creling",
+            "status": "Plan",
+            "eff": ""
+          },
+          {
             "key": "20260912-NS-DT 1-PLAN",
             "date": "9/12/2026",
             "shift": "NS",
@@ -2066,14 +2132,14 @@
             "start": "02:45",
             "code": "",
             "std": "35.8",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "dt_mc": "35",
+            "dt_proc": "35",
+            "loss": "0.8",
+            "pct_loss": "0.2%",
             "overlap": "",
             "ket": "Ring flang macet lagi + ok + ngodol + crealing ulang",
             "status": "Actual",
-            "eff": ""
+            "eff": "2.2%"
           }
         ]
       }
@@ -10422,6 +10488,28 @@
           "ket": "D+GF",
           "status": "Plan",
           "eff": ""
+        },
+        {
+          "key": "20260913-NS-L 16-PLAN",
+          "date": "9/13/2026",
+          "shift": "NS",
+          "cluster": "CM3",
+          "group": "NL",
+          "mc": "L 16",
+          "jenis": "GF",
+          "plan": "00:30",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
         }
       ],
       "cm6": []
@@ -10623,6 +10711,28 @@
       "pct_loss": "",
       "overlap": "",
       "ket": "D+GF",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20260913-NS-L 16-PLAN",
+      "date": "9/13/2026",
+      "shift": "NS",
+      "cluster": "CM3",
+      "group": "NL",
+      "mc": "L 16",
+      "jenis": "GF",
+      "plan": "00:30",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
       "status": "Plan",
       "eff": ""
     }
