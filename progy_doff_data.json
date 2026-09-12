@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T22:01:53.702Z",
+  "updatedAt": "2026-09-12T22:06:57.664Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1983,7 +1983,7 @@
             "dt_proc": "50",
             "loss": "32.7",
             "pct_loss": "6.8%",
-            "overlap": "400",
+            "overlap": "420",
             "ket": "Lanjut proses,",
             "status": "Actual",
             "eff": "39.6%"
@@ -2063,18 +2063,18 @@
             "mc": "DT 1",
             "jenis": "D",
             "plan": "04:25",
-            "doff": "04:25",
-            "start": "04:40",
+            "doff": "04:10",
+            "start": "05:00",
             "code": "",
             "std": "13.5",
-            "dt_mc": "15",
-            "dt_proc": "15",
-            "loss": "-1.5",
-            "pct_loss": "-0.3%",
+            "dt_mc": "50",
+            "dt_proc": "50",
+            "loss": "-36.5",
+            "pct_loss": "-7.6%",
             "overlap": "",
-            "ket": "Doff Criling hb  17 cleaning MC topguide + feedroller",
+            "ket": "Dof GF",
             "status": "Actual",
-            "eff": "-11.5%"
+            "eff": "-271.6%"
           },
           {
             "key": "20260912-NS-DT 3-PLAN",
