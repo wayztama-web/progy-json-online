@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T17:41:41.762Z",
+  "updatedAt": "2026-09-12T17:46:43.147Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1989,28 +1989,6 @@
             "eff": "39.6%"
           },
           {
-            "key": "20260912-NS-DT 6-PLAN",
-            "date": "9/12/2026",
-            "shift": "NS",
-            "cluster": "CM6",
-            "group": "TBR DT",
-            "mc": "DT 6",
-            "jenis": "D",
-            "plan": "22:00",
-            "doff": "22:00",
-            "start": "23:40",
-            "code": "",
-            "std": "13.5",
-            "dt_mc": "100",
-            "dt_proc": "50",
-            "loss": "-36.5",
-            "pct_loss": "-7.6%",
-            "overlap": "130",
-            "ket": "Doff Criling hb 17 dah dt 3",
-            "status": "Actual",
-            "eff": "-271.6%"
-          },
-          {
             "key": "20260912-NS-DT 5-PLAN",
             "date": "9/12/2026",
             "shift": "NS",
@@ -2033,6 +2011,28 @@
             "eff": "-123.0%"
           },
           {
+            "key": "20260912-NS-DT 6-PLAN",
+            "date": "9/12/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR DT",
+            "mc": "DT 6",
+            "jenis": "D",
+            "plan": "22:00",
+            "doff": "22:00",
+            "start": "00:40",
+            "code": "",
+            "std": "13.5",
+            "dt_mc": "160",
+            "dt_proc": "30",
+            "loss": "-16.5",
+            "pct_loss": "-3.4%",
+            "overlap": "130",
+            "ket": "Dof GF DAHULUKAN no 3, 5",
+            "status": "Actual",
+            "eff": "-123.0%"
+          },
+          {
             "key": "20260912-NS-DT 7-PLAN",
             "date": "9/12/2026",
             "shift": "NS",
@@ -2046,13 +2046,13 @@
             "code": "",
             "std": "13.5",
             "dt_mc": "25",
-            "dt_proc": "25",
-            "loss": "-11.5",
-            "pct_loss": "-2.4%",
-            "overlap": "",
+            "dt_proc": "15",
+            "loss": "-1.5",
+            "pct_loss": "-0.3%",
+            "overlap": "10",
             "ket": "Doff Criling hb 11 dah dt 5",
             "status": "Actual",
-            "eff": "-85.8%"
+            "eff": "-11.5%"
           },
           {
             "key": "20260912-NS-DT 1-PLAN",
