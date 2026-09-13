@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T21:18:15.483Z",
+  "updatedAt": "2026-09-13T21:22:59.458Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -248,7 +248,7 @@
             "dt_proc": "20",
             "loss": "15.8",
             "pct_loss": "3.3%",
-            "overlap": "",
+            "overlap": "225",
             "ket": "D + GF + C",
             "status": "Actual",
             "eff": "44.1%"
@@ -1646,18 +1646,18 @@
             "mc": "DT 7",
             "jenis": "D",
             "plan": "03:50",
-            "doff": "",
-            "start": "",
+            "doff": "04:00",
+            "start": "04:15",
             "code": "",
             "std": "13.5",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "dt_mc": "15",
+            "dt_proc": "15",
+            "loss": "-1.5",
+            "pct_loss": "-0.3%",
             "overlap": "",
-            "ket": "Dof creling",
-            "status": "Plan",
-            "eff": ""
+            "ket": "Dof creling HB 6",
+            "status": "Actual",
+            "eff": "-11.5%"
           },
           {
             "key": "20260913-NS-L 14-PLAN",
@@ -10379,7 +10379,7 @@
           "dt_proc": "20",
           "loss": "15.8",
           "pct_loss": "3.3%",
-          "overlap": "",
+          "overlap": "225",
           "ket": "D + GF + C",
           "status": "Actual",
           "eff": "44.1%"
@@ -10713,7 +10713,7 @@
       "dt_proc": "20",
       "loss": "15.8",
       "pct_loss": "3.3%",
-      "overlap": "",
+      "overlap": "225",
       "ket": "D + GF + C",
       "status": "Actual",
       "eff": "44.1%"
