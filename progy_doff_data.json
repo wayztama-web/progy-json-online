@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T17:02:48.424Z",
+  "updatedAt": "2026-09-13T17:12:55.237Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1566,7 +1566,7 @@
             "dt_proc": "25",
             "loss": "-11.5",
             "pct_loss": "-2.4%",
-            "overlap": "",
+            "overlap": "65",
             "ket": "Dof creling HB 15",
             "status": "Actual",
             "eff": "-85.8%"
@@ -1580,18 +1580,18 @@
             "mc": "DT 5",
             "jenis": "GF",
             "plan": "22:10",
-            "doff": "",
-            "start": "",
+            "doff": "22:10",
+            "start": "23:55",
             "code": "",
             "std": "82.7",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "dt_mc": "105",
+            "dt_proc": "40",
+            "loss": "42.7",
+            "pct_loss": "8.9%",
             "overlap": "",
-            "ket": "Dof GF",
-            "status": "Plan",
-            "eff": ""
+            "ket": "Dof GF DAHULUKAN no 6",
+            "status": "Actual",
+            "eff": "51.6%"
           },
           {
             "key": "20260913-NS-DT 1-PLAN",
