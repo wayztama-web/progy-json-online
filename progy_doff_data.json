@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T22:38:06.507Z",
+  "updatedAt": "2026-09-13T22:43:03.640Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -53,28 +53,6 @@
       },
       "NS": {
         "cm3": [
-          {
-            "key": "20260914-NS-L 17-PLAN",
-            "date": "9/14/2026",
-            "shift": "NS",
-            "cluster": "CM3",
-            "group": "Alidra Heli",
-            "mc": "L 17",
-            "jenis": "GF",
-            "plan": "02:30",
-            "doff": "02:30",
-            "start": "05:10",
-            "code": "",
-            "std": "35.8",
-            "dt_mc": "160",
-            "dt_proc": "160",
-            "loss": "-124.2",
-            "pct_loss": "-25.9%",
-            "overlap": "",
-            "ket": "D+GF+C+TB",
-            "status": "Actual",
-            "eff": "-347.1%"
-          },
           {
             "key": "20260914-NS-HE 2-PLAN",
             "date": "9/14/2026",
@@ -228,6 +206,28 @@
             "ket": "D+GF+C",
             "status": "Actual",
             "eff": "-11.8%"
+          },
+          {
+            "key": "20260914-NS-L 17-PLAN",
+            "date": "9/14/2026",
+            "shift": "NS",
+            "cluster": "CM3",
+            "group": "NL",
+            "mc": "L 17",
+            "jenis": "GF",
+            "plan": "02:30",
+            "doff": "02:30",
+            "start": "05:10",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "160",
+            "dt_proc": "160",
+            "loss": "-124.2",
+            "pct_loss": "-25.9%",
+            "overlap": "",
+            "ket": "D+GF+C+TB",
+            "status": "Actual",
+            "eff": "-347.1%"
           }
         ],
         "cm6": [
@@ -10207,28 +10207,6 @@
     "NS": {
       "cm3": [
         {
-          "key": "20260914-NS-L 17-PLAN",
-          "date": "9/14/2026",
-          "shift": "NS",
-          "cluster": "CM3",
-          "group": "Alidra Heli",
-          "mc": "L 17",
-          "jenis": "GF",
-          "plan": "02:30",
-          "doff": "02:30",
-          "start": "05:10",
-          "code": "",
-          "std": "35.8",
-          "dt_mc": "160",
-          "dt_proc": "160",
-          "loss": "-124.2",
-          "pct_loss": "-25.9%",
-          "overlap": "",
-          "ket": "D+GF+C+TB",
-          "status": "Actual",
-          "eff": "-347.1%"
-        },
-        {
           "key": "20260914-NS-HE 2-PLAN",
           "date": "9/14/2026",
           "shift": "NS",
@@ -10381,6 +10359,28 @@
           "ket": "D+GF+C",
           "status": "Actual",
           "eff": "-11.8%"
+        },
+        {
+          "key": "20260914-NS-L 17-PLAN",
+          "date": "9/14/2026",
+          "shift": "NS",
+          "cluster": "CM3",
+          "group": "NL",
+          "mc": "L 17",
+          "jenis": "GF",
+          "plan": "02:30",
+          "doff": "02:30",
+          "start": "05:10",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "160",
+          "dt_proc": "160",
+          "loss": "-124.2",
+          "pct_loss": "-25.9%",
+          "overlap": "",
+          "ket": "D+GF+C+TB",
+          "status": "Actual",
+          "eff": "-347.1%"
         }
       ],
       "cm6": [
@@ -10565,28 +10565,6 @@
       "eff": ""
     },
     {
-      "key": "20260914-NS-L 17-PLAN",
-      "date": "9/14/2026",
-      "shift": "NS",
-      "cluster": "CM3",
-      "group": "Alidra Heli",
-      "mc": "L 17",
-      "jenis": "GF",
-      "plan": "02:30",
-      "doff": "02:30",
-      "start": "05:10",
-      "code": "",
-      "std": "35.8",
-      "dt_mc": "160",
-      "dt_proc": "160",
-      "loss": "-124.2",
-      "pct_loss": "-25.9%",
-      "overlap": "",
-      "ket": "D+GF+C+TB",
-      "status": "Actual",
-      "eff": "-347.1%"
-    },
-    {
       "key": "20260914-NS-HE 2-PLAN",
       "date": "9/14/2026",
       "shift": "NS",
@@ -10739,6 +10717,28 @@
       "ket": "D+GF+C",
       "status": "Actual",
       "eff": "-11.8%"
+    },
+    {
+      "key": "20260914-NS-L 17-PLAN",
+      "date": "9/14/2026",
+      "shift": "NS",
+      "cluster": "CM3",
+      "group": "NL",
+      "mc": "L 17",
+      "jenis": "GF",
+      "plan": "02:30",
+      "doff": "02:30",
+      "start": "05:10",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "160",
+      "dt_proc": "160",
+      "loss": "-124.2",
+      "pct_loss": "-25.9%",
+      "overlap": "",
+      "ket": "D+GF+C+TB",
+      "status": "Actual",
+      "eff": "-347.1%"
     },
     {
       "key": "20260914-NS-L 7-PLAN",
