@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T20:14:24.024Z",
+  "updatedAt": "2026-09-14T20:19:30.129Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -272,6 +272,28 @@
             "ket": "D + GF + TF + R",
             "status": "Actual",
             "eff": ""
+          },
+          {
+            "key": "20260915-NS-L 18-PLAN",
+            "date": "9/15/2026",
+            "shift": "NS",
+            "cluster": "CM3",
+            "group": "NL",
+            "mc": "L 18",
+            "jenis": "GF",
+            "plan": "01:30",
+            "doff": "01:30",
+            "start": "03:00",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "90",
+            "dt_proc": "90",
+            "loss": "-54.2",
+            "pct_loss": "-11.3%",
+            "overlap": "",
+            "ket": "D + ISTIRAHAT + GF + R",
+            "status": "Actual",
+            "eff": "-151.5%"
           }
         ],
         "cm6": [
@@ -10469,6 +10491,28 @@
           "ket": "D + GF + TF + R",
           "status": "Actual",
           "eff": ""
+        },
+        {
+          "key": "20260915-NS-L 18-PLAN",
+          "date": "9/15/2026",
+          "shift": "NS",
+          "cluster": "CM3",
+          "group": "NL",
+          "mc": "L 18",
+          "jenis": "GF",
+          "plan": "01:30",
+          "doff": "01:30",
+          "start": "03:00",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "90",
+          "dt_proc": "90",
+          "loss": "-54.2",
+          "pct_loss": "-11.3%",
+          "overlap": "",
+          "ket": "D + ISTIRAHAT + GF + R",
+          "status": "Actual",
+          "eff": "-151.5%"
         }
       ],
       "cm6": [
@@ -10849,6 +10893,28 @@
       "ket": "D + GF + TF + R",
       "status": "Actual",
       "eff": ""
+    },
+    {
+      "key": "20260915-NS-L 18-PLAN",
+      "date": "9/15/2026",
+      "shift": "NS",
+      "cluster": "CM3",
+      "group": "NL",
+      "mc": "L 18",
+      "jenis": "GF",
+      "plan": "01:30",
+      "doff": "01:30",
+      "start": "03:00",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "90",
+      "dt_proc": "90",
+      "loss": "-54.2",
+      "pct_loss": "-11.3%",
+      "overlap": "",
+      "ket": "D + ISTIRAHAT + GF + R",
+      "status": "Actual",
+      "eff": "-151.5%"
     },
     {
       "key": "20260915-NS-L 10-PLAN",
