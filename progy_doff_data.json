@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T21:24:21.611Z",
+  "updatedAt": "2026-09-14T21:29:24.516Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -380,7 +380,7 @@
             "dt_proc": "25",
             "loss": "10.8",
             "pct_loss": "2.2%",
-            "overlap": "",
+            "overlap": "230",
             "ket": "D + GF + C",
             "status": "Actual",
             "eff": "30.1%"
@@ -438,18 +438,18 @@
             "mc": "L 1",
             "jenis": "GF",
             "plan": "",
-            "doff": "",
-            "start": "",
+            "doff": "23:30",
+            "start": "04:20",
             "code": "",
             "std": "35.8",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
-            "overlap": "",
-            "ket": "Doff",
-            "status": "Plan",
-            "eff": ""
+            "dt_mc": "290",
+            "dt_proc": "10",
+            "loss": "25.8",
+            "pct_loss": "5.4%",
+            "overlap": "255",
+            "ket": "D + GF + C + TF",
+            "status": "Actual",
+            "eff": "72.1%"
           }
         ]
       }
@@ -10621,7 +10621,7 @@
           "dt_proc": "25",
           "loss": "10.8",
           "pct_loss": "2.2%",
-          "overlap": "",
+          "overlap": "230",
           "ket": "D + GF + C",
           "status": "Actual",
           "eff": "30.1%"
@@ -10679,18 +10679,18 @@
           "mc": "L 1",
           "jenis": "GF",
           "plan": "",
-          "doff": "",
-          "start": "",
+          "doff": "23:30",
+          "start": "04:20",
           "code": "",
           "std": "35.8",
-          "dt_mc": "",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
-          "overlap": "",
-          "ket": "Doff",
-          "status": "Plan",
-          "eff": ""
+          "dt_mc": "290",
+          "dt_proc": "10",
+          "loss": "25.8",
+          "pct_loss": "5.4%",
+          "overlap": "255",
+          "ket": "D + GF + C + TF",
+          "status": "Actual",
+          "eff": "72.1%"
         }
       ]
     }
@@ -11043,7 +11043,7 @@
       "dt_proc": "25",
       "loss": "10.8",
       "pct_loss": "2.2%",
-      "overlap": "",
+      "overlap": "230",
       "ket": "D + GF + C",
       "status": "Actual",
       "eff": "30.1%"
@@ -11101,18 +11101,18 @@
       "mc": "L 1",
       "jenis": "GF",
       "plan": "",
-      "doff": "",
-      "start": "",
+      "doff": "23:30",
+      "start": "04:20",
       "code": "",
       "std": "35.8",
-      "dt_mc": "",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
-      "overlap": "",
-      "ket": "Doff",
-      "status": "Plan",
-      "eff": ""
+      "dt_mc": "290",
+      "dt_proc": "10",
+      "loss": "25.8",
+      "pct_loss": "5.4%",
+      "overlap": "255",
+      "ket": "D + GF + C + TF",
+      "status": "Actual",
+      "eff": "72.1%"
     }
   ]
 }
