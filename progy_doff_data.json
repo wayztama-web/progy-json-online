@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T18:05:25.268Z",
+  "updatedAt": "2026-09-15T18:10:22.225Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -249,6 +249,28 @@
             "ket": "GF",
             "status": "Plan",
             "eff": ""
+          },
+          {
+            "key": "20260916-NS-L 16-PLAN",
+            "date": "9/16/2026",
+            "shift": "NS",
+            "cluster": "CM3",
+            "group": "NL",
+            "mc": "L 16",
+            "jenis": "GF",
+            "plan": "22:00",
+            "doff": "22:00",
+            "start": "01:00",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "180",
+            "dt_proc": "180",
+            "loss": "-144.2",
+            "pct_loss": "-30.0%",
+            "overlap": "",
+            "ket": "D + GF + TF + R",
+            "status": "Actual",
+            "eff": "-403.0%"
           }
         ],
         "cm6": [
@@ -10291,6 +10313,28 @@
           "ket": "GF",
           "status": "Plan",
           "eff": ""
+        },
+        {
+          "key": "20260916-NS-L 16-PLAN",
+          "date": "9/16/2026",
+          "shift": "NS",
+          "cluster": "CM3",
+          "group": "NL",
+          "mc": "L 16",
+          "jenis": "GF",
+          "plan": "22:00",
+          "doff": "22:00",
+          "start": "01:00",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "180",
+          "dt_proc": "180",
+          "loss": "-144.2",
+          "pct_loss": "-30.0%",
+          "overlap": "",
+          "ket": "D + GF + TF + R",
+          "status": "Actual",
+          "eff": "-403.0%"
         }
       ],
       "cm6": [
@@ -10759,6 +10803,28 @@
       "ket": "GF",
       "status": "Plan",
       "eff": ""
+    },
+    {
+      "key": "20260916-NS-L 16-PLAN",
+      "date": "9/16/2026",
+      "shift": "NS",
+      "cluster": "CM3",
+      "group": "NL",
+      "mc": "L 16",
+      "jenis": "GF",
+      "plan": "22:00",
+      "doff": "22:00",
+      "start": "01:00",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "180",
+      "dt_proc": "180",
+      "loss": "-144.2",
+      "pct_loss": "-30.0%",
+      "overlap": "",
+      "ket": "D + GF + TF + R",
+      "status": "Actual",
+      "eff": "-403.0%"
     },
     {
       "key": "20260916-NS-Delta 10-PLAN",
