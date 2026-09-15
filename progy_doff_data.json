@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T23:40:20.593Z",
+  "updatedAt": "2026-09-15T23:45:25.978Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -22,6 +22,28 @@
     "2026-09-16": {
       "MS": {
         "cm3": [
+          {
+            "key": "20260916-MS-Heli 6-PLAN",
+            "date": "9/16/2026",
+            "shift": "MS",
+            "cluster": "CM3",
+            "group": "Alidra Heli",
+            "mc": "Heli 6",
+            "jenis": "GF",
+            "plan": "06:00",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "Lanjut proses(TF)",
+            "status": "Plan",
+            "eff": ""
+          },
           {
             "key": "20260916-MS-Heli 2-PLAN",
             "date": "9/16/2026",
@@ -10573,6 +10595,28 @@
     "MS": {
       "cm3": [
         {
+          "key": "20260916-MS-Heli 6-PLAN",
+          "date": "9/16/2026",
+          "shift": "MS",
+          "cluster": "CM3",
+          "group": "Alidra Heli",
+          "mc": "Heli 6",
+          "jenis": "GF",
+          "plan": "06:00",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "Lanjut proses(TF)",
+          "status": "Plan",
+          "eff": ""
+        },
+        {
           "key": "20260916-MS-Heli 2-PLAN",
           "date": "9/16/2026",
           "shift": "MS",
@@ -11556,6 +11600,28 @@
     }
   },
   "rows": [
+    {
+      "key": "20260916-MS-Heli 6-PLAN",
+      "date": "9/16/2026",
+      "shift": "MS",
+      "cluster": "CM3",
+      "group": "Alidra Heli",
+      "mc": "Heli 6",
+      "jenis": "GF",
+      "plan": "06:00",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "Lanjut proses(TF)",
+      "status": "Plan",
+      "eff": ""
+    },
     {
       "key": "20260916-MS-Heli 2-PLAN",
       "date": "9/16/2026",
