@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T23:20:28.534Z",
+  "updatedAt": "2026-09-15T23:25:25.718Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -22,6 +22,28 @@
     "2026-09-16": {
       "MS": {
         "cm3": [
+          {
+            "key": "20260916-MS-Heli 2-PLAN",
+            "date": "9/16/2026",
+            "shift": "MS",
+            "cluster": "CM3",
+            "group": "Alidra Heli",
+            "mc": "Heli 2",
+            "jenis": "GF",
+            "plan": "12:15",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "D+Gf",
+            "status": "Plan",
+            "eff": ""
+          },
           {
             "key": "20260916-MS-DT 9-PLAN",
             "date": "9/16/2026",
@@ -10397,6 +10419,28 @@
     "MS": {
       "cm3": [
         {
+          "key": "20260916-MS-Heli 2-PLAN",
+          "date": "9/16/2026",
+          "shift": "MS",
+          "cluster": "CM3",
+          "group": "Alidra Heli",
+          "mc": "Heli 2",
+          "jenis": "GF",
+          "plan": "12:15",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "D+Gf",
+          "status": "Plan",
+          "eff": ""
+        },
+        {
           "key": "20260916-MS-DT 9-PLAN",
           "date": "9/16/2026",
           "shift": "MS",
@@ -11204,6 +11248,28 @@
     }
   },
   "rows": [
+    {
+      "key": "20260916-MS-Heli 2-PLAN",
+      "date": "9/16/2026",
+      "shift": "MS",
+      "cluster": "CM3",
+      "group": "Alidra Heli",
+      "mc": "Heli 2",
+      "jenis": "GF",
+      "plan": "12:15",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "D+Gf",
+      "status": "Plan",
+      "eff": ""
+    },
     {
       "key": "20260916-MS-DT 9-PLAN",
       "date": "9/16/2026",
