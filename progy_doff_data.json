@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T09:54:46.759Z",
+  "updatedAt": "2026-09-15T09:59:43.894Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -469,28 +469,6 @@
       "AS": {
         "cm3": [
           {
-            "key": "20260915-AS-Heli 1-REP-1500",
-            "date": "9/15/2026",
-            "shift": "AS",
-            "cluster": "CM3",
-            "group": "Alidra Heli",
-            "mc": "Heli 1",
-            "jenis": "GF",
-            "plan": "",
-            "doff": "15:00",
-            "start": "15:00",
-            "code": "",
-            "std": "",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "0.0%",
-            "overlap": "",
-            "ket": "",
-            "status": "0",
-            "eff": "#DIV/0!"
-          },
-          {
             "key": "20260915-AS-Heli 4-PLAN",
             "date": "9/15/2026",
             "shift": "AS",
@@ -734,6 +712,28 @@
           }
         ],
         "cm6": [
+          {
+            "key": "20260915-AS-Delta 5-GF-1500",
+            "date": "9/15/2026",
+            "shift": "AS",
+            "cluster": "CM6",
+            "group": "Delta",
+            "mc": "Delta 5",
+            "jenis": "MTN",
+            "plan": "",
+            "doff": "15:00",
+            "start": "",
+            "code": "GF",
+            "std": "8.3",
+            "dt_mc": "-900",
+            "dt_proc": "-900",
+            "loss": "908.3",
+            "pct_loss": "189.2%",
+            "overlap": "",
+            "ket": "-",
+            "status": "0",
+            "eff": "11009.1%"
+          },
           {
             "key": "20260915-AS-Delta 8-PLAN",
             "date": "9/15/2026",
@@ -11703,28 +11703,6 @@
     "AS": {
       "cm3": [
         {
-          "key": "20260915-AS-Heli 1-REP-1500",
-          "date": "9/15/2026",
-          "shift": "AS",
-          "cluster": "CM3",
-          "group": "Alidra Heli",
-          "mc": "Heli 1",
-          "jenis": "GF",
-          "plan": "",
-          "doff": "15:00",
-          "start": "15:00",
-          "code": "",
-          "std": "",
-          "dt_mc": "",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "0.0%",
-          "overlap": "",
-          "ket": "",
-          "status": "0",
-          "eff": "#DIV/0!"
-        },
-        {
           "key": "20260915-AS-Heli 4-PLAN",
           "date": "9/15/2026",
           "shift": "AS",
@@ -11968,6 +11946,28 @@
         }
       ],
       "cm6": [
+        {
+          "key": "20260915-AS-Delta 5-GF-1500",
+          "date": "9/15/2026",
+          "shift": "AS",
+          "cluster": "CM6",
+          "group": "Delta",
+          "mc": "Delta 5",
+          "jenis": "MTN",
+          "plan": "",
+          "doff": "15:00",
+          "start": "",
+          "code": "GF",
+          "std": "8.3",
+          "dt_mc": "-900",
+          "dt_proc": "-900",
+          "loss": "908.3",
+          "pct_loss": "189.2%",
+          "overlap": "",
+          "ket": "-",
+          "status": "0",
+          "eff": "11009.1%"
+        },
         {
           "key": "20260915-AS-Delta 8-PLAN",
           "date": "9/15/2026",
@@ -13123,28 +13123,6 @@
       "eff": ""
     },
     {
-      "key": "20260915-AS-Heli 1-REP-1500",
-      "date": "9/15/2026",
-      "shift": "AS",
-      "cluster": "CM3",
-      "group": "Alidra Heli",
-      "mc": "Heli 1",
-      "jenis": "GF",
-      "plan": "",
-      "doff": "15:00",
-      "start": "15:00",
-      "code": "",
-      "std": "",
-      "dt_mc": "",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "0.0%",
-      "overlap": "",
-      "ket": "",
-      "status": "0",
-      "eff": "#DIV/0!"
-    },
-    {
       "key": "20260915-AS-Heli 4-PLAN",
       "date": "9/15/2026",
       "shift": "AS",
@@ -13385,6 +13363,28 @@
       "ket": "",
       "status": "Plan",
       "eff": ""
+    },
+    {
+      "key": "20260915-AS-Delta 5-GF-1500",
+      "date": "9/15/2026",
+      "shift": "AS",
+      "cluster": "CM6",
+      "group": "Delta",
+      "mc": "Delta 5",
+      "jenis": "MTN",
+      "plan": "",
+      "doff": "15:00",
+      "start": "",
+      "code": "GF",
+      "std": "8.3",
+      "dt_mc": "-900",
+      "dt_proc": "-900",
+      "loss": "908.3",
+      "pct_loss": "189.2%",
+      "overlap": "",
+      "ket": "-",
+      "status": "0",
+      "eff": "11009.1%"
     },
     {
       "key": "20260915-AS-Delta 8-PLAN",
