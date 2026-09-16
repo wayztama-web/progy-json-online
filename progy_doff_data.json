@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T06:35:47.071Z",
+  "updatedAt": "2026-09-16T06:40:48.623Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -343,16 +343,16 @@
             "plan": "06:00",
             "doff": "06:00",
             "start": "14:00",
-            "code": "",
+            "code": "SCR",
             "std": "112.8",
             "dt_mc": "480",
-            "dt_proc": "90",
-            "loss": "22.8",
-            "pct_loss": "4.8%",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "170",
             "ket": "Persiapan scouring + stop",
             "status": "Actual",
-            "eff": "20.2%"
+            "eff": ""
           },
           {
             "key": "20260916-MS-DT 4-PLAN",
@@ -10915,16 +10915,16 @@
           "plan": "06:00",
           "doff": "06:00",
           "start": "14:00",
-          "code": "",
+          "code": "SCR",
           "std": "112.8",
           "dt_mc": "480",
-          "dt_proc": "90",
-          "loss": "22.8",
-          "pct_loss": "4.8%",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "170",
           "ket": "Persiapan scouring + stop",
           "status": "Actual",
-          "eff": "20.2%"
+          "eff": ""
         },
         {
           "key": "20260916-MS-DT 4-PLAN",
@@ -11919,16 +11919,16 @@
       "plan": "06:00",
       "doff": "06:00",
       "start": "14:00",
-      "code": "",
+      "code": "SCR",
       "std": "112.8",
       "dt_mc": "480",
-      "dt_proc": "90",
-      "loss": "22.8",
-      "pct_loss": "4.8%",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "170",
       "ket": "Persiapan scouring + stop",
       "status": "Actual",
-      "eff": "20.2%"
+      "eff": ""
     },
     {
       "key": "20260916-MS-DT 4-PLAN",
