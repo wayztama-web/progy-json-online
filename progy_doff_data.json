@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T08:40:49.364Z",
+  "updatedAt": "2026-09-16T08:46:04.276Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -9950,15 +9950,15 @@
             "doff": "19:40",
             "start": "20:25",
             "code": "",
-            "std": "17.8",
+            "std": "",
             "dt_mc": "45",
             "dt_proc": "20",
-            "loss": "-2.2",
-            "pct_loss": "-0.5%",
+            "loss": "-20.0",
+            "pct_loss": "-4.2%",
             "overlap": "",
             "ket": "D+Crealing+HB+Dah heli 8",
             "status": "Actual",
-            "eff": "-12.5%"
+            "eff": "#DIV/0!"
           },
           {
             "key": "20260910-AS-DT 14-PLAN",
