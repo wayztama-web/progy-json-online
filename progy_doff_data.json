@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T14:47:43.684Z",
+  "updatedAt": "2026-09-17T14:52:47.455Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1439,7 +1439,7 @@
             "dt_proc": "250",
             "loss": "-213.0",
             "pct_loss": "-44.4%",
-            "overlap": "490",
+            "overlap": "",
             "ket": "Stop awal+ D+GF",
             "status": "Actual",
             "eff": "-574.8%"
@@ -1533,6 +1533,28 @@
             "eff": "-142.4%"
           },
           {
+            "key": "20260917-NS-DT 7-PLAN",
+            "date": "9/17/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR DT",
+            "mc": "DT 7",
+            "jenis": "D",
+            "plan": "02:40",
+            "doff": "14:15",
+            "start": "16:05",
+            "code": "D",
+            "std": "13.5",
+            "dt_mc": "110",
+            "dt_proc": "110",
+            "loss": "-96.5",
+            "pct_loss": "-20.1%",
+            "overlap": "145",
+            "ket": "D + C + HB (18) + Dahulukan DT 5",
+            "status": "Actual",
+            "eff": "-717.6%"
+          },
+          {
             "key": "20260917-NS-DT 6-PLAN",
             "date": "9/17/2026",
             "shift": "NS",
@@ -1546,13 +1568,13 @@
             "code": "D",
             "std": "82.7",
             "dt_mc": "160",
-            "dt_proc": "160",
-            "loss": "-77.3",
-            "pct_loss": "-16.1%",
+            "dt_proc": "35",
+            "loss": "47.7",
+            "pct_loss": "9.9%",
             "overlap": "765",
             "ket": "D + GF (2x)",
             "status": "Actual",
-            "eff": "-93.4%"
+            "eff": "57.7%"
           },
           {
             "key": "20260917-NS-DT 3-PLAN",
@@ -1619,28 +1641,6 @@
             "ket": "D + GF + Dahulukan DT 3 + Pergantian Istirahat + Cleaning  m/c",
             "status": "Actual",
             "eff": "-45.1%"
-          },
-          {
-            "key": "20260917-NS-DT 7-PLAN",
-            "date": "9/17/2026",
-            "shift": "NS",
-            "cluster": "CM6",
-            "group": "TBR DT",
-            "mc": "DT 7",
-            "jenis": "D",
-            "plan": "02:40",
-            "doff": "14:15",
-            "start": "03:20",
-            "code": "D",
-            "std": "13.5",
-            "dt_mc": "785",
-            "dt_proc": "35",
-            "loss": "-21.5",
-            "pct_loss": "-4.5%",
-            "overlap": "145",
-            "ket": "D + C + HB (18) + Dahulukan DT 5",
-            "status": "Actual",
-            "eff": "-160.1%"
           }
         ]
       }
@@ -12761,7 +12761,7 @@
           "dt_proc": "250",
           "loss": "-213.0",
           "pct_loss": "-44.4%",
-          "overlap": "490",
+          "overlap": "",
           "ket": "Stop awal+ D+GF",
           "status": "Actual",
           "eff": "-574.8%"
@@ -12855,6 +12855,28 @@
           "eff": "-142.4%"
         },
         {
+          "key": "20260917-NS-DT 7-PLAN",
+          "date": "9/17/2026",
+          "shift": "NS",
+          "cluster": "CM6",
+          "group": "TBR DT",
+          "mc": "DT 7",
+          "jenis": "D",
+          "plan": "02:40",
+          "doff": "14:15",
+          "start": "16:05",
+          "code": "D",
+          "std": "13.5",
+          "dt_mc": "110",
+          "dt_proc": "110",
+          "loss": "-96.5",
+          "pct_loss": "-20.1%",
+          "overlap": "145",
+          "ket": "D + C + HB (18) + Dahulukan DT 5",
+          "status": "Actual",
+          "eff": "-717.6%"
+        },
+        {
           "key": "20260917-NS-DT 6-PLAN",
           "date": "9/17/2026",
           "shift": "NS",
@@ -12868,13 +12890,13 @@
           "code": "D",
           "std": "82.7",
           "dt_mc": "160",
-          "dt_proc": "160",
-          "loss": "-77.3",
-          "pct_loss": "-16.1%",
+          "dt_proc": "35",
+          "loss": "47.7",
+          "pct_loss": "9.9%",
           "overlap": "765",
           "ket": "D + GF (2x)",
           "status": "Actual",
-          "eff": "-93.4%"
+          "eff": "57.7%"
         },
         {
           "key": "20260917-NS-DT 3-PLAN",
@@ -12941,28 +12963,6 @@
           "ket": "D + GF + Dahulukan DT 3 + Pergantian Istirahat + Cleaning  m/c",
           "status": "Actual",
           "eff": "-45.1%"
-        },
-        {
-          "key": "20260917-NS-DT 7-PLAN",
-          "date": "9/17/2026",
-          "shift": "NS",
-          "cluster": "CM6",
-          "group": "TBR DT",
-          "mc": "DT 7",
-          "jenis": "D",
-          "plan": "02:40",
-          "doff": "14:15",
-          "start": "03:20",
-          "code": "D",
-          "std": "13.5",
-          "dt_mc": "785",
-          "dt_proc": "35",
-          "loss": "-21.5",
-          "pct_loss": "-4.5%",
-          "overlap": "145",
-          "ket": "D + C + HB (18) + Dahulukan DT 5",
-          "status": "Actual",
-          "eff": "-160.1%"
         }
       ]
     }
@@ -14371,7 +14371,7 @@
       "dt_proc": "250",
       "loss": "-213.0",
       "pct_loss": "-44.4%",
-      "overlap": "490",
+      "overlap": "",
       "ket": "Stop awal+ D+GF",
       "status": "Actual",
       "eff": "-574.8%"
@@ -14465,6 +14465,28 @@
       "eff": "-142.4%"
     },
     {
+      "key": "20260917-NS-DT 7-PLAN",
+      "date": "9/17/2026",
+      "shift": "NS",
+      "cluster": "CM6",
+      "group": "TBR DT",
+      "mc": "DT 7",
+      "jenis": "D",
+      "plan": "02:40",
+      "doff": "14:15",
+      "start": "16:05",
+      "code": "D",
+      "std": "13.5",
+      "dt_mc": "110",
+      "dt_proc": "110",
+      "loss": "-96.5",
+      "pct_loss": "-20.1%",
+      "overlap": "145",
+      "ket": "D + C + HB (18) + Dahulukan DT 5",
+      "status": "Actual",
+      "eff": "-717.6%"
+    },
+    {
       "key": "20260917-NS-DT 6-PLAN",
       "date": "9/17/2026",
       "shift": "NS",
@@ -14478,13 +14500,13 @@
       "code": "D",
       "std": "82.7",
       "dt_mc": "160",
-      "dt_proc": "160",
-      "loss": "-77.3",
-      "pct_loss": "-16.1%",
+      "dt_proc": "35",
+      "loss": "47.7",
+      "pct_loss": "9.9%",
       "overlap": "765",
       "ket": "D + GF (2x)",
       "status": "Actual",
-      "eff": "-93.4%"
+      "eff": "57.7%"
     },
     {
       "key": "20260917-NS-DT 3-PLAN",
@@ -14551,28 +14573,6 @@
       "ket": "D + GF + Dahulukan DT 3 + Pergantian Istirahat + Cleaning  m/c",
       "status": "Actual",
       "eff": "-45.1%"
-    },
-    {
-      "key": "20260917-NS-DT 7-PLAN",
-      "date": "9/17/2026",
-      "shift": "NS",
-      "cluster": "CM6",
-      "group": "TBR DT",
-      "mc": "DT 7",
-      "jenis": "D",
-      "plan": "02:40",
-      "doff": "14:15",
-      "start": "03:20",
-      "code": "D",
-      "std": "13.5",
-      "dt_mc": "785",
-      "dt_proc": "35",
-      "loss": "-21.5",
-      "pct_loss": "-4.5%",
-      "overlap": "145",
-      "ket": "D + C + HB (18) + Dahulukan DT 5",
-      "status": "Actual",
-      "eff": "-160.1%"
     }
   ]
 }
