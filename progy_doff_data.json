@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T06:12:03.172Z",
+  "updatedAt": "2026-09-17T06:16:52.451Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -321,16 +321,16 @@
             "plan": "11:40",
             "doff": "12:00",
             "start": "14:00",
-            "code": "",
+            "code": "L",
             "std": "112.8",
             "dt_mc": "120",
-            "dt_proc": "60",
-            "loss": "52.8",
-            "pct_loss": "11.0%",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "Doff + gf saja+ Dahl MC no 8",
             "status": "Actual",
-            "eff": "46.8%"
+            "eff": ""
           },
           {
             "key": "20260917-MS-DT 4-PLAN",
@@ -10959,16 +10959,16 @@
           "plan": "11:40",
           "doff": "12:00",
           "start": "14:00",
-          "code": "",
+          "code": "L",
           "std": "112.8",
           "dt_mc": "120",
-          "dt_proc": "60",
-          "loss": "52.8",
-          "pct_loss": "11.0%",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "",
           "ket": "Doff + gf saja+ Dahl MC no 8",
           "status": "Actual",
-          "eff": "46.8%"
+          "eff": ""
         },
         {
           "key": "20260917-MS-DT 4-PLAN",
@@ -11897,16 +11897,16 @@
       "plan": "11:40",
       "doff": "12:00",
       "start": "14:00",
-      "code": "",
+      "code": "L",
       "std": "112.8",
       "dt_mc": "120",
-      "dt_proc": "60",
-      "loss": "52.8",
-      "pct_loss": "11.0%",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "",
       "ket": "Doff + gf saja+ Dahl MC no 8",
       "status": "Actual",
-      "eff": "46.8%"
+      "eff": ""
     },
     {
       "key": "20260917-MS-DT 4-PLAN",
