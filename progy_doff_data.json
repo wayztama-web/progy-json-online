@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T11:57:25.580Z",
+  "updatedAt": "2026-09-17T12:02:24.772Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -2655,9 +2655,9 @@
             "mc": "L 8",
             "jenis": "GF",
             "plan": "16:30",
-            "doff": "17:15",
-            "start": "17:35",
-            "code": "",
+            "doff": "17:45",
+            "start": "18:50",
+            "code": "GF",
             "std": "35.8",
             "dt_mc": "",
             "dt_proc": "",
@@ -2685,7 +2685,7 @@
             "dt_proc": "",
             "loss": "",
             "pct_loss": "",
-            "overlap": "195",
+            "overlap": "270",
             "ket": "D+GF+C+Perg.istirahat",
             "status": "Actual",
             "eff": ""
