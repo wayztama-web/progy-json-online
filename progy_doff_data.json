@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T13:32:33.416Z",
+  "updatedAt": "2026-09-17T13:37:39.977Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -774,6 +774,28 @@
             "overlap": "",
             "ket": "Doff",
             "status": "Plan",
+            "eff": ""
+          },
+          {
+            "key": "20260917-AS-L 16-REP-2032",
+            "date": "9/17/2026",
+            "shift": "AS",
+            "cluster": "CM3",
+            "group": "TBR L",
+            "mc": "L 16",
+            "jenis": "MTN",
+            "plan": "",
+            "doff": "20:32",
+            "start": "21:15",
+            "code": "REP",
+            "std": "35.8",
+            "dt_mc": "43",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "0",
             "eff": ""
           }
         ],
@@ -12075,6 +12097,28 @@
           "ket": "Doff",
           "status": "Plan",
           "eff": ""
+        },
+        {
+          "key": "20260917-AS-L 16-REP-2032",
+          "date": "9/17/2026",
+          "shift": "AS",
+          "cluster": "CM3",
+          "group": "TBR L",
+          "mc": "L 16",
+          "jenis": "MTN",
+          "plan": "",
+          "doff": "20:32",
+          "start": "21:15",
+          "code": "REP",
+          "std": "35.8",
+          "dt_mc": "43",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "0",
+          "eff": ""
         }
       ],
       "cm6": [
@@ -13670,6 +13714,28 @@
       "overlap": "",
       "ket": "Doff",
       "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20260917-AS-L 16-REP-2032",
+      "date": "9/17/2026",
+      "shift": "AS",
+      "cluster": "CM3",
+      "group": "TBR L",
+      "mc": "L 16",
+      "jenis": "MTN",
+      "plan": "",
+      "doff": "20:32",
+      "start": "21:15",
+      "code": "REP",
+      "std": "35.8",
+      "dt_mc": "43",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "0",
       "eff": ""
     },
     {
