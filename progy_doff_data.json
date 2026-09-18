@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T21:58:39.493Z",
+  "updatedAt": "2026-09-18T22:03:48.284Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -556,7 +556,7 @@
             "dt_proc": "35",
             "loss": "0.8",
             "pct_loss": "0.2%",
-            "overlap": "",
+            "overlap": "315",
             "ket": "D + GF + C",
             "status": "Actual",
             "eff": "2.2%"
@@ -592,8 +592,8 @@
             "mc": "L 5",
             "jenis": "GF",
             "plan": "05:00",
-            "doff": "",
-            "start": "",
+            "doff": "05:40",
+            "start": "06:00",
             "code": "",
             "std": "35.8",
             "dt_mc": "",
@@ -601,8 +601,8 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "",
-            "status": "Plan",
+            "ket": "Stop akhir, belum di doff",
+            "status": "Actual",
             "eff": ""
           }
         ]
@@ -10797,7 +10797,7 @@
           "dt_proc": "35",
           "loss": "0.8",
           "pct_loss": "0.2%",
-          "overlap": "",
+          "overlap": "315",
           "ket": "D + GF + C",
           "status": "Actual",
           "eff": "2.2%"
@@ -10833,8 +10833,8 @@
           "mc": "L 5",
           "jenis": "GF",
           "plan": "05:00",
-          "doff": "",
-          "start": "",
+          "doff": "05:40",
+          "start": "06:00",
           "code": "",
           "std": "35.8",
           "dt_mc": "",
@@ -10842,8 +10842,8 @@
           "loss": "",
           "pct_loss": "",
           "overlap": "",
-          "ket": "",
-          "status": "Plan",
+          "ket": "Stop akhir, belum di doff",
+          "status": "Actual",
           "eff": ""
         }
       ]
@@ -11373,7 +11373,7 @@
       "dt_proc": "35",
       "loss": "0.8",
       "pct_loss": "0.2%",
-      "overlap": "",
+      "overlap": "315",
       "ket": "D + GF + C",
       "status": "Actual",
       "eff": "2.2%"
@@ -11409,8 +11409,8 @@
       "mc": "L 5",
       "jenis": "GF",
       "plan": "05:00",
-      "doff": "",
-      "start": "",
+      "doff": "05:40",
+      "start": "06:00",
       "code": "",
       "std": "35.8",
       "dt_mc": "",
@@ -11418,8 +11418,8 @@
       "loss": "",
       "pct_loss": "",
       "overlap": "",
-      "ket": "",
-      "status": "Plan",
+      "ket": "Stop akhir, belum di doff",
+      "status": "Actual",
       "eff": ""
     }
   ]
