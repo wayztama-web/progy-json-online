@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-18T22:58:38.047Z",
-  "source": "Wirawan",
+  "updatedAt": "2026-09-18T23:08:44.791Z",
+  "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
-  "si": "Wirawan",
+  "si": "Eko BY",
   "siCell": "BV5",
-  "siValue": "Wirawan",
+  "siValue": "Eko BY",
   "siReadMode": "BV5 read before date and shift history update",
   "historyDays": 7,
   "latestDate": "2026-09-19",
@@ -10256,10 +10256,10 @@
     }
   },
   "dateSelector": "9/19/2026",
-  "shiftSelector": "NS",
+  "shiftSelector": "MS",
   "productionDateSerial": 46284,
   "productionDateText": "9/19/2026",
-  "shiftSet": "NS",
+  "shiftSet": "MS",
   "shifts": {
     "MS": {
       "cm3": [],
