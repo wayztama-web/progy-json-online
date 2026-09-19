@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T15:09:34.525Z",
+  "updatedAt": "2026-09-19T15:14:34.625Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -29,7 +29,30 @@
         "cm6": []
       },
       "NS": {
-        "cm3": [],
+        "cm3": [
+          {
+            "key": "20260920-NS-Heli 2-PLAN",
+            "date": "9/20/2026",
+            "shift": "NS",
+            "cluster": "CM3",
+            "group": "Alidra Heli",
+            "mc": "Heli 2",
+            "jenis": "D",
+            "plan": "03:20",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "17.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          }
+        ],
         "cm6": []
       }
     },
@@ -10245,9 +10268,55 @@
       "cm6": []
     },
     "NS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20260920-NS-Heli 2-PLAN",
+          "date": "9/20/2026",
+          "shift": "NS",
+          "cluster": "CM3",
+          "group": "Alidra Heli",
+          "mc": "Heli 2",
+          "jenis": "D",
+          "plan": "03:20",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "17.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        }
+      ],
       "cm6": []
     }
   },
-  "rows": []
+  "rows": [
+    {
+      "key": "20260920-NS-Heli 2-PLAN",
+      "date": "9/20/2026",
+      "shift": "NS",
+      "cluster": "CM3",
+      "group": "Alidra Heli",
+      "mc": "Heli 2",
+      "jenis": "D",
+      "plan": "03:20",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "17.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    }
+  ]
 }
