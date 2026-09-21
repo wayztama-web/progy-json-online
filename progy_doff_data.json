@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T15:27:10.696Z",
+  "updatedAt": "2026-09-21T15:32:12.975Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1065,18 +1065,18 @@
             "mc": "Heli 2",
             "jenis": "D",
             "plan": "20:00",
-            "doff": "",
+            "doff": "21:30",
             "start": "",
-            "code": "",
+            "code": "GF",
             "std": "17.8",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "dt_mc": "-1290",
+            "dt_proc": "-1290",
+            "loss": "1307.8",
+            "pct_loss": "272.5%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "7356.3%"
           },
           {
             "key": "20260921-AS-DT 13-PLAN",
