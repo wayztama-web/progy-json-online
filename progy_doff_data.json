@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T15:14:15.328Z",
+  "updatedAt": "2026-09-21T15:17:10.871Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -30,6 +30,28 @@
       },
       "NS": {
         "cm3": [
+          {
+            "key": "20260922-NS-DT 8-PLAN",
+            "date": "9/22/2026",
+            "shift": "NS",
+            "cluster": "CM3",
+            "group": "DT New",
+            "mc": "DT 8",
+            "jenis": "GF",
+            "plan": "02:20",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "82.7",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          },
           {
             "key": "20260922-NS-L 16-PLAN",
             "date": "9/22/2026",
@@ -10468,6 +10490,28 @@
     "NS": {
       "cm3": [
         {
+          "key": "20260922-NS-DT 8-PLAN",
+          "date": "9/22/2026",
+          "shift": "NS",
+          "cluster": "CM3",
+          "group": "DT New",
+          "mc": "DT 8",
+          "jenis": "GF",
+          "plan": "02:20",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "82.7",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        },
+        {
           "key": "20260922-NS-L 16-PLAN",
           "date": "9/22/2026",
           "shift": "NS",
@@ -10494,6 +10538,28 @@
     }
   },
   "rows": [
+    {
+      "key": "20260922-NS-DT 8-PLAN",
+      "date": "9/22/2026",
+      "shift": "NS",
+      "cluster": "CM3",
+      "group": "DT New",
+      "mc": "DT 8",
+      "jenis": "GF",
+      "plan": "02:20",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "82.7",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
     {
       "key": "20260922-NS-L 16-PLAN",
       "date": "9/22/2026",
