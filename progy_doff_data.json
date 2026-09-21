@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T12:26:52.613Z",
+  "updatedAt": "2026-09-21T12:31:58.879Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1662,28 +1662,6 @@
             "overlap": "",
             "ket": "D + dari DT3",
             "status": "Actual",
-            "eff": ""
-          },
-          {
-            "key": "20260921-NS-L 4-PLAN",
-            "date": "9/21/2026",
-            "shift": "NS",
-            "cluster": "CM6",
-            "group": "TBR L",
-            "mc": "L 4",
-            "jenis": "D",
-            "plan": "22:30",
-            "doff": "23:00",
-            "start": "",
-            "code": "REP",
-            "std": "35.8",
-            "dt_mc": "-1380",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
-            "overlap": "",
-            "ket": "",
-            "status": "Plan",
             "eff": ""
           }
         ]
@@ -13491,28 +13469,6 @@
           "ket": "D + dari DT3",
           "status": "Actual",
           "eff": ""
-        },
-        {
-          "key": "20260921-NS-L 4-PLAN",
-          "date": "9/21/2026",
-          "shift": "NS",
-          "cluster": "CM6",
-          "group": "TBR L",
-          "mc": "L 4",
-          "jenis": "D",
-          "plan": "22:30",
-          "doff": "23:00",
-          "start": "",
-          "code": "REP",
-          "std": "35.8",
-          "dt_mc": "-1380",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
-          "overlap": "",
-          "ket": "",
-          "status": "Plan",
-          "eff": ""
         }
       ]
     }
@@ -15144,28 +15100,6 @@
       "overlap": "",
       "ket": "D + dari DT3",
       "status": "Actual",
-      "eff": ""
-    },
-    {
-      "key": "20260921-NS-L 4-PLAN",
-      "date": "9/21/2026",
-      "shift": "NS",
-      "cluster": "CM6",
-      "group": "TBR L",
-      "mc": "L 4",
-      "jenis": "D",
-      "plan": "22:30",
-      "doff": "23:00",
-      "start": "",
-      "code": "REP",
-      "std": "35.8",
-      "dt_mc": "-1380",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
-      "overlap": "",
-      "ket": "",
-      "status": "Plan",
       "eff": ""
     }
   ]
