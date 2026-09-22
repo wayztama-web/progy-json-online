@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T12:08:11.545Z",
+  "updatedAt": "2026-09-22T12:13:08.900Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -742,10 +742,10 @@
             "jenis": "MTN",
             "plan": "",
             "doff": "19:01",
-            "start": "",
+            "start": "19:09",
             "code": "REP",
             "std": "13.5",
-            "dt_mc": "-1141",
+            "dt_mc": "8",
             "dt_proc": "",
             "loss": "",
             "pct_loss": "",
@@ -1149,7 +1149,7 @@
             "pct_loss": "1.2%",
             "overlap": "",
             "ket": "Doff",
-            "status": "Plan",
+            "status": "Actual",
             "eff": "16.2%"
           },
           {
@@ -12966,10 +12966,10 @@
           "jenis": "MTN",
           "plan": "",
           "doff": "19:01",
-          "start": "",
+          "start": "19:09",
           "code": "REP",
           "std": "13.5",
-          "dt_mc": "-1141",
+          "dt_mc": "8",
           "dt_proc": "",
           "loss": "",
           "pct_loss": "",
@@ -13373,7 +13373,7 @@
           "pct_loss": "1.2%",
           "overlap": "",
           "ket": "Doff",
-          "status": "Plan",
+          "status": "Actual",
           "eff": "16.2%"
         },
         {
@@ -14782,10 +14782,10 @@
       "jenis": "MTN",
       "plan": "",
       "doff": "19:01",
-      "start": "",
+      "start": "19:09",
       "code": "REP",
       "std": "13.5",
-      "dt_mc": "-1141",
+      "dt_mc": "8",
       "dt_proc": "",
       "loss": "",
       "pct_loss": "",
@@ -15187,7 +15187,7 @@
       "pct_loss": "1.2%",
       "overlap": "",
       "ket": "Doff",
-      "status": "Plan",
+      "status": "Actual",
       "eff": "16.2%"
     },
     {
