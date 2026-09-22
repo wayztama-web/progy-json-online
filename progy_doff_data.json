@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T22:38:28.073Z",
+  "updatedAt": "2026-09-22T22:43:27.425Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -374,16 +374,16 @@
             "plan": "05:40",
             "doff": "05:45",
             "start": "06:00",
-            "code": "",
+            "code": "L",
             "std": "37.1",
             "dt_mc": "15",
-            "dt_proc": "15",
-            "loss": "22.1",
-            "pct_loss": "4.6%",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "Doff akhir + TDK doff",
             "status": "Actual",
-            "eff": "59.5%"
+            "eff": ""
           },
           {
             "key": "20260923-NS-DT 7-PLAN",
@@ -11187,16 +11187,16 @@
           "plan": "05:40",
           "doff": "05:45",
           "start": "06:00",
-          "code": "",
+          "code": "L",
           "std": "37.1",
           "dt_mc": "15",
-          "dt_proc": "15",
-          "loss": "22.1",
-          "pct_loss": "4.6%",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "",
           "ket": "Doff akhir + TDK doff",
           "status": "Actual",
-          "eff": "59.5%"
+          "eff": ""
         },
         {
           "key": "20260923-NS-DT 7-PLAN",
@@ -11653,16 +11653,16 @@
       "plan": "05:40",
       "doff": "05:45",
       "start": "06:00",
-      "code": "",
+      "code": "L",
       "std": "37.1",
       "dt_mc": "15",
-      "dt_proc": "15",
-      "loss": "22.1",
-      "pct_loss": "4.6%",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "",
       "ket": "Doff akhir + TDK doff",
       "status": "Actual",
-      "eff": "59.5%"
+      "eff": ""
     },
     {
       "key": "20260923-NS-DT 7-PLAN",
