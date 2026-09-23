@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T11:39:14.527Z",
+  "updatedAt": "2026-09-23T11:44:13.856Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -821,6 +821,28 @@
       "AS": {
         "cm3": [
           {
+            "key": "20260923-AS-Heli 2-PLAN",
+            "date": "9/23/2026",
+            "shift": "AS",
+            "cluster": "CM3",
+            "group": "Alidra Heli",
+            "mc": "Heli 2",
+            "jenis": "GF",
+            "plan": "16:00",
+            "doff": "16:00",
+            "start": "18:35",
+            "code": "",
+            "std": "97.3",
+            "dt_mc": "155",
+            "dt_proc": "155",
+            "loss": "-57.7",
+            "pct_loss": "-12.0%",
+            "overlap": "70",
+            "ket": "D+GF+C+Istirahat+Dah Heli 6",
+            "status": "Actual",
+            "eff": "-59.2%"
+          },
+          {
             "key": "20260923-AS-DT 13-PLAN",
             "date": "9/23/2026",
             "shift": "AS",
@@ -987,14 +1009,14 @@
             "start": "17:10",
             "code": "",
             "std": "35.8",
-            "dt_mc": "40",
-            "dt_proc": "40",
-            "loss": "-4.2",
-            "pct_loss": "-0.9%",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "D + GF + R",
             "status": "Actual",
-            "eff": "-11.8%"
+            "eff": ""
           }
         ],
         "cm6": [
@@ -12891,6 +12913,28 @@
     "AS": {
       "cm3": [
         {
+          "key": "20260923-AS-Heli 2-PLAN",
+          "date": "9/23/2026",
+          "shift": "AS",
+          "cluster": "CM3",
+          "group": "Alidra Heli",
+          "mc": "Heli 2",
+          "jenis": "GF",
+          "plan": "16:00",
+          "doff": "16:00",
+          "start": "18:35",
+          "code": "",
+          "std": "97.3",
+          "dt_mc": "155",
+          "dt_proc": "155",
+          "loss": "-57.7",
+          "pct_loss": "-12.0%",
+          "overlap": "70",
+          "ket": "D+GF+C+Istirahat+Dah Heli 6",
+          "status": "Actual",
+          "eff": "-59.2%"
+        },
+        {
           "key": "20260923-AS-DT 13-PLAN",
           "date": "9/23/2026",
           "shift": "AS",
@@ -13057,14 +13101,14 @@
           "start": "17:10",
           "code": "",
           "std": "35.8",
-          "dt_mc": "40",
-          "dt_proc": "40",
-          "loss": "-4.2",
-          "pct_loss": "-0.9%",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "",
           "ket": "D + GF + R",
           "status": "Actual",
-          "eff": "-11.8%"
+          "eff": ""
         }
       ],
       "cm6": [
@@ -14619,6 +14663,28 @@
       "eff": "-81.6%"
     },
     {
+      "key": "20260923-AS-Heli 2-PLAN",
+      "date": "9/23/2026",
+      "shift": "AS",
+      "cluster": "CM3",
+      "group": "Alidra Heli",
+      "mc": "Heli 2",
+      "jenis": "GF",
+      "plan": "16:00",
+      "doff": "16:00",
+      "start": "18:35",
+      "code": "",
+      "std": "97.3",
+      "dt_mc": "155",
+      "dt_proc": "155",
+      "loss": "-57.7",
+      "pct_loss": "-12.0%",
+      "overlap": "70",
+      "ket": "D+GF+C+Istirahat+Dah Heli 6",
+      "status": "Actual",
+      "eff": "-59.2%"
+    },
+    {
       "key": "20260923-AS-DT 13-PLAN",
       "date": "9/23/2026",
       "shift": "AS",
@@ -14785,14 +14851,14 @@
       "start": "17:10",
       "code": "",
       "std": "35.8",
-      "dt_mc": "40",
-      "dt_proc": "40",
-      "loss": "-4.2",
-      "pct_loss": "-0.9%",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "",
       "ket": "D + GF + R",
       "status": "Actual",
-      "eff": "-11.8%"
+      "eff": ""
     },
     {
       "key": "20260923-AS-Delta 1-PLAN",
