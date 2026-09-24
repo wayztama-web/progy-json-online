@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T07:15:14.123Z",
+  "updatedAt": "2026-09-24T07:20:07.423Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -622,6 +622,28 @@
       },
       "AS": {
         "cm3": [
+          {
+            "key": "20260924-AS-DT 14-PLAN",
+            "date": "9/24/2026",
+            "shift": "AS",
+            "cluster": "CM3",
+            "group": "DT New",
+            "mc": "DT 14",
+            "jenis": "GF",
+            "plan": "12:00",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "82.7",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "LP/TF awal",
+            "status": "Plan",
+            "eff": ""
+          },
           {
             "key": "20260924-AS-DT 9-PLAN",
             "date": "9/24/2026",
@@ -12649,6 +12671,28 @@
     "AS": {
       "cm3": [
         {
+          "key": "20260924-AS-DT 14-PLAN",
+          "date": "9/24/2026",
+          "shift": "AS",
+          "cluster": "CM3",
+          "group": "DT New",
+          "mc": "DT 14",
+          "jenis": "GF",
+          "plan": "12:00",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "82.7",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "LP/TF awal",
+          "status": "Plan",
+          "eff": ""
+        },
+        {
           "key": "20260924-AS-DT 9-PLAN",
           "date": "9/24/2026",
           "shift": "AS",
@@ -14087,6 +14131,28 @@
       "pct_loss": "",
       "overlap": "110",
       "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20260924-AS-DT 14-PLAN",
+      "date": "9/24/2026",
+      "shift": "AS",
+      "cluster": "CM3",
+      "group": "DT New",
+      "mc": "DT 14",
+      "jenis": "GF",
+      "plan": "12:00",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "82.7",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "LP/TF awal",
       "status": "Plan",
       "eff": ""
     },
