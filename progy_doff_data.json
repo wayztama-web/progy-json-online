@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T14:40:53.657Z",
+  "updatedAt": "2026-09-24T14:46:12.260Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -640,7 +640,7 @@
             "loss": "-82.2",
             "pct_loss": "-17.1%",
             "overlap": "475",
-            "ket": "D+HB(39)+C+briefing",
+            "ket": "Doff awal +patroling+brefing+HB 39 spd+C",
             "status": "Actual",
             "eff": "-462.5%"
           },
@@ -662,7 +662,7 @@
             "loss": "2.8",
             "pct_loss": "0.6%",
             "overlap": "",
-            "ket": "Stop Akhir (belum di doff)",
+            "ket": "Doff akhir(blm di doff)",
             "status": "Actual",
             "eff": "15.6%"
           },
@@ -12864,7 +12864,7 @@
           "loss": "-82.2",
           "pct_loss": "-17.1%",
           "overlap": "475",
-          "ket": "D+HB(39)+C+briefing",
+          "ket": "Doff awal +patroling+brefing+HB 39 spd+C",
           "status": "Actual",
           "eff": "-462.5%"
         },
@@ -12886,7 +12886,7 @@
           "loss": "2.8",
           "pct_loss": "0.6%",
           "overlap": "",
-          "ket": "Stop Akhir (belum di doff)",
+          "ket": "Doff akhir(blm di doff)",
           "status": "Actual",
           "eff": "15.6%"
         },
@@ -14504,7 +14504,7 @@
       "loss": "-82.2",
       "pct_loss": "-17.1%",
       "overlap": "475",
-      "ket": "D+HB(39)+C+briefing",
+      "ket": "Doff awal +patroling+brefing+HB 39 spd+C",
       "status": "Actual",
       "eff": "-462.5%"
     },
@@ -14526,7 +14526,7 @@
       "loss": "2.8",
       "pct_loss": "0.6%",
       "overlap": "",
-      "ket": "Stop Akhir (belum di doff)",
+      "ket": "Doff akhir(blm di doff)",
       "status": "Actual",
       "eff": "15.6%"
     },
