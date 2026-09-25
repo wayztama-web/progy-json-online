@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T22:47:09.582Z",
+  "updatedAt": "2026-09-25T22:52:05.399Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -136,7 +136,7 @@
             "dt_proc": "40",
             "loss": "-26.5",
             "pct_loss": "-5.5%",
-            "overlap": "",
+            "overlap": "230",
             "ket": "D+C+HB.Banyak",
             "status": "Actual",
             "eff": "-197.3%"
@@ -238,8 +238,8 @@
             "mc": "L 17",
             "jenis": "GF",
             "plan": "05:00",
-            "doff": "",
-            "start": "",
+            "doff": "03:00",
+            "start": "03:30",
             "code": "",
             "std": "35.8",
             "dt_mc": "",
@@ -247,8 +247,8 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "",
-            "status": "Plan",
+            "ket": "D+ GF",
+            "status": "Actual",
             "eff": ""
           }
         ],
@@ -10751,7 +10751,7 @@
           "dt_proc": "40",
           "loss": "-26.5",
           "pct_loss": "-5.5%",
-          "overlap": "",
+          "overlap": "230",
           "ket": "D+C+HB.Banyak",
           "status": "Actual",
           "eff": "-197.3%"
@@ -10853,8 +10853,8 @@
           "mc": "L 17",
           "jenis": "GF",
           "plan": "05:00",
-          "doff": "",
-          "start": "",
+          "doff": "03:00",
+          "start": "03:30",
           "code": "",
           "std": "35.8",
           "dt_mc": "",
@@ -10862,8 +10862,8 @@
           "loss": "",
           "pct_loss": "",
           "overlap": "",
-          "ket": "",
-          "status": "Plan",
+          "ket": "D+ GF",
+          "status": "Actual",
           "eff": ""
         }
       ],
@@ -11329,7 +11329,7 @@
       "dt_proc": "40",
       "loss": "-26.5",
       "pct_loss": "-5.5%",
-      "overlap": "",
+      "overlap": "230",
       "ket": "D+C+HB.Banyak",
       "status": "Actual",
       "eff": "-197.3%"
@@ -11431,8 +11431,8 @@
       "mc": "L 17",
       "jenis": "GF",
       "plan": "05:00",
-      "doff": "",
-      "start": "",
+      "doff": "03:00",
+      "start": "03:30",
       "code": "",
       "std": "35.8",
       "dt_mc": "",
@@ -11440,8 +11440,8 @@
       "loss": "",
       "pct_loss": "",
       "overlap": "",
-      "ket": "",
-      "status": "Plan",
+      "ket": "D+ GF",
+      "status": "Actual",
       "eff": ""
     },
     {
