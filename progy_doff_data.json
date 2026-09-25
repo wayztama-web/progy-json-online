@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T13:27:08.886Z",
+  "updatedAt": "2026-09-25T13:31:58.895Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -772,7 +772,7 @@
             "loss": "22.3",
             "pct_loss": "4.7%",
             "overlap": "",
-            "ket": "Tunggu tensioner+mancing+C dah Heli 3&7",
+            "ket": "Tunggu tensioner+mancing+c+dah heli 3,7",
             "status": "Actual",
             "eff": "22.9%"
           },
@@ -12754,7 +12754,7 @@
           "loss": "22.3",
           "pct_loss": "4.7%",
           "overlap": "",
-          "ket": "Tunggu tensioner+mancing+C dah Heli 3&7",
+          "ket": "Tunggu tensioner+mancing+c+dah heli 3,7",
           "status": "Actual",
           "eff": "22.9%"
         },
@@ -14416,7 +14416,7 @@
       "loss": "22.3",
       "pct_loss": "4.7%",
       "overlap": "",
-      "ket": "Tunggu tensioner+mancing+C dah Heli 3&7",
+      "ket": "Tunggu tensioner+mancing+c+dah heli 3,7",
       "status": "Actual",
       "eff": "22.9%"
     },
