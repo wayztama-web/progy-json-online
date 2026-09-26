@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-26T15:03:05.558Z",
-  "source": "Wirawan",
+  "updatedAt": "2026-09-26T15:08:03.922Z",
+  "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
-  "si": "Wirawan",
+  "si": "Eko BY",
   "siCell": "BV5",
-  "siValue": "Wirawan",
+  "siValue": "Eko BY",
   "siReadMode": "BV5 read before date and shift history update",
   "historyDays": 7,
   "latestDate": "2026-09-27",
@@ -29,7 +29,30 @@
         "cm6": []
       },
       "NS": {
-        "cm3": [],
+        "cm3": [
+          {
+            "key": "20260927-NS-DT 8-L-2200",
+            "date": "9/27/2026",
+            "shift": "NS",
+            "cluster": "CM3",
+            "group": "DT",
+            "mc": "DT 8",
+            "jenis": "MTN",
+            "plan": "22:00",
+            "doff": "22:00",
+            "start": "23:33",
+            "code": "L",
+            "std": "13.5",
+            "dt_mc": "93",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "0",
+            "eff": ""
+          }
+        ],
         "cm6": []
       }
     },
@@ -747,6 +770,28 @@
             "eff": ""
           },
           {
+            "key": "20260926-AS-DT 8-REP-2133",
+            "date": "9/26/2026",
+            "shift": "AS",
+            "cluster": "CM3",
+            "group": "DT",
+            "mc": "DT 8",
+            "jenis": "MTN",
+            "plan": "",
+            "doff": "21:33",
+            "start": "22:00",
+            "code": "L",
+            "std": "13.5",
+            "dt_mc": "27",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "0",
+            "eff": ""
+          },
+          {
             "key": "20260926-AS-DT 10-PLAN",
             "date": "9/26/2026",
             "shift": "AS",
@@ -825,14 +870,14 @@
             "start": "",
             "code": "D",
             "std": "13.5",
-            "dt_mc": "-1065",
-            "dt_proc": "-1065",
-            "loss": "1078.5",
-            "pct_loss": "224.7%",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "Stop Note: D +C + HB + PENUTUPAN",
             "status": "Plan",
-            "eff": "8015.5%"
+            "eff": ""
           },
           {
             "key": "20260926-AS-DT 12-PLAN",
@@ -869,14 +914,14 @@
             "start": "",
             "code": "D",
             "std": "13.5",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "dt_mc": "-1240",
+            "dt_proc": "-1240",
+            "loss": "1253.5",
+            "pct_loss": "261.1%",
             "overlap": "",
             "ket": "Stop Note: DOFF AKHIR (BELUM DI DOFF)",
             "status": "Plan",
-            "eff": ""
+            "eff": "9316.2%"
           },
           {
             "key": "20260926-AS-L 17-PLAN",
@@ -10223,9 +10268,55 @@
       "cm6": []
     },
     "NS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20260927-NS-DT 8-L-2200",
+          "date": "9/27/2026",
+          "shift": "NS",
+          "cluster": "CM3",
+          "group": "DT",
+          "mc": "DT 8",
+          "jenis": "MTN",
+          "plan": "22:00",
+          "doff": "22:00",
+          "start": "23:33",
+          "code": "L",
+          "std": "13.5",
+          "dt_mc": "93",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "0",
+          "eff": ""
+        }
+      ],
       "cm6": []
     }
   },
-  "rows": []
+  "rows": [
+    {
+      "key": "20260927-NS-DT 8-L-2200",
+      "date": "9/27/2026",
+      "shift": "NS",
+      "cluster": "CM3",
+      "group": "DT",
+      "mc": "DT 8",
+      "jenis": "MTN",
+      "plan": "22:00",
+      "doff": "22:00",
+      "start": "23:33",
+      "code": "L",
+      "std": "13.5",
+      "dt_mc": "93",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "0",
+      "eff": ""
+    }
+  ]
 }
