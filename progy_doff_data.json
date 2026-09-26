@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T12:07:51.099Z",
+  "updatedAt": "2026-09-26T12:12:49.286Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -3077,18 +3077,18 @@
             "mc": "L 16",
             "jenis": "GF",
             "plan": "22:10",
-            "doff": "22:10",
+            "doff": "18:30",
             "start": "23:20",
-            "code": "",
+            "code": "GF",
             "std": "35.8",
-            "dt_mc": "70",
-            "dt_proc": "70",
-            "loss": "-34.2",
-            "pct_loss": "-7.1%",
-            "overlap": "",
-            "ket": "",
+            "dt_mc": "290",
+            "dt_proc": "290",
+            "loss": "-254.2",
+            "pct_loss": "-53.0%",
+            "overlap": "59",
+            "ket": "Stop Note: Text input",
             "status": "Actual",
-            "eff": "-95.6%"
+            "eff": "-710.4%"
           }
         ],
         "cm6": [
