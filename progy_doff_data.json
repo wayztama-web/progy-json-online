@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T06:17:26.587Z",
+  "updatedAt": "2026-09-26T06:22:36.350Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -215,7 +215,7 @@
             "dt_proc": "",
             "loss": "",
             "pct_loss": "",
-            "overlap": "",
+            "overlap": "145",
             "ket": "Start Note: D + GF 1/2 MC",
             "status": "Plan",
             "eff": ""
@@ -230,7 +230,7 @@
             "jenis": "D",
             "plan": "13:00",
             "doff": "13:00",
-            "start": "",
+            "start": "13:20",
             "code": "D",
             "std": "13.5",
             "dt_mc": "",
@@ -238,7 +238,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "Stop Note: Text input",
+            "ket": "Stop Note: Text input | Start Note: D + C + HB",
             "status": "Plan",
             "eff": ""
           },
@@ -11426,7 +11426,7 @@
           "dt_proc": "",
           "loss": "",
           "pct_loss": "",
-          "overlap": "",
+          "overlap": "145",
           "ket": "Start Note: D + GF 1/2 MC",
           "status": "Plan",
           "eff": ""
@@ -11441,7 +11441,7 @@
           "jenis": "D",
           "plan": "13:00",
           "doff": "13:00",
-          "start": "",
+          "start": "13:20",
           "code": "D",
           "std": "13.5",
           "dt_mc": "",
@@ -11449,7 +11449,7 @@
           "loss": "",
           "pct_loss": "",
           "overlap": "",
-          "ket": "Stop Note: Text input",
+          "ket": "Stop Note: Text input | Start Note: D + C + HB",
           "status": "Plan",
           "eff": ""
         },
@@ -12609,7 +12609,7 @@
       "dt_proc": "",
       "loss": "",
       "pct_loss": "",
-      "overlap": "",
+      "overlap": "145",
       "ket": "Start Note: D + GF 1/2 MC",
       "status": "Plan",
       "eff": ""
@@ -12624,7 +12624,7 @@
       "jenis": "D",
       "plan": "13:00",
       "doff": "13:00",
-      "start": "",
+      "start": "13:20",
       "code": "D",
       "std": "13.5",
       "dt_mc": "",
@@ -12632,7 +12632,7 @@
       "loss": "",
       "pct_loss": "",
       "overlap": "",
-      "ket": "Stop Note: Text input",
+      "ket": "Stop Note: Text input | Start Note: D + C + HB",
       "status": "Plan",
       "eff": ""
     },
