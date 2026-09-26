@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T03:47:35.573Z",
+  "updatedAt": "2026-09-26T03:52:22.758Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -172,7 +172,7 @@
             "loss": "77.7",
             "pct_loss": "16.2%",
             "overlap": "1225",
-            "ket": "",
+            "ket": "Start Note: D + GF + DAH DT 13",
             "status": "Plan",
             "eff": "94.0%"
           },
@@ -662,7 +662,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "Lnjut proses +patroling awal+ brefing+C",
+            "ket": "",
             "status": "Plan",
             "eff": ""
           }
@@ -733,7 +733,7 @@
             "loss": "-16.5",
             "pct_loss": "-3.4%",
             "overlap": "100",
-            "ket": "D+C+HB+BRIEFING",
+            "ket": "",
             "status": "Actual",
             "eff": "-123.0%"
           },
@@ -755,7 +755,7 @@
             "loss": "-26.5",
             "pct_loss": "-5.5%",
             "overlap": "230",
-            "ket": "D+C+HB.Banyak",
+            "ket": "",
             "status": "Actual",
             "eff": "-197.3%"
           },
@@ -777,7 +777,7 @@
             "loss": "-6.5",
             "pct_loss": "-1.4%",
             "overlap": "170",
-            "ket": "D+C+HB",
+            "ket": "",
             "status": "Actual",
             "eff": "-48.6%"
           },
@@ -821,7 +821,7 @@
             "loss": "7.7",
             "pct_loss": "1.6%",
             "overlap": "235",
-            "ket": "D+C+HB+GF 1/2 mc (1xDoff dan 2x doff  mix ) + dahulukan dt 14 + pergantian istirahat",
+            "ket": "",
             "status": "Actual",
             "eff": "9.3%"
           },
@@ -843,7 +843,7 @@
             "loss": "17.7",
             "pct_loss": "3.7%",
             "overlap": "",
-            "ket": "D+GF",
+            "ket": "",
             "status": "Actual",
             "eff": "21.4%"
           },
@@ -865,7 +865,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D+ GF",
+            "ket": "",
             "status": "Actual",
             "eff": ""
           }
@@ -1225,7 +1225,7 @@
             "loss": "2.3",
             "pct_loss": "0.5%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: D + GF + C + T. Perbaikan",
             "status": "Plan",
             "eff": "2.4%"
           },
@@ -1247,7 +1247,7 @@
             "loss": "32.3",
             "pct_loss": "6.7%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: D + GF 1/2MC (1x Doff) + HB + C + P. Istirahat",
             "status": "Plan",
             "eff": "33.2%"
           },
@@ -1313,7 +1313,7 @@
             "loss": "-27.3",
             "pct_loss": "-5.7%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: doff + GF + ganti traveller",
             "status": "Plan",
             "eff": "-33.0%"
           },
@@ -1335,7 +1335,7 @@
             "loss": "-21.5",
             "pct_loss": "-4.5%",
             "overlap": "",
-            "ket": "",
+            "ket": "Stop Note: Text input | Start Note: doff + HB + C + ganti traveller",
             "status": "Plan",
             "eff": "-160.1%"
           },
@@ -1357,7 +1357,7 @@
             "loss": "-22.3",
             "pct_loss": "-4.6%",
             "overlap": "330",
-            "ket": "",
+            "ket": "Stop Note: Text input | Start Note: doff + GF 1/2 + DAH DT 9,14 + PERGANTIAN ISTIRAHAT",
             "status": "Plan",
             "eff": "-26.9%"
           },
@@ -1379,7 +1379,7 @@
             "loss": "-11.5",
             "pct_loss": "-2.4%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: doff + HB + C + ganti traveller",
             "status": "Plan",
             "eff": "-85.8%"
           },
@@ -1401,7 +1401,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "50",
-            "ket": "",
+            "ket": "Stop Note: Text input",
             "status": "Plan",
             "eff": ""
           },
@@ -1423,7 +1423,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "",
+            "ket": "Stop Note: Text input",
             "status": "Plan",
             "eff": ""
           },
@@ -1445,7 +1445,7 @@
             "loss": "-4.2",
             "pct_loss": "-0.9%",
             "overlap": "265",
-            "ket": "Doff",
+            "ket": "Start Note: D + GF + C",
             "status": "Plan",
             "eff": "-11.8%"
           },
@@ -1467,7 +1467,7 @@
             "loss": "-99.2",
             "pct_loss": "-20.7%",
             "overlap": "30",
-            "ket": "Doff",
+            "ket": "Stop Note: Text input | Start Note: D + GF + C + TF",
             "status": "Plan",
             "eff": "-277.2%"
           },
@@ -1489,7 +1489,7 @@
             "loss": "-49.2",
             "pct_loss": "-10.3%",
             "overlap": "",
-            "ket": "Doff",
+            "ket": "Start Note: D + GF + C + Sholat Jumat",
             "status": "Plan",
             "eff": "-137.5%"
           }
@@ -1935,7 +1935,7 @@
             "loss": "-27.2",
             "pct_loss": "-5.7%",
             "overlap": "120",
-            "ket": "Doff+HB+C",
+            "ket": "",
             "status": "Actual",
             "eff": "-153.1%"
           },
@@ -1957,7 +1957,7 @@
             "loss": "22.3",
             "pct_loss": "4.7%",
             "overlap": "",
-            "ket": "Tunggu tensioner+mancing+c+dah heli 3,7",
+            "ket": "",
             "status": "Actual",
             "eff": "22.9%"
           },
@@ -1979,7 +1979,7 @@
             "loss": "-162.3",
             "pct_loss": "-33.8%",
             "overlap": "310",
-            "ket": "Lanjut Proses + Patwal + Briefing + G. Traveler",
+            "ket": "",
             "status": "Actual",
             "eff": "-196.2%"
           },
@@ -2001,7 +2001,7 @@
             "loss": "-16.5",
             "pct_loss": "-3.4%",
             "overlap": "",
-            "ket": "D + C + HB",
+            "ket": "",
             "status": "Actual",
             "eff": "-123.0%"
           },
@@ -2023,7 +2023,7 @@
             "loss": "17.7",
             "pct_loss": "3.7%",
             "overlap": "510",
-            "ket": "TF awal + Dah no lain + G. Traveler",
+            "ket": "",
             "status": "Actual",
             "eff": "21.4%"
           },
@@ -2045,7 +2045,7 @@
             "loss": "-11.5",
             "pct_loss": "-2.4%",
             "overlap": "190",
-            "ket": "D + C + HB + G. Traveler",
+            "ket": "",
             "status": "Actual",
             "eff": "-85.8%"
           },
@@ -2067,7 +2067,7 @@
             "loss": "-1.5",
             "pct_loss": "-0.3%",
             "overlap": "",
-            "ket": "D + C + HB",
+            "ket": "",
             "status": "Actual",
             "eff": "-11.5%"
           },
@@ -2089,7 +2089,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "60",
-            "ket": "D + GF + TF + Dah no lain",
+            "ket": "",
             "status": "Actual",
             "eff": ""
           },
@@ -2111,7 +2111,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D I",
+            "ket": "",
             "status": "Plan",
             "eff": ""
           }
@@ -2447,7 +2447,7 @@
             "loss": "-11.5",
             "pct_loss": "-2.4%",
             "overlap": "40",
-            "ket": "D+C+HB+BRIEFING",
+            "ket": "",
             "status": "Actual",
             "eff": "-85.8%"
           },
@@ -2469,7 +2469,7 @@
             "loss": "27.7",
             "pct_loss": "5.8%",
             "overlap": "350",
-            "ket": "D+C+HB+GF 1/2 mc + Cleaning ring flange",
+            "ket": "",
             "status": "Actual",
             "eff": "33.5%"
           },
@@ -2491,7 +2491,7 @@
             "loss": "-1.5",
             "pct_loss": "-0.3%",
             "overlap": "110",
-            "ket": "D+C+HB",
+            "ket": "",
             "status": "Actual",
             "eff": "-11.5%"
           },
@@ -2513,7 +2513,7 @@
             "loss": "-21.5",
             "pct_loss": "-4.5%",
             "overlap": "",
-            "ket": "D+C+HB+GANTI TENSIONER LMN",
+            "ket": "",
             "status": "Actual",
             "eff": "-160.1%"
           },
@@ -2535,7 +2535,7 @@
             "loss": "-1.5",
             "pct_loss": "-0.3%",
             "overlap": "",
-            "ket": "D+C+HB",
+            "ket": "",
             "status": "Actual",
             "eff": "-11.5%"
           },
@@ -2557,7 +2557,7 @@
             "loss": "2.7",
             "pct_loss": "0.6%",
             "overlap": "",
-            "ket": "D+GF",
+            "ket": "",
             "status": "Actual",
             "eff": "3.3%"
           },
@@ -2579,7 +2579,7 @@
             "loss": "-34.2",
             "pct_loss": "-7.1%",
             "overlap": "",
-            "ket": "D. Awal+ GF + Breafeeng",
+            "ket": "",
             "status": "Actual",
             "eff": "-95.6%"
           }
@@ -2895,7 +2895,7 @@
             "loss": "12.3",
             "pct_loss": "2.6%",
             "overlap": "175",
-            "ket": "",
+            "ket": "Start Note: L.Proses Mancing + C + Patwal",
             "status": "Plan",
             "eff": "12.7%"
           },
@@ -2917,7 +2917,7 @@
             "loss": "-52.2",
             "pct_loss": "-10.9%",
             "overlap": "1145",
-            "ket": "",
+            "ket": "Start Note: D + C + HB",
             "status": "Plan",
             "eff": "-293.8%"
           },
@@ -2939,7 +2939,7 @@
             "loss": "-27.7",
             "pct_loss": "-5.8%",
             "overlap": "35",
-            "ket": "",
+            "ket": "Start Note: D + GF(Sebelah Utara 1x Doff) + C + Dah. Heli 3 & 5 + P. Istirahat",
             "status": "Plan",
             "eff": "-28.4%"
           },
@@ -2961,7 +2961,7 @@
             "loss": "-7.3",
             "pct_loss": "-1.5%",
             "overlap": "60",
-            "ket": "",
+            "ket": "Start Note: L.Proses + Mancing + Patroling Awal",
             "status": "Plan",
             "eff": "-8.8%"
           },
@@ -2983,7 +2983,7 @@
             "loss": "32.7",
             "pct_loss": "6.8%",
             "overlap": "260",
-            "ket": "",
+            "ket": "Start Note: D + GF 1/2 MC + HB",
             "status": "Plan",
             "eff": "39.6%"
           },
@@ -3005,7 +3005,7 @@
             "loss": "-17.3",
             "pct_loss": "-3.6%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: D + GF + DAH DT 13",
             "status": "Plan",
             "eff": "-20.9%"
           },
@@ -3027,7 +3027,7 @@
             "loss": "-6.5",
             "pct_loss": "-1.4%",
             "overlap": "",
-            "ket": "",
+            "ket": "Stop Note: Text input | Start Note: D + C + HB",
             "status": "Plan",
             "eff": "-48.6%"
           },
@@ -3049,7 +3049,7 @@
             "loss": "802.7",
             "pct_loss": "167.2%",
             "overlap": "",
-            "ket": "",
+            "ket": "Stop Note: D + GF 1/2 MC + DAH DT 11 + TF",
             "status": "Plan",
             "eff": "970.3%"
           },
@@ -3071,7 +3071,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "75",
-            "ket": "D+Gf",
+            "ket": "Stop Note: doff+gf+tf",
             "status": "Plan",
             "eff": ""
           },
@@ -3093,7 +3093,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "249",
-            "ket": "Doff",
+            "ket": "Stop Note: Doff | Start Note: D + GF + C",
             "status": "Plan",
             "eff": ""
           },
@@ -3115,7 +3115,7 @@
             "loss": "-24.2",
             "pct_loss": "-5.0%",
             "overlap": "91",
-            "ket": "Doff",
+            "ket": "Stop Note: test | Start Note: Text input",
             "status": "Plan",
             "eff": "-67.7%"
           }
@@ -3495,7 +3495,7 @@
             "loss": "-82.2",
             "pct_loss": "-17.1%",
             "overlap": "475",
-            "ket": "Doff awal +patroling+brefing+HB 39 spd+C",
+            "ket": "",
             "status": "Actual",
             "eff": "-462.5%"
           },
@@ -3517,7 +3517,7 @@
             "loss": "2.8",
             "pct_loss": "0.6%",
             "overlap": "",
-            "ket": "Doff akhir(blm di doff)",
+            "ket": "Stop Note: test | Start Note: Text input",
             "status": "Actual",
             "eff": "15.6%"
           },
@@ -3539,7 +3539,7 @@
             "loss": "-6.5",
             "pct_loss": "-1.4%",
             "overlap": "",
-            "ket": "D + C + HB",
+            "ket": "",
             "status": "Actual",
             "eff": "-48.6%"
           },
@@ -3561,7 +3561,7 @@
             "loss": "-6.5",
             "pct_loss": "-1.4%",
             "overlap": "275",
-            "ket": "D + C + HB",
+            "ket": "",
             "status": "Actual",
             "eff": "-48.6%"
           },
@@ -3583,7 +3583,7 @@
             "loss": "82.7",
             "pct_loss": "17.2%",
             "overlap": "76",
-            "ket": "LP (TF awal) + Briefing + Patwal + Dah no 9,12",
+            "ket": "Stop Note: test | Start Note: Text input",
             "status": "Actual",
             "eff": "100.0%"
           },
@@ -3605,7 +3605,7 @@
             "loss": "3.5",
             "pct_loss": "0.7%",
             "overlap": "",
-            "ket": "D + C + HB",
+            "ket": "",
             "status": "Actual",
             "eff": "25.7%"
           },
@@ -3627,7 +3627,7 @@
             "loss": "-1.5",
             "pct_loss": "-0.3%",
             "overlap": "",
-            "ket": "D + C + HB",
+            "ket": "",
             "status": "Actual",
             "eff": "-11.5%"
           },
@@ -3649,7 +3649,7 @@
             "loss": "-36.5",
             "pct_loss": "-7.6%",
             "overlap": "",
-            "ket": "D + C + HB + Tunggu Hasil Timbang",
+            "ket": "",
             "status": "Actual",
             "eff": "-271.6%"
           },
@@ -3671,7 +3671,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "119",
-            "ket": "D + GF + R",
+            "ket": "",
             "status": "Actual",
             "eff": ""
           },
@@ -3693,7 +3693,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "239",
-            "ket": "",
+            "ket": "Stop Note: test | Start Note: Text input",
             "status": "0",
             "eff": ""
           }
@@ -3963,7 +3963,7 @@
             "loss": "12.3",
             "pct_loss": "2.6%",
             "overlap": "105",
-            "ket": "D, GF, Clean",
+            "ket": "",
             "status": "Actual",
             "eff": "12.7%"
           },
@@ -3985,7 +3985,7 @@
             "loss": "-22.2",
             "pct_loss": "-4.6%",
             "overlap": "230",
-            "ket": "D, Crealing, HB (35), lmf banyak yg habis",
+            "ket": "",
             "status": "Actual",
             "eff": "-125.0%"
           },
@@ -4007,7 +4007,7 @@
             "loss": "-12.2",
             "pct_loss": "-2.5%",
             "overlap": "",
-            "ket": "D, Crealing, HB (12)",
+            "ket": "",
             "status": "Actual",
             "eff": "-68.8%"
           },
@@ -4029,7 +4029,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D, GF (utara 1xD), Mancing 1/2 mc, P.sholat",
+            "ket": "",
             "status": "Actual",
             "eff": ""
           },
@@ -4073,7 +4073,7 @@
             "loss": "-21.5",
             "pct_loss": "-4.5%",
             "overlap": "",
-            "ket": "D+C+HB+dahulukan dt 12",
+            "ket": "",
             "status": "Actual",
             "eff": "-160.1%"
           },
@@ -4095,7 +4095,7 @@
             "loss": "-6.5",
             "pct_loss": "-1.4%",
             "overlap": "205",
-            "ket": "D+C+HB",
+            "ket": "",
             "status": "Actual",
             "eff": "-48.6%"
           },
@@ -4117,7 +4117,7 @@
             "loss": "-26.5",
             "pct_loss": "-5.5%",
             "overlap": "",
-            "ket": "D+C+HB+ Ganti tensioner LMN + dahulukan dt 11",
+            "ket": "",
             "status": "Actual",
             "eff": "-197.3%"
           },
@@ -4139,7 +4139,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D+GF + dahulukan dt 10,11,14 + mancing sedapatnya",
+            "ket": "",
             "status": "Actual",
             "eff": ""
           },
@@ -4183,7 +4183,7 @@
             "loss": "5.8",
             "pct_loss": "1.2%",
             "overlap": "275",
-            "ket": "D + GF",
+            "ket": "",
             "status": "Actual",
             "eff": "16.2%"
           }
@@ -4565,7 +4565,7 @@
             "loss": "-57.7",
             "pct_loss": "-12.0%",
             "overlap": "350",
-            "ket": "",
+            "ket": "Stop Note: Text input | Start Note: Lanjut Proses + Mancing + Breifing + TF",
             "status": "Plan",
             "eff": "-59.2%"
           },
@@ -4587,7 +4587,7 @@
             "loss": "-17.2",
             "pct_loss": "-3.6%",
             "overlap": "",
-            "ket": "",
+            "ket": "Stop Note: Text input | Start Note: Doff + C + HB",
             "status": "Plan",
             "eff": "-96.9%"
           },
@@ -4609,7 +4609,7 @@
             "loss": "-11.5",
             "pct_loss": "-2.4%",
             "overlap": "230",
-            "ket": "",
+            "ket": "Stop Note: Text input | Start Note: d+c+hb",
             "status": "Plan",
             "eff": "-85.8%"
           },
@@ -4631,7 +4631,7 @@
             "loss": "17.7",
             "pct_loss": "3.7%",
             "overlap": "55",
-            "ket": "",
+            "ket": "Stop Note: Text input | Start Note: d+gf+dah.12",
             "status": "Plan",
             "eff": "21.4%"
           },
@@ -4653,7 +4653,7 @@
             "loss": "-31.5",
             "pct_loss": "-6.6%",
             "overlap": "",
-            "ket": "",
+            "ket": "Stop Note: Text input | Start Note: d+c+hb+p.istirahat",
             "status": "Plan",
             "eff": "-234.5%"
           },
@@ -4675,7 +4675,7 @@
             "loss": "62.7",
             "pct_loss": "13.1%",
             "overlap": "285",
-            "ket": "",
+            "ket": "Stop Note: Text input | Start Note: gf awal+tf",
             "status": "Plan",
             "eff": "75.8%"
           },
@@ -4697,7 +4697,7 @@
             "loss": "-2.3",
             "pct_loss": "-0.5%",
             "overlap": "",
-            "ket": "",
+            "ket": "Stop Note: d+gf | Start Note: d+gf",
             "status": "Plan",
             "eff": "-2.7%"
           },
@@ -4719,7 +4719,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "Gf awal+tf",
+            "ket": "",
             "status": "Plan",
             "eff": ""
           },
@@ -4741,7 +4741,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D+gf",
+            "ket": "",
             "status": "Plan",
             "eff": ""
           },
@@ -4763,7 +4763,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D+c",
+            "ket": "",
             "status": "Plan",
             "eff": ""
           },
@@ -4785,7 +4785,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D+c",
+            "ket": "",
             "status": "Plan",
             "eff": ""
           },
@@ -4807,7 +4807,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D+Gf",
+            "ket": "",
             "status": "Plan",
             "eff": ""
           },
@@ -4851,7 +4851,7 @@
             "loss": "-14.2",
             "pct_loss": "-3.0%",
             "overlap": "",
-            "ket": "Doff + gf",
+            "ket": "",
             "status": "Actual",
             "eff": "-39.7%"
           },
@@ -5363,7 +5363,7 @@
             "loss": "-57.7",
             "pct_loss": "-12.0%",
             "overlap": "70",
-            "ket": "D+GF+C+Istirahat+Dah Heli 6",
+            "ket": "",
             "status": "Actual",
             "eff": "-59.2%"
           },
@@ -5385,7 +5385,7 @@
             "loss": "-17.7",
             "pct_loss": "-3.7%",
             "overlap": "200",
-            "ket": "D + GF +C +TF",
+            "ket": "",
             "status": "Actual",
             "eff": "-18.2%"
           },
@@ -5407,7 +5407,7 @@
             "loss": "-17.3",
             "pct_loss": "-3.6%",
             "overlap": "240",
-            "ket": "D + GF 2× DOFF",
+            "ket": "",
             "status": "Actual",
             "eff": "-20.9%"
           },
@@ -5429,7 +5429,7 @@
             "loss": "-21.5",
             "pct_loss": "-4.5%",
             "overlap": "185",
-            "ket": "D + HB + DAHULUKAN NO 12",
+            "ket": "",
             "status": "Actual",
             "eff": "-160.1%"
           },
@@ -5451,7 +5451,7 @@
             "loss": "-16.5",
             "pct_loss": "-3.4%",
             "overlap": "",
-            "ket": "D + HB + R",
+            "ket": "",
             "status": "Actual",
             "eff": "-123.0%"
           },
@@ -5473,7 +5473,7 @@
             "loss": "-11.5",
             "pct_loss": "-2.4%",
             "overlap": "",
-            "ket": "D + HB + R",
+            "ket": "",
             "status": "Actual",
             "eff": "-85.8%"
           },
@@ -5495,7 +5495,7 @@
             "loss": "-6.5",
             "pct_loss": "-1.4%",
             "overlap": "",
-            "ket": "D + HB + C",
+            "ket": "",
             "status": "Actual",
             "eff": "-48.6%"
           },
@@ -5561,7 +5561,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D 1",
+            "ket": "",
             "status": "Plan",
             "eff": ""
           },
@@ -5627,7 +5627,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "TF Awal",
+            "ket": "",
             "status": "Plan",
             "eff": ""
           },
@@ -5649,7 +5649,7 @@
             "loss": "-4.2",
             "pct_loss": "-0.9%",
             "overlap": "240",
-            "ket": "D + GF + R",
+            "ket": "",
             "status": "Actual",
             "eff": "-11.8%"
           },
@@ -5985,7 +5985,7 @@
             "loss": "-42.7",
             "pct_loss": "-8.9%",
             "overlap": "200",
-            "ket": "Gf awal+ patwal+brifing",
+            "ket": "",
             "status": "Actual",
             "eff": "-43.8%"
           },
@@ -6007,7 +6007,7 @@
             "loss": "37.3",
             "pct_loss": "7.8%",
             "overlap": "390",
-            "ket": "D+Gf 1/2 mc(1*dof) dah heli 4",
+            "ket": "",
             "status": "Actual",
             "eff": "38.4%"
           },
@@ -6029,7 +6029,7 @@
             "loss": "17.3",
             "pct_loss": "3.6%",
             "overlap": "150",
-            "ket": "D+Gf+C",
+            "ket": "",
             "status": "Actual",
             "eff": "17.8%"
           },
@@ -6051,7 +6051,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D+gf+tf",
+            "ket": "",
             "status": "Plan",
             "eff": ""
           },
@@ -6073,7 +6073,7 @@
             "loss": "-31.5",
             "pct_loss": "-6.6%",
             "overlap": "140",
-            "ket": "D+C+HB",
+            "ket": "",
             "status": "Actual",
             "eff": "-234.5%"
           },
@@ -6095,7 +6095,7 @@
             "loss": "-81.5",
             "pct_loss": "-17.0%",
             "overlap": "325",
-            "ket": "D+C+HB+ Ganti tensioner LMN",
+            "ket": "",
             "status": "Actual",
             "eff": "-606.1%"
           },
@@ -6117,7 +6117,7 @@
             "loss": "-77.3",
             "pct_loss": "-16.1%",
             "overlap": "405",
-            "ket": "GF + TF + Cleaning top guide & Ring flange",
+            "ket": "",
             "status": "Actual",
             "eff": "-93.4%"
           },
@@ -6139,7 +6139,7 @@
             "loss": "3.5",
             "pct_loss": "0.7%",
             "overlap": "",
-            "ket": "D+C+HB",
+            "ket": "",
             "status": "Actual",
             "eff": "25.7%"
           },
@@ -6161,7 +6161,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D+C+HB",
+            "ket": "",
             "status": "Actual",
             "eff": ""
           },
@@ -6183,7 +6183,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D+GF + TF",
+            "ket": "",
             "status": "Plan",
             "eff": ""
           },
@@ -6205,7 +6205,7 @@
             "loss": "5.8",
             "pct_loss": "1.2%",
             "overlap": "120",
-            "ket": "D+Gf+C",
+            "ket": "",
             "status": "Plan",
             "eff": "16.2%"
           }
@@ -6433,7 +6433,7 @@
             "loss": "-24.2",
             "pct_loss": "-5.0%",
             "overlap": "142",
-            "ket": "",
+            "ket": "Stop Note: Text input | Start Note: HB + GANTI TENSIONER LMN",
             "status": "Plan",
             "eff": "-136.3%"
           },
@@ -6455,7 +6455,7 @@
             "loss": "-57.2",
             "pct_loss": "-11.9%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: D + C + HB",
             "status": "Plan",
             "eff": "-321.9%"
           },
@@ -6477,7 +6477,7 @@
             "loss": "-372.3",
             "pct_loss": "-77.6%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: d+gf",
             "status": "Plan",
             "eff": "-450.0%"
           },
@@ -6499,7 +6499,7 @@
             "loss": "8.5",
             "pct_loss": "1.8%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: d+c+hb",
             "status": "Plan",
             "eff": "62.8%"
           },
@@ -6521,7 +6521,7 @@
             "loss": "-221.5",
             "pct_loss": "-46.2%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: d+c+hb",
             "status": "Plan",
             "eff": "-1646.6%"
           },
@@ -6543,7 +6543,7 @@
             "loss": "-21.5",
             "pct_loss": "-4.5%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: d+c+hb+dah.14",
             "status": "Plan",
             "eff": "-160.1%"
           },
@@ -6565,7 +6565,7 @@
             "loss": "47.7",
             "pct_loss": "9.9%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: d+gf",
             "status": "Plan",
             "eff": "57.7%"
           },
@@ -6587,7 +6587,7 @@
             "loss": "57.7",
             "pct_loss": "12.0%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: tf awal+gf",
             "status": "Plan",
             "eff": "69.8%"
           },
@@ -6609,7 +6609,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "290",
-            "ket": "D+GF+C",
+            "ket": "",
             "status": "Actual",
             "eff": ""
           },
@@ -6631,7 +6631,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "15",
-            "ket": "D+GF+C",
+            "ket": "",
             "status": "Actual",
             "eff": ""
           }
@@ -7033,7 +7033,7 @@
             "loss": "-7.7",
             "pct_loss": "-1.6%",
             "overlap": "260",
-            "ket": "",
+            "ket": "Start Note: D + GF + C + P. Istirahat",
             "status": "Plan",
             "eff": "-7.9%"
           },
@@ -7055,7 +7055,7 @@
             "loss": "-17.2",
             "pct_loss": "-3.6%",
             "overlap": "135",
-            "ket": "",
+            "ket": "Start Note: D + HB (15) + C + Dah. Heli 8",
             "status": "Plan",
             "eff": "-96.9%"
           },
@@ -7077,7 +7077,7 @@
             "loss": "-57.2",
             "pct_loss": "-11.9%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: D + HB(30) + GF (67-96) + C",
             "status": "Plan",
             "eff": "-321.9%"
           },
@@ -7099,7 +7099,7 @@
             "loss": "1332.3",
             "pct_loss": "277.6%",
             "overlap": "",
-            "ket": "",
+            "ket": "Stop Note: D + Dah. Heli 6",
             "status": "Plan",
             "eff": "1368.8%"
           },
@@ -7121,7 +7121,7 @@
             "loss": "-6.5",
             "pct_loss": "-1.4%",
             "overlap": "",
-            "ket": "",
+            "ket": "Stop Note: D | Start Note: D + C + HB",
             "status": "0",
             "eff": "-48.6%"
           },
@@ -7143,7 +7143,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "",
+            "ket": "Stop Note: trial | Start Note: Text input",
             "status": "0",
             "eff": ""
           },
@@ -7165,7 +7165,7 @@
             "loss": "-882.3",
             "pct_loss": "-183.8%",
             "overlap": "",
-            "ket": "D+GF",
+            "ket": "Start Note: D + GF",
             "status": "Plan",
             "eff": "-1066.5%"
           },
@@ -7187,7 +7187,7 @@
             "loss": "11.5",
             "pct_loss": "2.4%",
             "overlap": "",
-            "ket": "",
+            "ket": "Stop Note: trial | Start Note: Text input",
             "status": "Plan",
             "eff": "85.1%"
           },
@@ -7209,7 +7209,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D",
+            "ket": "Start Note: D + C + HB",
             "status": "Plan",
             "eff": ""
           },
@@ -7231,7 +7231,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D",
+            "ket": "Start Note: D + C + HB",
             "status": "Plan",
             "eff": ""
           },
@@ -7253,7 +7253,7 @@
             "loss": "-26.5",
             "pct_loss": "-5.5%",
             "overlap": "",
-            "ket": "D",
+            "ket": "Start Note: D + C + HB",
             "status": "Plan",
             "eff": "-197.3%"
           },
@@ -7275,7 +7275,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D",
+            "ket": "",
             "status": "Plan",
             "eff": ""
           },
@@ -7297,7 +7297,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D",
+            "ket": "",
             "status": "Plan",
             "eff": ""
           },
@@ -7319,7 +7319,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "GF",
+            "ket": "",
             "status": "Plan",
             "eff": ""
           },
@@ -7341,7 +7341,7 @@
             "loss": "1307.7",
             "pct_loss": "272.4%",
             "overlap": "45",
-            "ket": "D+GF",
+            "ket": "",
             "status": "Plan",
             "eff": "1580.8%"
           }
@@ -7655,7 +7655,7 @@
             "loss": "-92.2",
             "pct_loss": "-19.2%",
             "overlap": "470",
-            "ket": "D+C+Hb(32)+ ganti LMF banyak yg habis+patwal+brifing",
+            "ket": "",
             "status": "Actual",
             "eff": "-518.8%"
           },
@@ -7677,7 +7677,7 @@
             "loss": "-12.2",
             "pct_loss": "-2.5%",
             "overlap": "255",
-            "ket": "D+C+Hb(7)dah heli 8",
+            "ket": "",
             "status": "Actual",
             "eff": "-68.8%"
           },
@@ -7699,7 +7699,7 @@
             "loss": "-22.7",
             "pct_loss": "-4.7%",
             "overlap": "",
-            "ket": "D+Gf(67-96 1*dof)+c",
+            "ket": "",
             "status": "Actual",
             "eff": "-23.3%"
           },
@@ -7721,7 +7721,7 @@
             "loss": "-6.5",
             "pct_loss": "-1.4%",
             "overlap": "240",
-            "ket": "D+C+HB+Briefing",
+            "ket": "",
             "status": "Actual",
             "eff": "-48.6%"
           },
@@ -7743,7 +7743,7 @@
             "loss": "8.5",
             "pct_loss": "1.8%",
             "overlap": "200",
-            "ket": "D+C+HB",
+            "ket": "",
             "status": "Plan",
             "eff": "62.8%"
           },
@@ -7765,7 +7765,7 @@
             "loss": "-112.3",
             "pct_loss": "-23.4%",
             "overlap": "405",
-            "ket": "GF+TF",
+            "ket": "",
             "status": "Actual",
             "eff": "-135.7%"
           },
@@ -7787,7 +7787,7 @@
             "loss": "3.5",
             "pct_loss": "0.7%",
             "overlap": "",
-            "ket": "D+C+HB",
+            "ket": "",
             "status": "Actual",
             "eff": "25.7%"
           },
@@ -7809,7 +7809,7 @@
             "loss": "-1.5",
             "pct_loss": "-0.3%",
             "overlap": "",
-            "ket": "D+C+HB",
+            "ket": "",
             "status": "Actual",
             "eff": "-11.5%"
           },
@@ -7853,7 +7853,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D+GF+C",
+            "ket": "",
             "status": "Actual",
             "eff": ""
           }
@@ -8037,7 +8037,7 @@
             "loss": "-67.2",
             "pct_loss": "-14.0%",
             "overlap": "190",
-            "ket": "Dof awal + HB + patroling + breafing",
+            "ket": "Start Note: d.awal+c+hb+patroling+breafing",
             "status": "Actual",
             "eff": "-378.1%"
           },
@@ -8059,7 +8059,7 @@
             "loss": "-7.7",
             "pct_loss": "-1.6%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: d+gf",
             "status": "Plan",
             "eff": "-7.9%"
           },
@@ -8081,7 +8081,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "85",
-            "ket": "",
+            "ket": "Stop Note: doff+gf+mancing",
             "status": "Plan",
             "eff": ""
           },
@@ -8103,7 +8103,7 @@
             "loss": "782.3",
             "pct_loss": "163.0%",
             "overlap": "",
-            "ket": "",
+            "ket": "Stop Note: doff+gf+mancing",
             "status": "Plan",
             "eff": "803.8%"
           },
@@ -8125,7 +8125,7 @@
             "loss": "-362.3",
             "pct_loss": "-75.5%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: lanjut proses+mancing+breafing",
             "status": "Plan",
             "eff": "-437.9%"
           },
@@ -8147,7 +8147,7 @@
             "loss": "-11.5",
             "pct_loss": "-2.4%",
             "overlap": "220",
-            "ket": "D + C + HB + Dahulukan DT 13",
+            "ket": "Start Note: doff+c+hb+dah.13",
             "status": "Actual",
             "eff": "-85.8%"
           },
@@ -8169,7 +8169,7 @@
             "loss": "-16.5",
             "pct_loss": "-3.4%",
             "overlap": "",
-            "ket": "D + C + HB + P.Istirahat",
+            "ket": "Start Note: d+c+hb+p.istrht",
             "status": "Actual",
             "eff": "-123.0%"
           },
@@ -8191,7 +8191,7 @@
             "loss": "-22.3",
             "pct_loss": "-4.6%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: d+gf+dah.08",
             "status": "Plan",
             "eff": "-26.9%"
           },
@@ -8213,7 +8213,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D + GF + Mancing 1/2 MC + Dahulukan DT 14",
+            "ket": "Stop Note: d+gf+mancing1/2",
             "status": "Actual",
             "eff": ""
           },
@@ -8659,7 +8659,7 @@
             "loss": "-807.7",
             "pct_loss": "-168.3%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: LP. Mancing Tribot + C + Patwal + Briefing",
             "status": "Plan",
             "eff": "-829.8%"
           },
@@ -8681,7 +8681,7 @@
             "loss": "-12.7",
             "pct_loss": "-2.6%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: SCO(ok 14:50) + Pasang feeding + C + Dah. Heli 1",
             "status": "Plan",
             "eff": "-13.0%"
           },
@@ -8703,7 +8703,7 @@
             "loss": "-27.2",
             "pct_loss": "-5.7%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: D + C + HB + Dah. Heli 7",
             "status": "Plan",
             "eff": "-153.1%"
           },
@@ -8725,7 +8725,7 @@
             "loss": "-42.7",
             "pct_loss": "-8.9%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: D + GF(1x doff, spdl 49-91 2x doff) + C + P. Istirahat",
             "status": "Plan",
             "eff": "-43.8%"
           },
@@ -8747,7 +8747,7 @@
             "loss": "12.8",
             "pct_loss": "2.7%",
             "overlap": "",
-            "ket": "",
+            "ket": "Stop Note: trial | Start Note: Text input",
             "status": "Plan",
             "eff": "71.9%"
           },
@@ -8769,7 +8769,7 @@
             "loss": "-36.5",
             "pct_loss": "-7.6%",
             "overlap": "110",
-            "ket": "D",
+            "ket": "Stop Note: Text input | Start Note: D+C+HB",
             "status": "Plan",
             "eff": "-271.6%"
           },
@@ -8791,7 +8791,7 @@
             "loss": "22.7",
             "pct_loss": "4.7%",
             "overlap": "",
-            "ket": "LP.Mancing½",
+            "ket": "Start Note: LP.Mancing + Dah DT 13+PATWAL",
             "status": "Plan",
             "eff": "27.5%"
           },
@@ -8813,7 +8813,7 @@
             "loss": "-31.5",
             "pct_loss": "-6.6%",
             "overlap": "",
-            "ket": "D",
+            "ket": "Start Note: D+C+HB+P.ISTIRAHAT",
             "status": "Plan",
             "eff": "-234.5%"
           },
@@ -8835,7 +8835,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D",
+            "ket": "Stop Note: Text input | Start Note: D+C+HB",
             "status": "Plan",
             "eff": ""
           },
@@ -8857,7 +8857,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "240",
-            "ket": "D+GF",
+            "ket": "Stop Note: Text input | Start Note: D+GP 235=>312 + TES Q.A ( OK JAM 19:15) + DAH DT 14",
             "status": "Plan",
             "eff": ""
           },
@@ -8879,7 +8879,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "160",
-            "ket": "D+GP",
+            "ket": "Stop Note: Text input",
             "status": "Plan",
             "eff": ""
           }
@@ -9193,7 +9193,7 @@
             "loss": "-57.7",
             "pct_loss": "-12.0%",
             "overlap": "",
-            "ket": "D+GF+C",
+            "ket": "",
             "status": "Actual",
             "eff": "-59.2%"
           },
@@ -9215,7 +9215,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "lanjut proses TF",
+            "ket": "",
             "status": "Plan",
             "eff": ""
           },
@@ -9259,7 +9259,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "Doff Akhir (Belum di doff)",
+            "ket": "",
             "status": "Plan",
             "eff": ""
           },
@@ -9281,7 +9281,7 @@
             "loss": "-67.3",
             "pct_loss": "-14.0%",
             "overlap": "300",
-            "ket": "D+ GP=>312 sin rbn + Tes TPM oke jam 02:00 + pergantian istirahat + cleaning top guide",
+            "ket": "",
             "status": "Actual",
             "eff": "-81.3%"
           },
@@ -9303,7 +9303,7 @@
             "loss": "-11.5",
             "pct_loss": "-2.4%",
             "overlap": "190",
-            "ket": "D+C+HB banyak + dahulukan dt 08",
+            "ket": "",
             "status": "Actual",
             "eff": "-85.8%"
           },
@@ -9325,7 +9325,7 @@
             "loss": "-31.5",
             "pct_loss": "-6.6%",
             "overlap": "5",
-            "ket": "D+C+HB (25) spindle + dahulukan dt 14",
+            "ket": "",
             "status": "Actual",
             "eff": "-234.5%"
           },
@@ -9347,7 +9347,7 @@
             "loss": "-6.5",
             "pct_loss": "-1.4%",
             "overlap": "",
-            "ket": "D+C+HB",
+            "ket": "",
             "status": "Actual",
             "eff": "-48.6%"
           },
@@ -9369,7 +9369,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "160",
-            "ket": "D+GF+dahulukan dt 8,9,12,14",
+            "ket": "",
             "status": "Actual",
             "eff": ""
           },
@@ -9391,7 +9391,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D+GF+C",
+            "ket": "",
             "status": "Actual",
             "eff": ""
           },
@@ -9707,7 +9707,7 @@
             "loss": "-7.2",
             "pct_loss": "-1.5%",
             "overlap": "",
-            "ket": "D, C, HB",
+            "ket": "",
             "status": "Actual",
             "eff": "-40.6%"
           },
@@ -9729,7 +9729,7 @@
             "loss": "82.3",
             "pct_loss": "17.2%",
             "overlap": "345",
-            "ket": "Doff awal, GF 1/2 mc, TF (1xdoff), Crealing, HB, Dah heli 1, Patwal mc",
+            "ket": "",
             "status": "Actual",
             "eff": "84.6%"
           },
@@ -9751,7 +9751,7 @@
             "loss": "-67.7",
             "pct_loss": "-14.1%",
             "overlap": "300",
-            "ket": "D, GF, Clean, Perg istirahat",
+            "ket": "",
             "status": "Actual",
             "eff": "-69.5%"
           },
@@ -9773,7 +9773,7 @@
             "loss": "-27.7",
             "pct_loss": "-5.8%",
             "overlap": "",
-            "ket": "D, GF, C",
+            "ket": "",
             "status": "Actual",
             "eff": "-28.4%"
           },
@@ -9795,7 +9795,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "Doff akhir (belum di doff)",
+            "ket": "",
             "status": "Actual",
             "eff": ""
           },
@@ -9861,7 +9861,7 @@
             "loss": "-14.2",
             "pct_loss": "-3.0%",
             "overlap": "1240",
-            "ket": "D. Awal + GF",
+            "ket": "",
             "status": "Actual",
             "eff": "-39.7%"
           },
@@ -9883,7 +9883,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D+ GF + T. Feeding ( Rewending)",
+            "ket": "",
             "status": "Actual",
             "eff": ""
           },
@@ -10241,7 +10241,7 @@
             "loss": "-892.2",
             "pct_loss": "-185.9%",
             "overlap": "",
-            "ket": "",
+            "ket": "Start Note: D. Awal + HB (27 + GF 12 spdl) + C",
             "status": "Plan",
             "eff": "-5018.8%"
           },
@@ -10263,7 +10263,7 @@
             "loss": "-27.7",
             "pct_loss": "-5.8%",
             "overlap": "35",
-            "ket": "",
+            "ket": "Start Note: D + GF + C + Dah. DT 14",
             "status": "Plan",
             "eff": "-28.4%"
           },
@@ -10285,7 +10285,7 @@
             "loss": "997.3",
             "pct_loss": "207.8%",
             "overlap": "10",
-            "ket": "",
+            "ket": "Stop Note: Text input",
             "status": "Plan",
             "eff": "1024.7%"
           },
@@ -10307,7 +10307,7 @@
             "loss": "-877.3",
             "pct_loss": "-182.8%",
             "overlap": "",
-            "ket": "GF",
+            "ket": "Start Note: GF awal+patwal",
             "status": "Plan",
             "eff": "-1060.4%"
           },
@@ -10329,7 +10329,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "210",
-            "ket": "D",
+            "ket": "Stop Note: Text input | Start Note: D+C+HB+P.ISTIRAHT",
             "status": "Plan",
             "eff": ""
           },
@@ -10351,7 +10351,7 @@
             "loss": "27.7",
             "pct_loss": "5.8%",
             "overlap": "",
-            "ket": "GF",
+            "ket": "Start Note: GF+DAH DT 9,13 (2xDOFF)",
             "status": "Plan",
             "eff": "33.5%"
           },
@@ -10373,7 +10373,7 @@
             "loss": "-26.5",
             "pct_loss": "-5.5%",
             "overlap": "",
-            "ket": "D",
+            "ket": "Start Note: D+C+HB",
             "status": "Plan",
             "eff": "-197.3%"
           },
@@ -10395,7 +10395,7 @@
             "loss": "-21.5",
             "pct_loss": "-4.5%",
             "overlap": "",
-            "ket": "D",
+            "ket": "Stop Note: Text input | Start Note: D+C+HB",
             "status": "Plan",
             "eff": "-160.1%"
           },
@@ -10417,7 +10417,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "",
+            "ket": "Stop Note: Text input | Start Note: TES QA (OK 14:45) + GF + GANTI FLYER + GANTI TRAVELER",
             "status": "Plan",
             "eff": ""
           },
@@ -10439,7 +10439,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "100",
-            "ket": "",
+            "ket": "Stop Note: Text input | Start Note: D + GF",
             "status": "Plan",
             "eff": ""
           }
@@ -10775,7 +10775,7 @@
             "loss": "-2.2",
             "pct_loss": "-0.5%",
             "overlap": "",
-            "ket": "Doff+HB+C",
+            "ket": "",
             "status": "Actual",
             "eff": "-12.5%"
           },
@@ -10797,7 +10797,7 @@
             "loss": "-21.5",
             "pct_loss": "-4.5%",
             "overlap": "",
-            "ket": "DOFF AWAL + C + HB + PATWAL",
+            "ket": "",
             "status": "Actual",
             "eff": "-160.1%"
           },
@@ -10819,7 +10819,7 @@
             "loss": "-11.5",
             "pct_loss": "-2.4%",
             "overlap": "480",
-            "ket": "D+C+HB+DAH DT 9",
+            "ket": "",
             "status": "Actual",
             "eff": "-85.8%"
           },
@@ -10841,7 +10841,7 @@
             "loss": "2.7",
             "pct_loss": "0.6%",
             "overlap": "",
-            "ket": "D+GF+C",
+            "ket": "",
             "status": "Actual",
             "eff": "3.3%"
           },
@@ -10863,7 +10863,7 @@
             "loss": "-1.5",
             "pct_loss": "-0.3%",
             "overlap": "85",
-            "ket": "D+C+HB",
+            "ket": "",
             "status": "Actual",
             "eff": "-11.5%"
           },
@@ -10885,7 +10885,7 @@
             "loss": "-1.5",
             "pct_loss": "-0.3%",
             "overlap": "",
-            "ket": "D+C+HB",
+            "ket": "",
             "status": "Actual",
             "eff": "-11.5%"
           },
@@ -10907,7 +10907,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "Doff akhir ( belum di doff )",
+            "ket": "",
             "status": "Actual",
             "eff": ""
           },
@@ -10951,7 +10951,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "380",
-            "ket": "D AWAL + GF + PATWAL",
+            "ket": "",
             "status": "Actual",
             "eff": ""
           },
@@ -10973,7 +10973,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "D + GF + TF + R",
+            "ket": "",
             "status": "Actual",
             "eff": ""
           }
@@ -11383,7 +11383,7 @@
           "loss": "77.7",
           "pct_loss": "16.2%",
           "overlap": "1225",
-          "ket": "",
+          "ket": "Start Note: D + GF + DAH DT 13",
           "status": "Plan",
           "eff": "94.0%"
         },
@@ -11873,7 +11873,7 @@
           "loss": "",
           "pct_loss": "",
           "overlap": "",
-          "ket": "Lnjut proses +patroling awal+ brefing+C",
+          "ket": "",
           "status": "Plan",
           "eff": ""
         }
@@ -11944,7 +11944,7 @@
           "loss": "-16.5",
           "pct_loss": "-3.4%",
           "overlap": "100",
-          "ket": "D+C+HB+BRIEFING",
+          "ket": "",
           "status": "Actual",
           "eff": "-123.0%"
         },
@@ -11966,7 +11966,7 @@
           "loss": "-26.5",
           "pct_loss": "-5.5%",
           "overlap": "230",
-          "ket": "D+C+HB.Banyak",
+          "ket": "",
           "status": "Actual",
           "eff": "-197.3%"
         },
@@ -11988,7 +11988,7 @@
           "loss": "-6.5",
           "pct_loss": "-1.4%",
           "overlap": "170",
-          "ket": "D+C+HB",
+          "ket": "",
           "status": "Actual",
           "eff": "-48.6%"
         },
@@ -12032,7 +12032,7 @@
           "loss": "7.7",
           "pct_loss": "1.6%",
           "overlap": "235",
-          "ket": "D+C+HB+GF 1/2 mc (1xDoff dan 2x doff  mix ) + dahulukan dt 14 + pergantian istirahat",
+          "ket": "",
           "status": "Actual",
           "eff": "9.3%"
         },
@@ -12054,7 +12054,7 @@
           "loss": "17.7",
           "pct_loss": "3.7%",
           "overlap": "",
-          "ket": "D+GF",
+          "ket": "",
           "status": "Actual",
           "eff": "21.4%"
         },
@@ -12076,7 +12076,7 @@
           "loss": "",
           "pct_loss": "",
           "overlap": "",
-          "ket": "D+ GF",
+          "ket": "",
           "status": "Actual",
           "eff": ""
         }
@@ -12566,7 +12566,7 @@
       "loss": "77.7",
       "pct_loss": "16.2%",
       "overlap": "1225",
-      "ket": "",
+      "ket": "Start Note: D + GF + DAH DT 13",
       "status": "Plan",
       "eff": "94.0%"
     },
@@ -13050,7 +13050,7 @@
       "loss": "",
       "pct_loss": "",
       "overlap": "",
-      "ket": "Lnjut proses +patroling awal+ brefing+C",
+      "ket": "",
       "status": "Plan",
       "eff": ""
     },
@@ -13116,7 +13116,7 @@
       "loss": "-16.5",
       "pct_loss": "-3.4%",
       "overlap": "100",
-      "ket": "D+C+HB+BRIEFING",
+      "ket": "",
       "status": "Actual",
       "eff": "-123.0%"
     },
@@ -13138,7 +13138,7 @@
       "loss": "-26.5",
       "pct_loss": "-5.5%",
       "overlap": "230",
-      "ket": "D+C+HB.Banyak",
+      "ket": "",
       "status": "Actual",
       "eff": "-197.3%"
     },
@@ -13160,7 +13160,7 @@
       "loss": "-6.5",
       "pct_loss": "-1.4%",
       "overlap": "170",
-      "ket": "D+C+HB",
+      "ket": "",
       "status": "Actual",
       "eff": "-48.6%"
     },
@@ -13204,7 +13204,7 @@
       "loss": "7.7",
       "pct_loss": "1.6%",
       "overlap": "235",
-      "ket": "D+C+HB+GF 1/2 mc (1xDoff dan 2x doff  mix ) + dahulukan dt 14 + pergantian istirahat",
+      "ket": "",
       "status": "Actual",
       "eff": "9.3%"
     },
@@ -13226,7 +13226,7 @@
       "loss": "17.7",
       "pct_loss": "3.7%",
       "overlap": "",
-      "ket": "D+GF",
+      "ket": "",
       "status": "Actual",
       "eff": "21.4%"
     },
@@ -13248,7 +13248,7 @@
       "loss": "",
       "pct_loss": "",
       "overlap": "",
-      "ket": "D+ GF",
+      "ket": "",
       "status": "Actual",
       "eff": ""
     },
