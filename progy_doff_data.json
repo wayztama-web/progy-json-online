@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T15:13:00.797Z",
+  "updatedAt": "2026-09-26T15:18:02.762Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -48,7 +48,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "",
+            "ket": "Stop Note: Text input | Start Note: Text input",
             "status": "0",
             "eff": ""
           }
@@ -787,7 +787,7 @@
             "loss": "",
             "pct_loss": "",
             "overlap": "",
-            "ket": "",
+            "ket": "Stop Note: Text input | Start Note: Lanjut ke Shift NS",
             "status": "0",
             "eff": ""
           },
@@ -10287,7 +10287,7 @@
           "loss": "",
           "pct_loss": "",
           "overlap": "",
-          "ket": "",
+          "ket": "Stop Note: Text input | Start Note: Text input",
           "status": "0",
           "eff": ""
         }
@@ -10314,7 +10314,7 @@
       "loss": "",
       "pct_loss": "",
       "overlap": "",
-      "ket": "",
+      "ket": "Stop Note: Text input | Start Note: Text input",
       "status": "0",
       "eff": ""
     }
