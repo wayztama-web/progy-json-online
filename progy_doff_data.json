@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T03:28:22.567Z",
+  "updatedAt": "2026-09-27T03:33:21.853Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -29,30 +29,7 @@
         "cm6": []
       },
       "NS": {
-        "cm3": [
-          {
-            "key": "20260927-NS-DT 8-L-2200",
-            "date": "9/27/2026",
-            "shift": "NS",
-            "cluster": "CM3",
-            "group": "DT",
-            "mc": "DT 8",
-            "jenis": "MTN",
-            "plan": "22:00",
-            "doff": "22:00",
-            "start": "23:33",
-            "code": "L",
-            "std": "13.5",
-            "dt_mc": "93",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
-            "overlap": "",
-            "ket": "Stop Note: Text input | Start Note: Text input",
-            "status": "0",
-            "eff": ""
-          }
-        ],
+        "cm3": [],
         "cm6": []
       }
     },
@@ -770,28 +747,6 @@
             "eff": ""
           },
           {
-            "key": "20260926-AS-DT 8-REP-2133",
-            "date": "9/26/2026",
-            "shift": "AS",
-            "cluster": "CM3",
-            "group": "DT",
-            "mc": "DT 8",
-            "jenis": "MTN",
-            "plan": "",
-            "doff": "21:33",
-            "start": "22:00",
-            "code": "L",
-            "std": "13.5",
-            "dt_mc": "27",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
-            "overlap": "",
-            "ket": "Stop Note: Text input | Start Note: Lanjut ke Shift NS",
-            "status": "0",
-            "eff": ""
-          },
-          {
             "key": "20260926-AS-DT 10-PLAN",
             "date": "9/26/2026",
             "shift": "AS",
@@ -870,14 +825,14 @@
             "start": "",
             "code": "D",
             "std": "13.5",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "dt_mc": "-1005",
+            "dt_proc": "-1005",
+            "loss": "1018.5",
+            "pct_loss": "212.2%",
             "overlap": "",
             "ket": "Stop Note: D + C + HB 23 SPD + PENUTUPAN",
             "status": "Plan",
-            "eff": ""
+            "eff": "7569.6%"
           },
           {
             "key": "20260926-AS-DT 12-PLAN",
@@ -914,14 +869,14 @@
             "start": "",
             "code": "D",
             "std": "13.5",
-            "dt_mc": "-1240",
-            "dt_proc": "-1240",
-            "loss": "1253.5",
-            "pct_loss": "261.1%",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "Stop Note: DOFF AKHIR (BELUM DI DOFF)",
             "status": "Plan",
-            "eff": "9316.2%"
+            "eff": ""
           },
           {
             "key": "20260926-AS-L 17-PLAN",
@@ -10268,55 +10223,9 @@
       "cm6": []
     },
     "NS": {
-      "cm3": [
-        {
-          "key": "20260927-NS-DT 8-L-2200",
-          "date": "9/27/2026",
-          "shift": "NS",
-          "cluster": "CM3",
-          "group": "DT",
-          "mc": "DT 8",
-          "jenis": "MTN",
-          "plan": "22:00",
-          "doff": "22:00",
-          "start": "23:33",
-          "code": "L",
-          "std": "13.5",
-          "dt_mc": "93",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
-          "overlap": "",
-          "ket": "Stop Note: Text input | Start Note: Text input",
-          "status": "0",
-          "eff": ""
-        }
-      ],
+      "cm3": [],
       "cm6": []
     }
   },
-  "rows": [
-    {
-      "key": "20260927-NS-DT 8-L-2200",
-      "date": "9/27/2026",
-      "shift": "NS",
-      "cluster": "CM3",
-      "group": "DT",
-      "mc": "DT 8",
-      "jenis": "MTN",
-      "plan": "22:00",
-      "doff": "22:00",
-      "start": "23:33",
-      "code": "L",
-      "std": "13.5",
-      "dt_mc": "93",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
-      "overlap": "",
-      "ket": "Stop Note: Text input | Start Note: Text input",
-      "status": "0",
-      "eff": ""
-    }
-  ]
+  "rows": []
 }
