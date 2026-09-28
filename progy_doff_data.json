@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T18:19:42.871Z",
+  "updatedAt": "2026-09-28T18:24:42.397Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -406,6 +406,28 @@
           }
         ],
         "cm6": [
+          {
+            "key": "20260930-NS-DT 7-L-2200",
+            "date": "9/29/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "DT",
+            "mc": "DT 7",
+            "jenis": "MTN",
+            "plan": "",
+            "doff": "22:00",
+            "start": "00:10",
+            "code": "L",
+            "std": "13.5",
+            "dt_mc": "-1310",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "105",
+            "ket": "Text input",
+            "status": "0",
+            "eff": ""
+          },
           {
             "key": "20260930-NS-L 3-L-2200",
             "date": "9/29/2026",
@@ -2187,6 +2209,28 @@
       ],
       "cm6": [
         {
+          "key": "20260930-NS-DT 7-L-2200",
+          "date": "9/29/2026",
+          "shift": "NS",
+          "cluster": "CM6",
+          "group": "DT",
+          "mc": "DT 7",
+          "jenis": "MTN",
+          "plan": "",
+          "doff": "22:00",
+          "start": "00:10",
+          "code": "L",
+          "std": "13.5",
+          "dt_mc": "-1310",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "105",
+          "ket": "Text input",
+          "status": "0",
+          "eff": ""
+        },
+        {
           "key": "20260930-NS-L 3-L-2200",
           "date": "9/29/2026",
           "shift": "NS",
@@ -2760,6 +2804,28 @@
       "overlap": "",
       "ket": "",
       "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20260930-NS-DT 7-L-2200",
+      "date": "9/29/2026",
+      "shift": "NS",
+      "cluster": "CM6",
+      "group": "DT",
+      "mc": "DT 7",
+      "jenis": "MTN",
+      "plan": "",
+      "doff": "22:00",
+      "start": "00:10",
+      "code": "L",
+      "std": "13.5",
+      "dt_mc": "-1310",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "105",
+      "ket": "Text input",
+      "status": "0",
       "eff": ""
     },
     {
