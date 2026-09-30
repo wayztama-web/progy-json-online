@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T06:56:34.232Z",
+  "updatedAt": "2026-09-30T07:01:36.357Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -3365,10 +3365,10 @@
     }
   },
   "dateSelector": "9/30/2026",
-  "shiftSelector": "MS",
+  "shiftSelector": "AS",
   "productionDateSerial": 46295,
   "productionDateText": "9/30/2026",
-  "shiftSet": "MS",
+  "shiftSet": "AS",
   "shifts": {
     "MS": {
       "cm3": [
