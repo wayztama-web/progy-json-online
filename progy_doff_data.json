@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T22:42:34.304Z",
+  "updatedAt": "2026-09-30T22:47:34.612Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -91,7 +91,7 @@
             "dt_proc": "20",
             "loss": "-2.2",
             "pct_loss": "-0.5%",
-            "overlap": "390",
+            "overlap": "1155",
             "ket": "",
             "status": "Plan",
             "eff": "-12.5%"
@@ -113,7 +113,7 @@
             "dt_proc": "55",
             "loss": "-37.2",
             "pct_loss": "-7.8%",
-            "overlap": "920",
+            "overlap": "940",
             "ket": "",
             "status": "Plan",
             "eff": "-209.4%"
@@ -135,7 +135,7 @@
             "dt_proc": "-225",
             "loss": "322.3",
             "pct_loss": "67.2%",
-            "overlap": "",
+            "overlap": "1050",
             "ket": "",
             "status": "Plan",
             "eff": "331.2%"
@@ -201,7 +201,7 @@
             "dt_proc": "20",
             "loss": "62.7",
             "pct_loss": "13.1%",
-            "overlap": "1000",
+            "overlap": "",
             "ket": "",
             "status": "Plan",
             "eff": "75.8%"
@@ -223,7 +223,7 @@
             "dt_proc": "",
             "loss": "",
             "pct_loss": "",
-            "overlap": "994",
+            "overlap": "",
             "ket": "",
             "status": "Plan",
             "eff": ""
@@ -245,7 +245,7 @@
             "dt_proc": "",
             "loss": "",
             "pct_loss": "",
-            "overlap": "995",
+            "overlap": "1085",
             "ket": "",
             "status": "Plan",
             "eff": ""
@@ -267,7 +267,7 @@
             "dt_proc": "-315",
             "loss": "328.5",
             "pct_loss": "68.4%",
-            "overlap": "985",
+            "overlap": "150",
             "ket": "",
             "status": "Plan",
             "eff": "2441.2%"
@@ -335,7 +335,7 @@
             "dt_proc": "100",
             "loss": "-63.0",
             "pct_loss": "-13.1%",
-            "overlap": "1335",
+            "overlap": "",
             "ket": "",
             "status": "Plan",
             "eff": "-169.9%"
@@ -363,6 +363,28 @@
             "eff": "6.9%"
           },
           {
+            "key": "20261001-NS-Delta 8-PLAN",
+            "date": "10/1/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR Delta",
+            "mc": "Delta 8",
+            "jenis": "D",
+            "plan": "04:30",
+            "doff": "04:20",
+            "start": "05:30",
+            "code": "D",
+            "std": "8.3",
+            "dt_mc": "70",
+            "dt_proc": "50",
+            "loss": "-41.8",
+            "pct_loss": "-8.7%",
+            "overlap": "20",
+            "ket": "",
+            "status": "Plan",
+            "eff": "-506.1%"
+          },
+          {
             "key": "20261001-NS-Delta 10-PLAN",
             "date": "10/1/2026",
             "shift": "NS",
@@ -379,7 +401,7 @@
             "dt_proc": "1075",
             "loss": "-1038.0",
             "pct_loss": "-216.2%",
-            "overlap": "",
+            "overlap": "815",
             "ket": "",
             "status": "Plan",
             "eff": "-2801.5%"
@@ -405,28 +427,6 @@
             "ket": "",
             "status": "Plan",
             "eff": "312.8%"
-          },
-          {
-            "key": "20261001-NS-Delta 8-PLAN",
-            "date": "10/1/2026",
-            "shift": "NS",
-            "cluster": "CM6",
-            "group": "TBR Delta",
-            "mc": "Delta 8",
-            "jenis": "D",
-            "plan": "04:30",
-            "doff": "04:20",
-            "start": "",
-            "code": "D",
-            "std": "8.3",
-            "dt_mc": "-260",
-            "dt_proc": "-260",
-            "loss": "268.3",
-            "pct_loss": "55.9%",
-            "overlap": "20",
-            "ket": "",
-            "status": "Plan",
-            "eff": "3251.5%"
           },
           {
             "key": "20261001-NS-Delta 10-PLAN",
@@ -533,7 +533,7 @@
             "dt_proc": "75",
             "loss": "7.7",
             "pct_loss": "1.6%",
-            "overlap": "965",
+            "overlap": "145",
             "ket": "",
             "status": "Plan",
             "eff": "9.3%"
@@ -665,7 +665,7 @@
             "dt_proc": "",
             "loss": "",
             "pct_loss": "",
-            "overlap": "",
+            "overlap": "80",
             "ket": "",
             "status": "Plan",
             "eff": ""
@@ -3827,7 +3827,7 @@
             "dt_proc": "",
             "loss": "",
             "pct_loss": "",
-            "overlap": "320",
+            "overlap": "160",
             "ket": "",
             "status": "0",
             "eff": ""
@@ -4698,7 +4698,7 @@
           "dt_proc": "20",
           "loss": "-2.2",
           "pct_loss": "-0.5%",
-          "overlap": "390",
+          "overlap": "1155",
           "ket": "",
           "status": "Plan",
           "eff": "-12.5%"
@@ -4720,7 +4720,7 @@
           "dt_proc": "55",
           "loss": "-37.2",
           "pct_loss": "-7.8%",
-          "overlap": "920",
+          "overlap": "940",
           "ket": "",
           "status": "Plan",
           "eff": "-209.4%"
@@ -4742,7 +4742,7 @@
           "dt_proc": "-225",
           "loss": "322.3",
           "pct_loss": "67.2%",
-          "overlap": "",
+          "overlap": "1050",
           "ket": "",
           "status": "Plan",
           "eff": "331.2%"
@@ -4808,7 +4808,7 @@
           "dt_proc": "20",
           "loss": "62.7",
           "pct_loss": "13.1%",
-          "overlap": "1000",
+          "overlap": "",
           "ket": "",
           "status": "Plan",
           "eff": "75.8%"
@@ -4830,7 +4830,7 @@
           "dt_proc": "",
           "loss": "",
           "pct_loss": "",
-          "overlap": "994",
+          "overlap": "",
           "ket": "",
           "status": "Plan",
           "eff": ""
@@ -4852,7 +4852,7 @@
           "dt_proc": "",
           "loss": "",
           "pct_loss": "",
-          "overlap": "995",
+          "overlap": "1085",
           "ket": "",
           "status": "Plan",
           "eff": ""
@@ -4874,7 +4874,7 @@
           "dt_proc": "-315",
           "loss": "328.5",
           "pct_loss": "68.4%",
-          "overlap": "985",
+          "overlap": "150",
           "ket": "",
           "status": "Plan",
           "eff": "2441.2%"
@@ -4942,7 +4942,7 @@
           "dt_proc": "100",
           "loss": "-63.0",
           "pct_loss": "-13.1%",
-          "overlap": "1335",
+          "overlap": "",
           "ket": "",
           "status": "Plan",
           "eff": "-169.9%"
@@ -4970,6 +4970,28 @@
           "eff": "6.9%"
         },
         {
+          "key": "20261001-NS-Delta 8-PLAN",
+          "date": "10/1/2026",
+          "shift": "NS",
+          "cluster": "CM6",
+          "group": "TBR Delta",
+          "mc": "Delta 8",
+          "jenis": "D",
+          "plan": "04:30",
+          "doff": "04:20",
+          "start": "05:30",
+          "code": "D",
+          "std": "8.3",
+          "dt_mc": "70",
+          "dt_proc": "50",
+          "loss": "-41.8",
+          "pct_loss": "-8.7%",
+          "overlap": "20",
+          "ket": "",
+          "status": "Plan",
+          "eff": "-506.1%"
+        },
+        {
           "key": "20261001-NS-Delta 10-PLAN",
           "date": "10/1/2026",
           "shift": "NS",
@@ -4986,7 +5008,7 @@
           "dt_proc": "1075",
           "loss": "-1038.0",
           "pct_loss": "-216.2%",
-          "overlap": "",
+          "overlap": "815",
           "ket": "",
           "status": "Plan",
           "eff": "-2801.5%"
@@ -5012,28 +5034,6 @@
           "ket": "",
           "status": "Plan",
           "eff": "312.8%"
-        },
-        {
-          "key": "20261001-NS-Delta 8-PLAN",
-          "date": "10/1/2026",
-          "shift": "NS",
-          "cluster": "CM6",
-          "group": "TBR Delta",
-          "mc": "Delta 8",
-          "jenis": "D",
-          "plan": "04:30",
-          "doff": "04:20",
-          "start": "",
-          "code": "D",
-          "std": "8.3",
-          "dt_mc": "-260",
-          "dt_proc": "-260",
-          "loss": "268.3",
-          "pct_loss": "55.9%",
-          "overlap": "20",
-          "ket": "",
-          "status": "Plan",
-          "eff": "3251.5%"
         },
         {
           "key": "20261001-NS-Delta 10-PLAN",
@@ -5140,7 +5140,7 @@
           "dt_proc": "75",
           "loss": "7.7",
           "pct_loss": "1.6%",
-          "overlap": "965",
+          "overlap": "145",
           "ket": "",
           "status": "Plan",
           "eff": "9.3%"
@@ -5272,7 +5272,7 @@
           "dt_proc": "",
           "loss": "",
           "pct_loss": "",
-          "overlap": "",
+          "overlap": "80",
           "ket": "",
           "status": "Plan",
           "eff": ""
@@ -5408,7 +5408,7 @@
       "dt_proc": "20",
       "loss": "-2.2",
       "pct_loss": "-0.5%",
-      "overlap": "390",
+      "overlap": "1155",
       "ket": "",
       "status": "Plan",
       "eff": "-12.5%"
@@ -5430,7 +5430,7 @@
       "dt_proc": "55",
       "loss": "-37.2",
       "pct_loss": "-7.8%",
-      "overlap": "920",
+      "overlap": "940",
       "ket": "",
       "status": "Plan",
       "eff": "-209.4%"
@@ -5452,7 +5452,7 @@
       "dt_proc": "-225",
       "loss": "322.3",
       "pct_loss": "67.2%",
-      "overlap": "",
+      "overlap": "1050",
       "ket": "",
       "status": "Plan",
       "eff": "331.2%"
@@ -5518,7 +5518,7 @@
       "dt_proc": "20",
       "loss": "62.7",
       "pct_loss": "13.1%",
-      "overlap": "1000",
+      "overlap": "",
       "ket": "",
       "status": "Plan",
       "eff": "75.8%"
@@ -5540,7 +5540,7 @@
       "dt_proc": "",
       "loss": "",
       "pct_loss": "",
-      "overlap": "994",
+      "overlap": "",
       "ket": "",
       "status": "Plan",
       "eff": ""
@@ -5562,7 +5562,7 @@
       "dt_proc": "",
       "loss": "",
       "pct_loss": "",
-      "overlap": "995",
+      "overlap": "1085",
       "ket": "",
       "status": "Plan",
       "eff": ""
@@ -5584,7 +5584,7 @@
       "dt_proc": "-315",
       "loss": "328.5",
       "pct_loss": "68.4%",
-      "overlap": "985",
+      "overlap": "150",
       "ket": "",
       "status": "Plan",
       "eff": "2441.2%"
@@ -5650,7 +5650,7 @@
       "dt_proc": "100",
       "loss": "-63.0",
       "pct_loss": "-13.1%",
-      "overlap": "1335",
+      "overlap": "",
       "ket": "",
       "status": "Plan",
       "eff": "-169.9%"
@@ -5678,6 +5678,28 @@
       "eff": "6.9%"
     },
     {
+      "key": "20261001-NS-Delta 8-PLAN",
+      "date": "10/1/2026",
+      "shift": "NS",
+      "cluster": "CM6",
+      "group": "TBR Delta",
+      "mc": "Delta 8",
+      "jenis": "D",
+      "plan": "04:30",
+      "doff": "04:20",
+      "start": "05:30",
+      "code": "D",
+      "std": "8.3",
+      "dt_mc": "70",
+      "dt_proc": "50",
+      "loss": "-41.8",
+      "pct_loss": "-8.7%",
+      "overlap": "20",
+      "ket": "",
+      "status": "Plan",
+      "eff": "-506.1%"
+    },
+    {
       "key": "20261001-NS-Delta 10-PLAN",
       "date": "10/1/2026",
       "shift": "NS",
@@ -5694,7 +5716,7 @@
       "dt_proc": "1075",
       "loss": "-1038.0",
       "pct_loss": "-216.2%",
-      "overlap": "",
+      "overlap": "815",
       "ket": "",
       "status": "Plan",
       "eff": "-2801.5%"
@@ -5720,28 +5742,6 @@
       "ket": "",
       "status": "Plan",
       "eff": "312.8%"
-    },
-    {
-      "key": "20261001-NS-Delta 8-PLAN",
-      "date": "10/1/2026",
-      "shift": "NS",
-      "cluster": "CM6",
-      "group": "TBR Delta",
-      "mc": "Delta 8",
-      "jenis": "D",
-      "plan": "04:30",
-      "doff": "04:20",
-      "start": "",
-      "code": "D",
-      "std": "8.3",
-      "dt_mc": "-260",
-      "dt_proc": "-260",
-      "loss": "268.3",
-      "pct_loss": "55.9%",
-      "overlap": "20",
-      "ket": "",
-      "status": "Plan",
-      "eff": "3251.5%"
     },
     {
       "key": "20261001-NS-Delta 10-PLAN",
@@ -5848,7 +5848,7 @@
       "dt_proc": "75",
       "loss": "7.7",
       "pct_loss": "1.6%",
-      "overlap": "965",
+      "overlap": "145",
       "ket": "",
       "status": "Plan",
       "eff": "9.3%"
@@ -5980,7 +5980,7 @@
       "dt_proc": "",
       "loss": "",
       "pct_loss": "",
-      "overlap": "",
+      "overlap": "80",
       "ket": "",
       "status": "Plan",
       "eff": ""
