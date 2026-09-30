@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T23:22:35.216Z",
+  "updatedAt": "2026-09-30T23:27:36.355Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -21,7 +21,52 @@
   "dates": {
     "2026-10-01": {
       "MS": {
-        "cm3": [],
+        "cm3": [
+          {
+            "key": "20261001-MS-Heli 5-PLAN",
+            "date": "10/1/2026",
+            "shift": "MS",
+            "cluster": "CM3",
+            "group": "Alidra Heli",
+            "mc": "Heli 5",
+            "jenis": "GF",
+            "plan": "06:00",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "97.3",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          },
+          {
+            "key": "20261001-MS-Heli 3-PLAN",
+            "date": "10/1/2026",
+            "shift": "MS",
+            "cluster": "CM3",
+            "group": "Alidra Heli",
+            "mc": "Heli 3",
+            "jenis": "D",
+            "plan": "07:00",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "17.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          }
+        ],
         "cm6": [
           {
             "key": "20261001-MS-DT 7-PLAN",
@@ -4937,7 +4982,52 @@
   "shiftSet": "MS",
   "shifts": {
     "MS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20261001-MS-Heli 5-PLAN",
+          "date": "10/1/2026",
+          "shift": "MS",
+          "cluster": "CM3",
+          "group": "Alidra Heli",
+          "mc": "Heli 5",
+          "jenis": "GF",
+          "plan": "06:00",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "97.3",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        },
+        {
+          "key": "20261001-MS-Heli 3-PLAN",
+          "date": "10/1/2026",
+          "shift": "MS",
+          "cluster": "CM3",
+          "group": "Alidra Heli",
+          "mc": "Heli 3",
+          "jenis": "D",
+          "plan": "07:00",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "17.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        }
+      ],
       "cm6": [
         {
           "key": "20261001-MS-DT 7-PLAN",
@@ -5965,6 +6055,50 @@
     }
   },
   "rows": [
+    {
+      "key": "20261001-MS-Heli 5-PLAN",
+      "date": "10/1/2026",
+      "shift": "MS",
+      "cluster": "CM3",
+      "group": "Alidra Heli",
+      "mc": "Heli 5",
+      "jenis": "GF",
+      "plan": "06:00",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "97.3",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20261001-MS-Heli 3-PLAN",
+      "date": "10/1/2026",
+      "shift": "MS",
+      "cluster": "CM3",
+      "group": "Alidra Heli",
+      "mc": "Heli 3",
+      "jenis": "D",
+      "plan": "07:00",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "17.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
     {
       "key": "20261001-MS-DT 7-PLAN",
       "date": "10/1/2026",
