@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T02:36:22.325Z",
+  "updatedAt": "2026-09-30T02:41:22.454Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1129,7 +1129,7 @@
             "jenis": "GF",
             "plan": "11:10",
             "doff": "09:10",
-            "start": "11:40",
+            "start": "09:30",
             "code": "GF",
             "std": "35.8",
             "dt_mc": "",
