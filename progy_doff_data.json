@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T06:02:53.819Z",
+  "updatedAt": "2026-10-01T06:07:53.068Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -563,7 +563,7 @@
             "plan": "10:40",
             "doff": "10:40",
             "start": "11:15",
-            "code": "GF",
+            "code": "",
             "std": "35.8",
             "dt_mc": "35",
             "dt_proc": "35",
@@ -571,7 +571,7 @@
             "pct_loss": "0.2%",
             "overlap": "",
             "ket": "",
-            "status": "Plan",
+            "status": "Actual",
             "eff": "2.2%"
           },
           {
@@ -5788,7 +5788,7 @@
           "plan": "10:40",
           "doff": "10:40",
           "start": "11:15",
-          "code": "GF",
+          "code": "",
           "std": "35.8",
           "dt_mc": "35",
           "dt_proc": "35",
@@ -5796,7 +5796,7 @@
           "pct_loss": "0.2%",
           "overlap": "",
           "ket": "",
-          "status": "Plan",
+          "status": "Actual",
           "eff": "2.2%"
         },
         {
@@ -7122,7 +7122,7 @@
       "plan": "10:40",
       "doff": "10:40",
       "start": "11:15",
-      "code": "GF",
+      "code": "",
       "std": "35.8",
       "dt_mc": "35",
       "dt_proc": "35",
@@ -7130,7 +7130,7 @@
       "pct_loss": "0.2%",
       "overlap": "",
       "ket": "",
-      "status": "Plan",
+      "status": "Actual",
       "eff": "2.2%"
     },
     {
