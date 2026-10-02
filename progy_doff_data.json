@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T23:58:40.351Z",
+  "updatedAt": "2026-10-02T00:03:41.634Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -533,7 +533,30 @@
         ]
       },
       "AS": {
-        "cm3": [],
+        "cm3": [
+          {
+            "key": "20261002-AS-L 15-PLAN",
+            "date": "10/2/2026",
+            "shift": "AS",
+            "cluster": "CM3",
+            "group": "NL",
+            "mc": "L 15",
+            "jenis": "GF",
+            "plan": "14:00",
+            "doff": "14:00",
+            "start": "06:40",
+            "code": "L",
+            "std": "35.8",
+            "dt_mc": "-440",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Actual",
+            "eff": ""
+          }
+        ],
         "cm6": []
       },
       "NS": {
@@ -4886,8 +4909,8 @@
             "jenis": "GF",
             "plan": "11:10",
             "doff": "09:10",
-            "start": "08:10",
-            "code": "GF",
+            "start": "14:00",
+            "code": "L",
             "std": "35.8",
             "dt_mc": "",
             "dt_proc": "",
@@ -7524,7 +7547,30 @@
       ]
     },
     "AS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20261002-AS-L 15-PLAN",
+          "date": "10/2/2026",
+          "shift": "AS",
+          "cluster": "CM3",
+          "group": "NL",
+          "mc": "L 15",
+          "jenis": "GF",
+          "plan": "14:00",
+          "doff": "14:00",
+          "start": "06:40",
+          "code": "L",
+          "std": "35.8",
+          "dt_mc": "-440",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Actual",
+          "eff": ""
+        }
+      ],
       "cm6": []
     },
     "NS": {
@@ -8699,6 +8745,28 @@
       "overlap": "",
       "ket": "",
       "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20261002-AS-L 15-PLAN",
+      "date": "10/2/2026",
+      "shift": "AS",
+      "cluster": "CM3",
+      "group": "NL",
+      "mc": "L 15",
+      "jenis": "GF",
+      "plan": "14:00",
+      "doff": "14:00",
+      "start": "06:40",
+      "code": "L",
+      "std": "35.8",
+      "dt_mc": "-440",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Actual",
       "eff": ""
     },
     {
