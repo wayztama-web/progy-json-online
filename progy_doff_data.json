@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T15:10:24.658Z",
+  "updatedAt": "2026-10-03T15:15:25.828Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1944,6 +1944,28 @@
             "eff": "25.7%"
           },
           {
+            "key": "20261003-NS-DT 6-PLAN",
+            "date": "10/3/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR DT",
+            "mc": "DT 6",
+            "jenis": "D",
+            "plan": "22:45",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "13.5",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          },
+          {
             "key": "20261003-NS-DT 2-PLAN",
             "date": "10/3/2026",
             "shift": "NS",
@@ -2010,6 +2032,28 @@
             "eff": ""
           },
           {
+            "key": "20261003-NS-DT 5-PLAN",
+            "date": "10/3/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR DT",
+            "mc": "DT 5",
+            "jenis": "D",
+            "plan": "04:40",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "13.5",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          },
+          {
             "key": "20261003-NS-L 10-PLAN",
             "date": "10/3/2026",
             "shift": "NS",
@@ -2022,14 +2066,14 @@
             "start": "00:15",
             "code": "GF",
             "std": "35.8",
-            "dt_mc": "-1405",
-            "dt_proc": "-1405",
-            "loss": "1440.8",
-            "pct_loss": "300.2%",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "4026.1%"
+            "eff": ""
           },
           {
             "key": "20261003-NS-L 11-PLAN",
@@ -2088,14 +2132,14 @@
             "start": "23:45",
             "code": "GF",
             "std": "35.8",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "dt_mc": "90",
+            "dt_proc": "90",
+            "loss": "-54.2",
+            "pct_loss": "-11.3%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "-151.5%"
           }
         ]
       }
