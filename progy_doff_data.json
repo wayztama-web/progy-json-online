@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T05:25:00.509Z",
+  "updatedAt": "2026-10-03T05:29:59.777Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -613,7 +613,7 @@
             "dt_proc": "",
             "loss": "",
             "pct_loss": "",
-            "overlap": "",
+            "overlap": "250",
             "ket": "",
             "status": "Actual",
             "eff": ""
@@ -671,8 +671,8 @@
             "mc": "L 8",
             "jenis": "GF",
             "plan": "11:45",
-            "doff": "",
-            "start": "",
+            "doff": "11:40",
+            "start": "12:20",
             "code": "",
             "std": "35.8",
             "dt_mc": "",
@@ -681,7 +681,7 @@
             "pct_loss": "",
             "overlap": "",
             "ket": "",
-            "status": "Plan",
+            "status": "Actual",
             "eff": ""
           },
           {
@@ -9481,7 +9481,7 @@
           "dt_proc": "",
           "loss": "",
           "pct_loss": "",
-          "overlap": "",
+          "overlap": "250",
           "ket": "",
           "status": "Actual",
           "eff": ""
@@ -9539,8 +9539,8 @@
           "mc": "L 8",
           "jenis": "GF",
           "plan": "11:45",
-          "doff": "",
-          "start": "",
+          "doff": "11:40",
+          "start": "12:20",
           "code": "",
           "std": "35.8",
           "dt_mc": "",
@@ -9549,7 +9549,7 @@
           "pct_loss": "",
           "overlap": "",
           "ket": "",
-          "status": "Plan",
+          "status": "Actual",
           "eff": ""
         },
         {
@@ -10706,7 +10706,7 @@
       "dt_proc": "",
       "loss": "",
       "pct_loss": "",
-      "overlap": "",
+      "overlap": "250",
       "ket": "",
       "status": "Actual",
       "eff": ""
@@ -10764,8 +10764,8 @@
       "mc": "L 8",
       "jenis": "GF",
       "plan": "11:45",
-      "doff": "",
-      "start": "",
+      "doff": "11:40",
+      "start": "12:20",
       "code": "",
       "std": "35.8",
       "dt_mc": "",
@@ -10774,7 +10774,7 @@
       "pct_loss": "",
       "overlap": "",
       "ket": "",
-      "status": "Plan",
+      "status": "Actual",
       "eff": ""
     },
     {
