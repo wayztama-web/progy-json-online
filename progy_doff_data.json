@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T20:21:38.036Z",
+  "updatedAt": "2026-10-04T20:26:34.065Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -363,6 +363,28 @@
             "eff": "58.1%"
           },
           {
+            "key": "20261005-NS-L 13-PLAN",
+            "date": "10/5/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 13",
+            "jenis": "GF",
+            "plan": "02:30",
+            "doff": "02:45",
+            "start": "03:15",
+            "code": "GF",
+            "std": "35.8",
+            "dt_mc": "30",
+            "dt_proc": "30",
+            "loss": "5.8",
+            "pct_loss": "1.2%",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": "16.2%"
+          },
+          {
             "key": "20261005-NS-L 1-PLAN",
             "date": "10/5/2026",
             "shift": "NS",
@@ -383,28 +405,6 @@
             "ket": "",
             "status": "Plan",
             "eff": "-67.7%"
-          },
-          {
-            "key": "20261005-NS-L 13-PLAN",
-            "date": "10/5/2026",
-            "shift": "NS",
-            "cluster": "CM6",
-            "group": "TBR L",
-            "mc": "L 13",
-            "jenis": "GF",
-            "plan": "02:30",
-            "doff": "",
-            "start": "",
-            "code": "",
-            "std": "35.8",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
-            "overlap": "",
-            "ket": "",
-            "status": "Plan",
-            "eff": ""
           }
         ]
       }
@@ -12077,6 +12077,28 @@
           "eff": "58.1%"
         },
         {
+          "key": "20261005-NS-L 13-PLAN",
+          "date": "10/5/2026",
+          "shift": "NS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 13",
+          "jenis": "GF",
+          "plan": "02:30",
+          "doff": "02:45",
+          "start": "03:15",
+          "code": "GF",
+          "std": "35.8",
+          "dt_mc": "30",
+          "dt_proc": "30",
+          "loss": "5.8",
+          "pct_loss": "1.2%",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": "16.2%"
+        },
+        {
           "key": "20261005-NS-L 1-PLAN",
           "date": "10/5/2026",
           "shift": "NS",
@@ -12097,28 +12119,6 @@
           "ket": "",
           "status": "Plan",
           "eff": "-67.7%"
-        },
-        {
-          "key": "20261005-NS-L 13-PLAN",
-          "date": "10/5/2026",
-          "shift": "NS",
-          "cluster": "CM6",
-          "group": "TBR L",
-          "mc": "L 13",
-          "jenis": "GF",
-          "plan": "02:30",
-          "doff": "",
-          "start": "",
-          "code": "",
-          "std": "35.8",
-          "dt_mc": "",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
-          "overlap": "",
-          "ket": "",
-          "status": "Plan",
-          "eff": ""
         }
       ]
     }
@@ -12455,6 +12455,28 @@
       "eff": "58.1%"
     },
     {
+      "key": "20261005-NS-L 13-PLAN",
+      "date": "10/5/2026",
+      "shift": "NS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 13",
+      "jenis": "GF",
+      "plan": "02:30",
+      "doff": "02:45",
+      "start": "03:15",
+      "code": "GF",
+      "std": "35.8",
+      "dt_mc": "30",
+      "dt_proc": "30",
+      "loss": "5.8",
+      "pct_loss": "1.2%",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": "16.2%"
+    },
+    {
       "key": "20261005-NS-L 1-PLAN",
       "date": "10/5/2026",
       "shift": "NS",
@@ -12475,28 +12497,6 @@
       "ket": "",
       "status": "Plan",
       "eff": "-67.7%"
-    },
-    {
-      "key": "20261005-NS-L 13-PLAN",
-      "date": "10/5/2026",
-      "shift": "NS",
-      "cluster": "CM6",
-      "group": "TBR L",
-      "mc": "L 13",
-      "jenis": "GF",
-      "plan": "02:30",
-      "doff": "",
-      "start": "",
-      "code": "",
-      "std": "35.8",
-      "dt_mc": "",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
-      "overlap": "",
-      "ket": "",
-      "status": "Plan",
-      "eff": ""
     }
   ]
 }
