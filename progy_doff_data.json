@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T06:55:56.874Z",
+  "updatedAt": "2026-10-04T07:00:57.914Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -377,6 +377,28 @@
             "eff": "15.4%"
           },
           {
+            "key": "20261004-MS-DT 3-PLAN",
+            "date": "10/4/2026",
+            "shift": "MS",
+            "cluster": "CM6",
+            "group": "TBR DT",
+            "mc": "DT 3",
+            "jenis": "D",
+            "plan": "07:30",
+            "doff": "07:30",
+            "start": "08:00",
+            "code": "",
+            "std": "13.5",
+            "dt_mc": "30",
+            "dt_proc": "25",
+            "loss": "-11.5",
+            "pct_loss": "-2.4%",
+            "overlap": "",
+            "ket": "",
+            "status": "Actual",
+            "eff": "-85.8%"
+          },
+          {
             "key": "20261004-MS-DT 7-PLAN",
             "date": "10/4/2026",
             "shift": "MS",
@@ -390,13 +412,13 @@
             "code": "",
             "std": "82.7",
             "dt_mc": "150",
-            "dt_proc": "95",
-            "loss": "-12.3",
-            "pct_loss": "-2.6%",
+            "dt_proc": "70",
+            "loss": "12.7",
+            "pct_loss": "2.7%",
             "overlap": "",
             "ket": "",
             "status": "Actual",
-            "eff": "-14.8%"
+            "eff": "15.4%"
           },
           {
             "key": "20261004-MS-DT 6-PLAN",
@@ -440,28 +462,6 @@
             "overlap": "",
             "ket": "",
             "status": "Actual",
-            "eff": ""
-          },
-          {
-            "key": "20261004-MS-DT 3-PLAN",
-            "date": "10/4/2026",
-            "shift": "MS",
-            "cluster": "CM6",
-            "group": "TBR DT",
-            "mc": "DT 3",
-            "jenis": "D",
-            "plan": "07:30",
-            "doff": "",
-            "start": "",
-            "code": "",
-            "std": "13.5",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
-            "overlap": "",
-            "ket": "",
-            "status": "Plan",
             "eff": ""
           },
           {
@@ -10671,10 +10671,10 @@
     }
   },
   "dateSelector": "10/4/2026",
-  "shiftSelector": "MS",
+  "shiftSelector": "AS",
   "productionDateSerial": 46299,
   "productionDateText": "10/4/2026",
-  "shiftSet": "MS",
+  "shiftSet": "AS",
   "shifts": {
     "MS": {
       "cm3": [
@@ -11033,6 +11033,28 @@
           "eff": "15.4%"
         },
         {
+          "key": "20261004-MS-DT 3-PLAN",
+          "date": "10/4/2026",
+          "shift": "MS",
+          "cluster": "CM6",
+          "group": "TBR DT",
+          "mc": "DT 3",
+          "jenis": "D",
+          "plan": "07:30",
+          "doff": "07:30",
+          "start": "08:00",
+          "code": "",
+          "std": "13.5",
+          "dt_mc": "30",
+          "dt_proc": "25",
+          "loss": "-11.5",
+          "pct_loss": "-2.4%",
+          "overlap": "",
+          "ket": "",
+          "status": "Actual",
+          "eff": "-85.8%"
+        },
+        {
           "key": "20261004-MS-DT 7-PLAN",
           "date": "10/4/2026",
           "shift": "MS",
@@ -11046,13 +11068,13 @@
           "code": "",
           "std": "82.7",
           "dt_mc": "150",
-          "dt_proc": "95",
-          "loss": "-12.3",
-          "pct_loss": "-2.6%",
+          "dt_proc": "70",
+          "loss": "12.7",
+          "pct_loss": "2.7%",
           "overlap": "",
           "ket": "",
           "status": "Actual",
-          "eff": "-14.8%"
+          "eff": "15.4%"
         },
         {
           "key": "20261004-MS-DT 6-PLAN",
@@ -11096,28 +11118,6 @@
           "overlap": "",
           "ket": "",
           "status": "Actual",
-          "eff": ""
-        },
-        {
-          "key": "20261004-MS-DT 3-PLAN",
-          "date": "10/4/2026",
-          "shift": "MS",
-          "cluster": "CM6",
-          "group": "TBR DT",
-          "mc": "DT 3",
-          "jenis": "D",
-          "plan": "07:30",
-          "doff": "",
-          "start": "",
-          "code": "",
-          "std": "13.5",
-          "dt_mc": "",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
-          "overlap": "",
-          "ket": "",
-          "status": "Plan",
           "eff": ""
         },
         {
@@ -12148,6 +12148,28 @@
       "eff": "15.4%"
     },
     {
+      "key": "20261004-MS-DT 3-PLAN",
+      "date": "10/4/2026",
+      "shift": "MS",
+      "cluster": "CM6",
+      "group": "TBR DT",
+      "mc": "DT 3",
+      "jenis": "D",
+      "plan": "07:30",
+      "doff": "07:30",
+      "start": "08:00",
+      "code": "",
+      "std": "13.5",
+      "dt_mc": "30",
+      "dt_proc": "25",
+      "loss": "-11.5",
+      "pct_loss": "-2.4%",
+      "overlap": "",
+      "ket": "",
+      "status": "Actual",
+      "eff": "-85.8%"
+    },
+    {
       "key": "20261004-MS-DT 7-PLAN",
       "date": "10/4/2026",
       "shift": "MS",
@@ -12161,13 +12183,13 @@
       "code": "",
       "std": "82.7",
       "dt_mc": "150",
-      "dt_proc": "95",
-      "loss": "-12.3",
-      "pct_loss": "-2.6%",
+      "dt_proc": "70",
+      "loss": "12.7",
+      "pct_loss": "2.7%",
       "overlap": "",
       "ket": "",
       "status": "Actual",
-      "eff": "-14.8%"
+      "eff": "15.4%"
     },
     {
       "key": "20261004-MS-DT 6-PLAN",
@@ -12211,28 +12233,6 @@
       "overlap": "",
       "ket": "",
       "status": "Actual",
-      "eff": ""
-    },
-    {
-      "key": "20261004-MS-DT 3-PLAN",
-      "date": "10/4/2026",
-      "shift": "MS",
-      "cluster": "CM6",
-      "group": "TBR DT",
-      "mc": "DT 3",
-      "jenis": "D",
-      "plan": "07:30",
-      "doff": "",
-      "start": "",
-      "code": "",
-      "std": "13.5",
-      "dt_mc": "",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
-      "overlap": "",
-      "ket": "",
-      "status": "Plan",
       "eff": ""
     },
     {
