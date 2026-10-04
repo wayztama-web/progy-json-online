@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T16:36:23.701Z",
+  "updatedAt": "2026-10-04T16:41:23.464Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -2041,18 +2041,18 @@
             "mc": "DT 3",
             "jenis": "GF",
             "plan": "22:00",
-            "doff": "",
-            "start": "",
-            "code": "",
+            "doff": "22:00",
+            "start": "23:40",
+            "code": "GF",
             "std": "82.7",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "dt_mc": "100",
+            "dt_proc": "100",
+            "loss": "-17.3",
+            "pct_loss": "-3.6%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "-20.9%"
           },
           {
             "key": "20261004-NS-DT 6-PLAN",
