@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T16:47:32.979Z",
+  "updatedAt": "2026-10-05T16:52:32.354Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -689,18 +689,18 @@
             "mc": "L 1",
             "jenis": "GF",
             "plan": "",
-            "doff": "",
-            "start": "",
-            "code": "",
+            "doff": "23:05",
+            "start": "23:40",
+            "code": "GF",
             "std": "35.8",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "dt_mc": "35",
+            "dt_proc": "35",
+            "loss": "0.8",
+            "pct_loss": "0.2%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "2.2%"
           },
           {
             "key": "20261005-MS-L 2-PLAN",
