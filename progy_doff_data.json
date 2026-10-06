@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-06T07:03:14.125Z",
-  "source": "Eko BY",
+  "updatedAt": "2026-10-06T07:08:15.180Z",
+  "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
-  "si": "Eko BY",
+  "si": "Wahyu S",
   "siCell": "BV5",
-  "siValue": "Eko BY",
+  "siValue": "Wahyu S",
   "siReadMode": "BV5 read before date and shift history update",
   "historyDays": 7,
   "latestDate": "2026-10-06",
@@ -511,7 +511,30 @@
         ]
       },
       "AS": {
-        "cm3": [],
+        "cm3": [
+          {
+            "key": "20261006-AS-Heli 3-PLAN",
+            "date": "10/6/2026",
+            "shift": "AS",
+            "cluster": "CM3",
+            "group": "Alidra Heli",
+            "mc": "Heli 3",
+            "jenis": "GF",
+            "plan": "14:00",
+            "doff": "14:00",
+            "start": "",
+            "code": "GF",
+            "std": "97.3",
+            "dt_mc": "-840",
+            "dt_proc": "-840",
+            "loss": "937.3",
+            "pct_loss": "195.3%",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": "963.0%"
+          }
+        ],
         "cm6": [
           {
             "key": "20261006-AS-L 3-PLAN",
@@ -12096,7 +12119,30 @@
       ]
     },
     "AS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20261006-AS-Heli 3-PLAN",
+          "date": "10/6/2026",
+          "shift": "AS",
+          "cluster": "CM3",
+          "group": "Alidra Heli",
+          "mc": "Heli 3",
+          "jenis": "GF",
+          "plan": "14:00",
+          "doff": "14:00",
+          "start": "",
+          "code": "GF",
+          "std": "97.3",
+          "dt_mc": "-840",
+          "dt_proc": "-840",
+          "loss": "937.3",
+          "pct_loss": "195.3%",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": "963.0%"
+        }
+      ],
       "cm6": [
         {
           "key": "20261006-AS-L 3-PLAN",
@@ -12877,6 +12923,28 @@
       "ket": "",
       "status": "Plan",
       "eff": ""
+    },
+    {
+      "key": "20261006-AS-Heli 3-PLAN",
+      "date": "10/6/2026",
+      "shift": "AS",
+      "cluster": "CM3",
+      "group": "Alidra Heli",
+      "mc": "Heli 3",
+      "jenis": "GF",
+      "plan": "14:00",
+      "doff": "14:00",
+      "start": "",
+      "code": "GF",
+      "std": "97.3",
+      "dt_mc": "-840",
+      "dt_proc": "-840",
+      "loss": "937.3",
+      "pct_loss": "195.3%",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": "963.0%"
     },
     {
       "key": "20261006-AS-L 3-PLAN",
