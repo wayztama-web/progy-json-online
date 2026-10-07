@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T20:40:34.197Z",
+  "updatedAt": "2026-10-07T20:45:33.852Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -305,18 +305,18 @@
             "mc": "L 11",
             "jenis": "GF",
             "plan": "03:30",
-            "doff": "",
+            "doff": "03:00",
             "start": "",
-            "code": "TF",
+            "code": "GF",
             "std": "35.8",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
-            "overlap": "",
+            "dt_mc": "-180",
+            "dt_proc": "-180",
+            "loss": "215.8",
+            "pct_loss": "45.0%",
+            "overlap": "1210",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "603.0%"
           }
         ]
       }
@@ -10941,18 +10941,18 @@
           "mc": "L 11",
           "jenis": "GF",
           "plan": "03:30",
-          "doff": "",
+          "doff": "03:00",
           "start": "",
-          "code": "TF",
+          "code": "GF",
           "std": "35.8",
-          "dt_mc": "",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
-          "overlap": "",
+          "dt_mc": "-180",
+          "dt_proc": "-180",
+          "loss": "215.8",
+          "pct_loss": "45.0%",
+          "overlap": "1210",
           "ket": "",
           "status": "Plan",
-          "eff": ""
+          "eff": "603.0%"
         }
       ]
     }
@@ -11231,18 +11231,18 @@
       "mc": "L 11",
       "jenis": "GF",
       "plan": "03:30",
-      "doff": "",
+      "doff": "03:00",
       "start": "",
-      "code": "TF",
+      "code": "GF",
       "std": "35.8",
-      "dt_mc": "",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
-      "overlap": "",
+      "dt_mc": "-180",
+      "dt_proc": "-180",
+      "loss": "215.8",
+      "pct_loss": "45.0%",
+      "overlap": "1210",
       "ket": "",
       "status": "Plan",
-      "eff": ""
+      "eff": "603.0%"
     }
   ]
 }
