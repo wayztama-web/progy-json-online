@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T16:35:15.848Z",
+  "updatedAt": "2026-10-07T16:40:18.046Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -958,10 +958,10 @@
             "jenis": "MTN",
             "plan": "",
             "doff": "18:40",
-            "start": "21:00",
+            "start": "21:05",
             "code": "REP",
             "std": "8.3",
-            "dt_mc": "140",
+            "dt_mc": "145",
             "dt_proc": "",
             "loss": "",
             "pct_loss": "",
@@ -1317,7 +1317,7 @@
             "dt_proc": "",
             "loss": "",
             "pct_loss": "",
-            "overlap": "420",
+            "overlap": "425",
             "ket": "",
             "status": "Plan",
             "eff": ""
