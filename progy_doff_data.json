@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T15:15:11.841Z",
+  "updatedAt": "2026-10-07T15:25:16.383Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1700,6 +1700,28 @@
             "ket": "",
             "status": "Plan",
             "eff": "519.2%"
+          },
+          {
+            "key": "20261007-NS-L 11-PLAN",
+            "date": "10/7/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 11",
+            "jenis": "GF",
+            "plan": "",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
           }
         ]
       }
