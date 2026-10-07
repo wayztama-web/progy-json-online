@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T23:10:36.509Z",
+  "updatedAt": "2026-10-07T23:15:36.176Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -22,7 +22,30 @@
     "2026-10-08": {
       "MS": {
         "cm3": [],
-        "cm6": []
+        "cm6": [
+          {
+            "key": "20261008-MS-L 1-PLAN",
+            "date": "10/8/2026",
+            "shift": "MS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 1",
+            "jenis": "GF",
+            "plan": "11:00",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          }
+        ]
       },
       "AS": {
         "cm3": [],
@@ -10658,7 +10681,30 @@
   "shifts": {
     "MS": {
       "cm3": [],
-      "cm6": []
+      "cm6": [
+        {
+          "key": "20261008-MS-L 1-PLAN",
+          "date": "10/8/2026",
+          "shift": "MS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 1",
+          "jenis": "GF",
+          "plan": "11:00",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        }
+      ]
     },
     "AS": {
       "cm3": [],
@@ -10958,6 +11004,28 @@
     }
   },
   "rows": [
+    {
+      "key": "20261008-MS-L 1-PLAN",
+      "date": "10/8/2026",
+      "shift": "MS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 1",
+      "jenis": "GF",
+      "plan": "11:00",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
     {
       "key": "20261008-NS-DT 9-PLAN",
       "date": "10/8/2026",
