@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T15:56:34.376Z",
+  "updatedAt": "2026-10-08T16:01:29.891Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -459,18 +459,18 @@
             "mc": "L 13",
             "jenis": "GF",
             "plan": "23:00",
-            "doff": "",
+            "doff": "23:00",
             "start": "",
-            "code": "",
+            "code": "GF",
             "std": "35.8",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "dt_mc": "-1380",
+            "dt_proc": "-1380",
+            "loss": "1415.8",
+            "pct_loss": "295.0%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "3956.3%"
           }
         ]
       }
@@ -10479,18 +10479,18 @@
           "mc": "L 13",
           "jenis": "GF",
           "plan": "23:00",
-          "doff": "",
+          "doff": "23:00",
           "start": "",
-          "code": "",
+          "code": "GF",
           "std": "35.8",
-          "dt_mc": "",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
+          "dt_mc": "-1380",
+          "dt_proc": "-1380",
+          "loss": "1415.8",
+          "pct_loss": "295.0%",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": ""
+          "eff": "3956.3%"
         }
       ]
     }
@@ -10923,18 +10923,18 @@
       "mc": "L 13",
       "jenis": "GF",
       "plan": "23:00",
-      "doff": "",
+      "doff": "23:00",
       "start": "",
-      "code": "",
+      "code": "GF",
       "std": "35.8",
-      "dt_mc": "",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
+      "dt_mc": "-1380",
+      "dt_proc": "-1380",
+      "loss": "1415.8",
+      "pct_loss": "295.0%",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": ""
+      "eff": "3956.3%"
     }
   ]
 }
