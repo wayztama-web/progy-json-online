@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T06:50:56.415Z",
+  "updatedAt": "2026-10-08T06:56:00.306Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -156,6 +156,28 @@
           }
         ],
         "cm6": [
+          {
+            "key": "20261008-MS-Delta 4-PLN-0700",
+            "date": "10/8/2026",
+            "shift": "MS",
+            "cluster": "CM6",
+            "group": "Delta",
+            "mc": "Delta 4",
+            "jenis": "MTN",
+            "plan": "",
+            "doff": "07:00",
+            "start": "",
+            "code": "PLN",
+            "std": "8.3",
+            "dt_mc": "-420",
+            "dt_proc": "-420",
+            "loss": "428.3",
+            "pct_loss": "89.2%",
+            "overlap": "100",
+            "ket": "-",
+            "status": "0",
+            "eff": "5190.9%"
+          },
           {
             "key": "20261008-MS-Delta 7-PLAN",
             "date": "10/8/2026",
@@ -11191,6 +11213,28 @@
       ],
       "cm6": [
         {
+          "key": "20261008-MS-Delta 4-PLN-0700",
+          "date": "10/8/2026",
+          "shift": "MS",
+          "cluster": "CM6",
+          "group": "Delta",
+          "mc": "Delta 4",
+          "jenis": "MTN",
+          "plan": "",
+          "doff": "07:00",
+          "start": "",
+          "code": "PLN",
+          "std": "8.3",
+          "dt_mc": "-420",
+          "dt_proc": "-420",
+          "loss": "428.3",
+          "pct_loss": "89.2%",
+          "overlap": "100",
+          "ket": "-",
+          "status": "0",
+          "eff": "5190.9%"
+        },
+        {
           "key": "20261008-MS-Delta 7-PLAN",
           "date": "10/8/2026",
           "shift": "MS",
@@ -11885,6 +11929,28 @@
       "ket": "",
       "status": "Actual",
       "eff": ""
+    },
+    {
+      "key": "20261008-MS-Delta 4-PLN-0700",
+      "date": "10/8/2026",
+      "shift": "MS",
+      "cluster": "CM6",
+      "group": "Delta",
+      "mc": "Delta 4",
+      "jenis": "MTN",
+      "plan": "",
+      "doff": "07:00",
+      "start": "",
+      "code": "PLN",
+      "std": "8.3",
+      "dt_mc": "-420",
+      "dt_proc": "-420",
+      "loss": "428.3",
+      "pct_loss": "89.2%",
+      "overlap": "100",
+      "ket": "-",
+      "status": "0",
+      "eff": "5190.9%"
     },
     {
       "key": "20261008-MS-Delta 7-PLAN",
