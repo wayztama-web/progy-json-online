@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T14:07:55.435Z",
+  "updatedAt": "2026-10-09T14:12:50.303Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -3635,6 +3635,28 @@
             "eff": ""
           },
           {
+            "key": "20261007-AS-L 3-PLAN",
+            "date": "10/7/2026",
+            "shift": "AS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 3",
+            "jenis": "GF",
+            "plan": "14:15",
+            "doff": "14:10",
+            "start": "21:00",
+            "code": "L",
+            "std": "35.78571429",
+            "dt_mc": "410",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "290",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          },
+          {
             "key": "20261007-AS-L 5-PLAN",
             "date": "10/7/2026",
             "shift": "AS",
@@ -3723,28 +3745,6 @@
             "eff": "3475.6%"
           },
           {
-            "key": "20261007-AS-L 3-PLAN",
-            "date": "10/7/2026",
-            "shift": "AS",
-            "cluster": "CM6",
-            "group": "TBR L",
-            "mc": "L 3",
-            "jenis": "GF",
-            "plan": "14:15",
-            "doff": "14:10",
-            "start": "",
-            "code": "L",
-            "std": "35.78571429",
-            "dt_mc": "-850",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
-            "overlap": "290",
-            "ket": "",
-            "status": "Plan",
-            "eff": ""
-          },
-          {
             "key": "20261007-AS-L 10-PLAN",
             "date": "10/7/2026",
             "shift": "AS",
@@ -3783,7 +3783,7 @@
             "dt_proc": "",
             "loss": "",
             "pct_loss": "",
-            "overlap": "",
+            "overlap": "90",
             "ket": "",
             "status": "Plan",
             "eff": ""
