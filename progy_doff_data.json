@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T06:57:17.985Z",
+  "updatedAt": "2026-10-09T07:02:23.959Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -297,18 +297,18 @@
             "mc": "Delta 11",
             "jenis": "GF",
             "plan": "13:30",
-            "doff": "",
+            "doff": "13:30",
             "start": "",
-            "code": "",
+            "code": "GF",
             "std": "37.1",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "dt_mc": "-810",
+            "dt_proc": "-810",
+            "loss": "847.1",
+            "pct_loss": "176.5%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "2286.2%"
           },
           {
             "key": "20261009-MS-Delta 3-PLAN",
@@ -10544,10 +10544,10 @@
     }
   },
   "dateSelector": "10/9/2026",
-  "shiftSelector": "MS",
+  "shiftSelector": "AS",
   "productionDateSerial": 46304,
   "productionDateText": "10/9/2026",
-  "shiftSet": "MS",
+  "shiftSet": "AS",
   "shifts": {
     "MS": {
       "cm3": [
@@ -10826,18 +10826,18 @@
           "mc": "Delta 11",
           "jenis": "GF",
           "plan": "13:30",
-          "doff": "",
+          "doff": "13:30",
           "start": "",
-          "code": "",
+          "code": "GF",
           "std": "37.1",
-          "dt_mc": "",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
+          "dt_mc": "-810",
+          "dt_proc": "-810",
+          "loss": "847.1",
+          "pct_loss": "176.5%",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": ""
+          "eff": "2286.2%"
         },
         {
           "key": "20261009-MS-Delta 3-PLAN",
@@ -11787,18 +11787,18 @@
       "mc": "Delta 11",
       "jenis": "GF",
       "plan": "13:30",
-      "doff": "",
+      "doff": "13:30",
       "start": "",
-      "code": "",
+      "code": "GF",
       "std": "37.1",
-      "dt_mc": "",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
+      "dt_mc": "-810",
+      "dt_proc": "-810",
+      "loss": "847.1",
+      "pct_loss": "176.5%",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": ""
+      "eff": "2286.2%"
     },
     {
       "key": "20261009-MS-Delta 3-PLAN",
