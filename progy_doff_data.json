@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T17:08:04.286Z",
+  "updatedAt": "2026-10-09T17:13:03.508Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -4042,7 +4042,7 @@
             "dt_proc": "",
             "loss": "",
             "pct_loss": "",
-            "overlap": "",
+            "overlap": "285",
             "ket": "",
             "status": "Plan",
             "eff": ""
@@ -4180,6 +4180,28 @@
             "eff": ""
           },
           {
+            "key": "20261007-AS-L 10-PLAN",
+            "date": "10/7/2026",
+            "shift": "AS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 10",
+            "jenis": "GF",
+            "plan": "14:30",
+            "doff": "14:20",
+            "start": "22:00",
+            "code": "L",
+            "std": "35.78571429",
+            "dt_mc": "460",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          },
+          {
             "key": "20261007-AS-L 7-PLAN",
             "date": "10/7/2026",
             "shift": "AS",
@@ -4222,28 +4244,6 @@
             "ket": "",
             "status": "Plan",
             "eff": "3475.6%"
-          },
-          {
-            "key": "20261007-AS-L 10-PLAN",
-            "date": "10/7/2026",
-            "shift": "AS",
-            "cluster": "CM6",
-            "group": "TBR L",
-            "mc": "L 10",
-            "jenis": "GF",
-            "plan": "14:30",
-            "doff": "14:20",
-            "start": "",
-            "code": "L",
-            "std": "35.78571429",
-            "dt_mc": "-860",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
-            "overlap": "",
-            "ket": "",
-            "status": "Plan",
-            "eff": ""
           },
           {
             "key": "20261007-AS-L 9-PLAN",
