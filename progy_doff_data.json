@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T05:08:30.186Z",
+  "updatedAt": "2026-10-10T05:13:30.673Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -441,6 +441,28 @@
             "ket": "",
             "status": "Plan",
             "eff": "-11.8%"
+          },
+          {
+            "key": "20261010-MS-L 7-PLAN",
+            "date": "10/10/2026",
+            "shift": "MS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 7",
+            "jenis": "GF",
+            "plan": "11:30",
+            "doff": "11:30",
+            "start": "12:10",
+            "code": "D",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
           }
         ]
       },
@@ -10464,6 +10486,28 @@
           "ket": "",
           "status": "Plan",
           "eff": "-11.8%"
+        },
+        {
+          "key": "20261010-MS-L 7-PLAN",
+          "date": "10/10/2026",
+          "shift": "MS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 7",
+          "jenis": "GF",
+          "plan": "11:30",
+          "doff": "11:30",
+          "start": "12:10",
+          "code": "D",
+          "std": "35.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
         }
       ]
     },
@@ -11381,6 +11425,28 @@
       "ket": "",
       "status": "Plan",
       "eff": "-11.8%"
+    },
+    {
+      "key": "20261010-MS-L 7-PLAN",
+      "date": "10/10/2026",
+      "shift": "MS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 7",
+      "jenis": "GF",
+      "plan": "11:30",
+      "doff": "11:30",
+      "start": "12:10",
+      "code": "D",
+      "std": "35.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
     },
     {
       "key": "20261010-AS-DT 1-PLAN",
