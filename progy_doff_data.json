@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T14:05:17.231Z",
+  "updatedAt": "2026-10-11T14:10:16.158Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -639,7 +639,7 @@
             "dt_proc": "30",
             "loss": "-16.5",
             "pct_loss": "-3.4%",
-            "overlap": "",
+            "overlap": "245",
             "ket": "",
             "status": "Plan",
             "eff": "-123.0%"
@@ -698,17 +698,17 @@
             "jenis": "D",
             "plan": "20:45",
             "doff": "20:45",
-            "start": "",
+            "start": "21:05",
             "code": "D",
             "std": "13.5",
-            "dt_mc": "-1245",
-            "dt_proc": "-1245",
-            "loss": "1258.5",
-            "pct_loss": "262.2%",
+            "dt_mc": "20",
+            "dt_proc": "20",
+            "loss": "-6.5",
+            "pct_loss": "-1.4%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "9353.4%"
+            "eff": "-48.6%"
           }
         ],
         "cm6": [
@@ -10883,7 +10883,7 @@
           "dt_proc": "30",
           "loss": "-16.5",
           "pct_loss": "-3.4%",
-          "overlap": "",
+          "overlap": "245",
           "ket": "",
           "status": "Plan",
           "eff": "-123.0%"
@@ -10942,17 +10942,17 @@
           "jenis": "D",
           "plan": "20:45",
           "doff": "20:45",
-          "start": "",
+          "start": "21:05",
           "code": "D",
           "std": "13.5",
-          "dt_mc": "-1245",
-          "dt_proc": "-1245",
-          "loss": "1258.5",
-          "pct_loss": "262.2%",
+          "dt_mc": "20",
+          "dt_proc": "20",
+          "loss": "-6.5",
+          "pct_loss": "-1.4%",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "9353.4%"
+          "eff": "-48.6%"
         }
       ],
       "cm6": [
@@ -12281,7 +12281,7 @@
       "dt_proc": "30",
       "loss": "-16.5",
       "pct_loss": "-3.4%",
-      "overlap": "",
+      "overlap": "245",
       "ket": "",
       "status": "Plan",
       "eff": "-123.0%"
@@ -12340,17 +12340,17 @@
       "jenis": "D",
       "plan": "20:45",
       "doff": "20:45",
-      "start": "",
+      "start": "21:05",
       "code": "D",
       "std": "13.5",
-      "dt_mc": "-1245",
-      "dt_proc": "-1245",
-      "loss": "1258.5",
-      "pct_loss": "262.2%",
+      "dt_mc": "20",
+      "dt_proc": "20",
+      "loss": "-6.5",
+      "pct_loss": "-1.4%",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "9353.4%"
+      "eff": "-48.6%"
     },
     {
       "key": "20261011-AS-Delta 13-PLAN",
