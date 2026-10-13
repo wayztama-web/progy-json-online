@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T23:19:10.843Z",
+  "updatedAt": "2026-10-13T23:24:12.297Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -177,7 +177,30 @@
             "eff": ""
           }
         ],
-        "cm6": []
+        "cm6": [
+          {
+            "key": "20261014-MS-DT 1-PLAN",
+            "date": "10/14/2026",
+            "shift": "MS",
+            "cluster": "CM6",
+            "group": "TBR DT",
+            "mc": "DT 1",
+            "jenis": "GF",
+            "plan": "06:10",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "82.7",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          }
+        ]
       },
       "AS": {
         "cm3": [],
@@ -9252,7 +9275,30 @@
           "eff": ""
         }
       ],
-      "cm6": []
+      "cm6": [
+        {
+          "key": "20261014-MS-DT 1-PLAN",
+          "date": "10/14/2026",
+          "shift": "MS",
+          "cluster": "CM6",
+          "group": "TBR DT",
+          "mc": "DT 1",
+          "jenis": "GF",
+          "plan": "06:10",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "82.7",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        }
+      ]
     },
     "AS": {
       "cm3": [],
@@ -9913,6 +9959,28 @@
       "mc": "DT 11",
       "jenis": "GF",
       "plan": "14:00",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "82.7",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20261014-MS-DT 1-PLAN",
+      "date": "10/14/2026",
+      "shift": "MS",
+      "cluster": "CM6",
+      "group": "TBR DT",
+      "mc": "DT 1",
+      "jenis": "GF",
+      "plan": "06:10",
       "doff": "",
       "start": "",
       "code": "",
