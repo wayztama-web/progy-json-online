@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T00:42:30.567Z",
+  "updatedAt": "2026-10-13T00:47:30.626Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -349,7 +349,7 @@
             "dt_proc": "60",
             "loss": "-24.2",
             "pct_loss": "-5.0%",
-            "overlap": "",
+            "overlap": "90",
             "ket": "",
             "status": "Plan",
             "eff": "-67.7%"
@@ -9909,7 +9909,7 @@
           "dt_proc": "60",
           "loss": "-24.2",
           "pct_loss": "-5.0%",
-          "overlap": "",
+          "overlap": "90",
           "ket": "",
           "status": "Plan",
           "eff": "-67.7%"
@@ -10847,7 +10847,7 @@
       "dt_proc": "60",
       "loss": "-24.2",
       "pct_loss": "-5.0%",
-      "overlap": "",
+      "overlap": "90",
       "ket": "",
       "status": "Plan",
       "eff": "-67.7%"
