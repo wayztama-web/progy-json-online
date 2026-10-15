@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T17:47:05.212Z",
+  "updatedAt": "2026-10-15T17:52:06.081Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -183,6 +183,28 @@
             "ket": "",
             "status": "Plan",
             "eff": ""
+          },
+          {
+            "key": "20261016-NS-L 18-PLAN",
+            "date": "10/16/2026",
+            "shift": "NS",
+            "cluster": "CM3",
+            "group": "NL",
+            "mc": "L 18",
+            "jenis": "GF",
+            "plan": "22:20",
+            "doff": "22:20",
+            "start": "23:45",
+            "code": "GF",
+            "std": "35.8",
+            "dt_mc": "85",
+            "dt_proc": "85",
+            "loss": "-49.2",
+            "pct_loss": "-10.3%",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": "-137.5%"
           }
         ],
         "cm6": [
@@ -9807,6 +9829,28 @@
           "ket": "",
           "status": "Plan",
           "eff": ""
+        },
+        {
+          "key": "20261016-NS-L 18-PLAN",
+          "date": "10/16/2026",
+          "shift": "NS",
+          "cluster": "CM3",
+          "group": "NL",
+          "mc": "L 18",
+          "jenis": "GF",
+          "plan": "22:20",
+          "doff": "22:20",
+          "start": "23:45",
+          "code": "GF",
+          "std": "35.8",
+          "dt_mc": "85",
+          "dt_proc": "85",
+          "loss": "-49.2",
+          "pct_loss": "-10.3%",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": "-137.5%"
         }
       ],
       "cm6": [
@@ -10451,6 +10495,28 @@
       "ket": "",
       "status": "Plan",
       "eff": ""
+    },
+    {
+      "key": "20261016-NS-L 18-PLAN",
+      "date": "10/16/2026",
+      "shift": "NS",
+      "cluster": "CM3",
+      "group": "NL",
+      "mc": "L 18",
+      "jenis": "GF",
+      "plan": "22:20",
+      "doff": "22:20",
+      "start": "23:45",
+      "code": "GF",
+      "std": "35.8",
+      "dt_mc": "85",
+      "dt_proc": "85",
+      "loss": "-49.2",
+      "pct_loss": "-10.3%",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": "-137.5%"
     },
     {
       "key": "20261016-NS-Delta 2-PLAN",
