@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T15:06:58.159Z",
+  "updatedAt": "2026-10-15T15:11:57.922Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -30,7 +30,52 @@
       },
       "NS": {
         "cm3": [],
-        "cm6": []
+        "cm6": [
+          {
+            "key": "20261016-NS-Delta 2-PLAN",
+            "date": "10/16/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR Delta",
+            "mc": "Delta 2",
+            "jenis": "D",
+            "plan": "23:00",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "8.3",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          },
+          {
+            "key": "20261016-NS-Delta 6-PLAN",
+            "date": "10/16/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR Delta",
+            "mc": "Delta 6",
+            "jenis": "GF",
+            "plan": "04:30",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "112.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          }
+        ]
       }
     },
     "2026-10-15": {
@@ -9014,8 +9059,98 @@
     },
     "NS": {
       "cm3": [],
-      "cm6": []
+      "cm6": [
+        {
+          "key": "20261016-NS-Delta 2-PLAN",
+          "date": "10/16/2026",
+          "shift": "NS",
+          "cluster": "CM6",
+          "group": "TBR Delta",
+          "mc": "Delta 2",
+          "jenis": "D",
+          "plan": "23:00",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "8.3",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        },
+        {
+          "key": "20261016-NS-Delta 6-PLAN",
+          "date": "10/16/2026",
+          "shift": "NS",
+          "cluster": "CM6",
+          "group": "TBR Delta",
+          "mc": "Delta 6",
+          "jenis": "GF",
+          "plan": "04:30",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "112.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        }
+      ]
     }
   },
-  "rows": []
+  "rows": [
+    {
+      "key": "20261016-NS-Delta 2-PLAN",
+      "date": "10/16/2026",
+      "shift": "NS",
+      "cluster": "CM6",
+      "group": "TBR Delta",
+      "mc": "Delta 2",
+      "jenis": "D",
+      "plan": "23:00",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "8.3",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20261016-NS-Delta 6-PLAN",
+      "date": "10/16/2026",
+      "shift": "NS",
+      "cluster": "CM6",
+      "group": "TBR Delta",
+      "mc": "Delta 6",
+      "jenis": "GF",
+      "plan": "04:30",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "112.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    }
+  ]
 }
