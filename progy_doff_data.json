@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T01:27:34.092Z",
+  "updatedAt": "2026-10-16T01:32:32.959Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -22,28 +22,6 @@
     "2026-10-16": {
       "MS": {
         "cm3": [
-          {
-            "key": "20261016-MS-DT 12-PLAN",
-            "date": "10/16/2026",
-            "shift": "MS",
-            "cluster": "CM3",
-            "group": "DT New",
-            "mc": "DT 12",
-            "jenis": "GF",
-            "plan": "06:00",
-            "doff": "06:00",
-            "start": "05:40",
-            "code": "L",
-            "std": "82.7",
-            "dt_mc": "-20",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
-            "overlap": "1065",
-            "ket": "",
-            "status": "Plan",
-            "eff": ""
-          },
           {
             "key": "20261016-MS-DT 14-PLAN",
             "date": "10/16/2026",
@@ -9935,28 +9913,6 @@
     "MS": {
       "cm3": [
         {
-          "key": "20261016-MS-DT 12-PLAN",
-          "date": "10/16/2026",
-          "shift": "MS",
-          "cluster": "CM3",
-          "group": "DT New",
-          "mc": "DT 12",
-          "jenis": "GF",
-          "plan": "06:00",
-          "doff": "06:00",
-          "start": "05:40",
-          "code": "L",
-          "std": "82.7",
-          "dt_mc": "-20",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
-          "overlap": "1065",
-          "ket": "",
-          "status": "Plan",
-          "eff": ""
-        },
-        {
           "key": "20261016-MS-DT 14-PLAN",
           "date": "10/16/2026",
           "shift": "MS",
@@ -10874,28 +10830,6 @@
     }
   },
   "rows": [
-    {
-      "key": "20261016-MS-DT 12-PLAN",
-      "date": "10/16/2026",
-      "shift": "MS",
-      "cluster": "CM3",
-      "group": "DT New",
-      "mc": "DT 12",
-      "jenis": "GF",
-      "plan": "06:00",
-      "doff": "06:00",
-      "start": "05:40",
-      "code": "L",
-      "std": "82.7",
-      "dt_mc": "-20",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
-      "overlap": "1065",
-      "ket": "",
-      "status": "Plan",
-      "eff": ""
-    },
     {
       "key": "20261016-MS-DT 14-PLAN",
       "date": "10/16/2026",
