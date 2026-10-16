@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T16:13:21.769Z",
+  "updatedAt": "2026-10-16T16:18:24.670Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -2023,7 +2023,7 @@
             "plan": "05:30",
             "doff": "",
             "start": "",
-            "code": "",
+            "code": "L",
             "std": "35.8",
             "dt_mc": "",
             "dt_proc": "",
