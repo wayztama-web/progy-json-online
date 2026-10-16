@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T02:02:34.609Z",
+  "updatedAt": "2026-10-16T02:07:36.101Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -134,6 +134,28 @@
           }
         ],
         "cm6": [
+          {
+            "key": "20261016-MS-Delta 8-REP-0630",
+            "date": "10/16/2026",
+            "shift": "MS",
+            "cluster": "CM6",
+            "group": "Delta",
+            "mc": "Delta 8",
+            "jenis": "MTN",
+            "plan": "",
+            "doff": "06:30",
+            "start": "",
+            "code": "REP",
+            "std": "8.3",
+            "dt_mc": "-390",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "60",
+            "ket": "-",
+            "status": "0",
+            "eff": ""
+          },
           {
             "key": "20261016-MS-Delta 6-PLAN",
             "date": "10/16/2026",
@@ -10025,6 +10047,28 @@
       ],
       "cm6": [
         {
+          "key": "20261016-MS-Delta 8-REP-0630",
+          "date": "10/16/2026",
+          "shift": "MS",
+          "cluster": "CM6",
+          "group": "Delta",
+          "mc": "Delta 8",
+          "jenis": "MTN",
+          "plan": "",
+          "doff": "06:30",
+          "start": "",
+          "code": "REP",
+          "std": "8.3",
+          "dt_mc": "-390",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "60",
+          "ket": "-",
+          "status": "0",
+          "eff": ""
+        },
+        {
           "key": "20261016-MS-Delta 6-PLAN",
           "date": "10/16/2026",
           "shift": "MS",
@@ -10938,6 +10982,28 @@
       "overlap": "",
       "ket": "",
       "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20261016-MS-Delta 8-REP-0630",
+      "date": "10/16/2026",
+      "shift": "MS",
+      "cluster": "CM6",
+      "group": "Delta",
+      "mc": "Delta 8",
+      "jenis": "MTN",
+      "plan": "",
+      "doff": "06:30",
+      "start": "",
+      "code": "REP",
+      "std": "8.3",
+      "dt_mc": "-390",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "60",
+      "ket": "-",
+      "status": "0",
       "eff": ""
     },
     {
