@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T16:18:24.670Z",
+  "updatedAt": "2026-10-16T16:23:25.190Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -507,16 +507,16 @@
             "plan": "22:00",
             "doff": "22:00",
             "start": "22:55",
-            "code": "REP",
+            "code": "D",
             "std": "35.8",
             "dt_mc": "55",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "dt_proc": "55",
+            "loss": "-19.2",
+            "pct_loss": "-4.0%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "-53.7%"
           }
         ]
       }
@@ -9913,16 +9913,16 @@
           "plan": "22:00",
           "doff": "22:00",
           "start": "22:55",
-          "code": "REP",
+          "code": "D",
           "std": "35.8",
           "dt_mc": "55",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
+          "dt_proc": "55",
+          "loss": "-19.2",
+          "pct_loss": "-4.0%",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": ""
+          "eff": "-53.7%"
         }
       ]
     }
@@ -10401,16 +10401,16 @@
       "plan": "22:00",
       "doff": "22:00",
       "start": "22:55",
-      "code": "REP",
+      "code": "D",
       "std": "35.8",
       "dt_mc": "55",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
+      "dt_proc": "55",
+      "loss": "-19.2",
+      "pct_loss": "-4.0%",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": ""
+      "eff": "-53.7%"
     }
   ]
 }
