@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T16:53:26.295Z",
+  "updatedAt": "2026-10-16T16:58:25.310Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1661,6 +1661,28 @@
         ],
         "cm6": [
           {
+            "key": "20261017-NS-Delta 12-REP-2353",
+            "date": "10/16/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "Delta",
+            "mc": "Delta 12",
+            "jenis": "MTN",
+            "plan": "",
+            "doff": "23:53",
+            "start": "",
+            "code": "REP",
+            "std": "37.1",
+            "dt_mc": "-1433",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "belt bottom selip",
+            "status": "0",
+            "eff": ""
+          },
+          {
             "key": "20261016-NS-Delta 14-PLAN",
             "date": "10/16/2026",
             "shift": "NS",
@@ -1937,14 +1959,14 @@
             "start": "03:03",
             "code": "D",
             "std": "35.8",
-            "dt_mc": "33",
-            "dt_proc": "28",
-            "loss": "7.8",
-            "pct_loss": "1.6%",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "65",
             "ket": "",
             "status": "Plan",
-            "eff": "21.8%"
+            "eff": ""
           },
           {
             "key": "20261016-NS-L 3-PLAN",
