@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T22:58:35.815Z",
+  "updatedAt": "2026-10-16T23:03:36.518Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -254,6 +254,28 @@
           }
         ],
         "cm6": [
+          {
+            "key": "20261018-NS-Delta 12-REP-2350",
+            "date": "10/17/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "Delta",
+            "mc": "Delta 12",
+            "jenis": "MTN",
+            "plan": "",
+            "doff": "23:50",
+            "start": "04:10",
+            "code": "REP",
+            "std": "37.1",
+            "dt_mc": "-1180",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "belt bottom lepas pukul 23:50",
+            "status": "0",
+            "eff": ""
+          },
           {
             "key": "20261017-NS-Delta 3-PLAN",
             "date": "10/17/2026",
@@ -531,14 +553,14 @@
             "start": "22:55",
             "code": "D",
             "std": "35.8",
-            "dt_mc": "55",
-            "dt_proc": "55",
-            "loss": "-19.2",
-            "pct_loss": "-4.0%",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "-53.7%"
+            "eff": ""
           }
         ]
       }
@@ -9465,10 +9487,10 @@
     }
   },
   "dateSelector": "10/17/2026",
-  "shiftSelector": "NS",
+  "shiftSelector": "MS",
   "productionDateSerial": 46312,
   "productionDateText": "10/17/2026",
-  "shiftSet": "NS",
+  "shiftSet": "MS",
   "shifts": {
     "MS": {
       "cm3": [],
@@ -9704,6 +9726,28 @@
         }
       ],
       "cm6": [
+        {
+          "key": "20261018-NS-Delta 12-REP-2350",
+          "date": "10/17/2026",
+          "shift": "NS",
+          "cluster": "CM6",
+          "group": "Delta",
+          "mc": "Delta 12",
+          "jenis": "MTN",
+          "plan": "",
+          "doff": "23:50",
+          "start": "04:10",
+          "code": "REP",
+          "std": "37.1",
+          "dt_mc": "-1180",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "belt bottom lepas pukul 23:50",
+          "status": "0",
+          "eff": ""
+        },
         {
           "key": "20261017-NS-Delta 3-PLAN",
           "date": "10/17/2026",
@@ -9981,14 +10025,14 @@
           "start": "22:55",
           "code": "D",
           "std": "35.8",
-          "dt_mc": "55",
-          "dt_proc": "55",
-          "loss": "-19.2",
-          "pct_loss": "-4.0%",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "-53.7%"
+          "eff": ""
         }
       ]
     }
@@ -10213,6 +10257,28 @@
       "ket": "",
       "status": "Plan",
       "eff": "-123.6%"
+    },
+    {
+      "key": "20261018-NS-Delta 12-REP-2350",
+      "date": "10/17/2026",
+      "shift": "NS",
+      "cluster": "CM6",
+      "group": "Delta",
+      "mc": "Delta 12",
+      "jenis": "MTN",
+      "plan": "",
+      "doff": "23:50",
+      "start": "04:10",
+      "code": "REP",
+      "std": "37.1",
+      "dt_mc": "-1180",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "belt bottom lepas pukul 23:50",
+      "status": "0",
+      "eff": ""
     },
     {
       "key": "20261017-NS-Delta 3-PLAN",
@@ -10491,14 +10557,14 @@
       "start": "22:55",
       "code": "D",
       "std": "35.8",
-      "dt_mc": "55",
-      "dt_proc": "55",
-      "loss": "-19.2",
-      "pct_loss": "-4.0%",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "-53.7%"
+      "eff": ""
     }
   ]
 }
