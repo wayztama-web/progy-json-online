@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T05:27:49.288Z",
+  "updatedAt": "2026-10-16T05:32:49.133Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -419,6 +419,28 @@
             "ket": "",
             "status": "Plan",
             "eff": "44.1%"
+          },
+          {
+            "key": "20261016-MS-L 6-PLAN",
+            "date": "10/16/2026",
+            "shift": "MS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 6",
+            "jenis": "GF",
+            "plan": "11:30",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
           }
         ]
       },
@@ -10353,6 +10375,28 @@
           "ket": "",
           "status": "Plan",
           "eff": "44.1%"
+        },
+        {
+          "key": "20261016-MS-L 6-PLAN",
+          "date": "10/16/2026",
+          "shift": "MS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 6",
+          "jenis": "GF",
+          "plan": "11:30",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
         }
       ]
     },
@@ -11313,6 +11357,28 @@
       "ket": "",
       "status": "Plan",
       "eff": "44.1%"
+    },
+    {
+      "key": "20261016-MS-L 6-PLAN",
+      "date": "10/16/2026",
+      "shift": "MS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 6",
+      "jenis": "GF",
+      "plan": "11:30",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
     },
     {
       "key": "20261016-NS-DT 9-PLAN",
