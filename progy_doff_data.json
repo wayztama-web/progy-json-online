@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T16:44:35.559Z",
+  "updatedAt": "2026-10-17T16:49:36.009Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -194,17 +194,17 @@
             "jenis": "GF",
             "plan": "22:00",
             "doff": "22:00",
-            "start": "",
+            "start": "22:20",
             "code": "GF",
             "std": "35.8",
-            "dt_mc": "-1320",
-            "dt_proc": "-1320",
-            "loss": "1355.8",
-            "pct_loss": "282.5%",
+            "dt_mc": "20",
+            "dt_proc": "20",
+            "loss": "15.8",
+            "pct_loss": "3.3%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "3788.6%"
+            "eff": "44.1%"
           }
         ],
         "cm6": [
@@ -9620,17 +9620,17 @@
           "jenis": "GF",
           "plan": "22:00",
           "doff": "22:00",
-          "start": "",
+          "start": "22:20",
           "code": "GF",
           "std": "35.8",
-          "dt_mc": "-1320",
-          "dt_proc": "-1320",
-          "loss": "1355.8",
-          "pct_loss": "282.5%",
+          "dt_mc": "20",
+          "dt_proc": "20",
+          "loss": "15.8",
+          "pct_loss": "3.3%",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "3788.6%"
+          "eff": "44.1%"
         }
       ],
       "cm6": [
@@ -10110,17 +10110,17 @@
       "jenis": "GF",
       "plan": "22:00",
       "doff": "22:00",
-      "start": "",
+      "start": "22:20",
       "code": "GF",
       "std": "35.8",
-      "dt_mc": "-1320",
-      "dt_proc": "-1320",
-      "loss": "1355.8",
-      "pct_loss": "282.5%",
+      "dt_mc": "20",
+      "dt_proc": "20",
+      "loss": "15.8",
+      "pct_loss": "3.3%",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "3788.6%"
+      "eff": "44.1%"
     },
     {
       "key": "20261018-NS-Delta 10-PLAN",
