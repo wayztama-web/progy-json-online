@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-18T23:01:09.448Z",
-  "source": "Wahyu S",
+  "updatedAt": "2026-10-18T23:05:51.283Z",
+  "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
-  "si": "Wahyu S",
+  "si": "Hizriyan",
   "siCell": "BV5",
-  "siValue": "Wahyu S",
+  "siValue": "Hizriyan",
   "siReadMode": "BV5 read before date and shift history update",
   "historyDays": 7,
   "latestDate": "2026-10-19",
@@ -21,7 +21,30 @@
   "dates": {
     "2026-10-19": {
       "MS": {
-        "cm3": [],
+        "cm3": [
+          {
+            "key": "20261019-MS-DT 8-PLAN",
+            "date": "10/19/2026",
+            "shift": "MS",
+            "cluster": "CM3",
+            "group": "DT New",
+            "mc": "DT 8",
+            "jenis": "GF",
+            "plan": "12:15",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "82.7",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          }
+        ],
         "cm6": []
       },
       "AS": {
@@ -9689,7 +9712,30 @@
   "shiftSet": "MS",
   "shifts": {
     "MS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20261019-MS-DT 8-PLAN",
+          "date": "10/19/2026",
+          "shift": "MS",
+          "cluster": "CM3",
+          "group": "DT New",
+          "mc": "DT 8",
+          "jenis": "GF",
+          "plan": "12:15",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "82.7",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        }
+      ],
       "cm6": []
     },
     "AS": {
@@ -10254,6 +10300,28 @@
     }
   },
   "rows": [
+    {
+      "key": "20261019-MS-DT 8-PLAN",
+      "date": "10/19/2026",
+      "shift": "MS",
+      "cluster": "CM3",
+      "group": "DT New",
+      "mc": "DT 8",
+      "jenis": "GF",
+      "plan": "12:15",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "82.7",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
     {
       "key": "20261019-NS-DT 13-REP-0230",
       "date": "10/19/2026",
