@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T14:05:37.461Z",
+  "updatedAt": "2026-10-18T14:10:31.155Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -685,7 +685,7 @@
             "pct_loss": "-5.0%",
             "overlap": "25",
             "ket": "",
-            "status": "0",
+            "status": "Plan",
             "eff": "-67.7%"
           }
         ],
@@ -11105,7 +11105,7 @@
           "pct_loss": "-5.0%",
           "overlap": "25",
           "ket": "",
-          "status": "0",
+          "status": "Plan",
           "eff": "-67.7%"
         }
       ],
@@ -12591,7 +12591,7 @@
       "pct_loss": "-5.0%",
       "overlap": "25",
       "ket": "",
-      "status": "0",
+      "status": "Plan",
       "eff": "-67.7%"
     },
     {
