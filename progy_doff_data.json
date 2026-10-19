@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T07:06:15.154Z",
+  "updatedAt": "2026-10-19T07:11:14.986Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -533,7 +533,30 @@
         ]
       },
       "AS": {
-        "cm3": [],
+        "cm3": [
+          {
+            "key": "20261019-AS-L 18-PLAN",
+            "date": "10/19/2026",
+            "shift": "AS",
+            "cluster": "CM3",
+            "group": "NL",
+            "mc": "L 18",
+            "jenis": "GF",
+            "plan": "18:30",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          }
+        ],
         "cm6": []
       },
       "NS": {
@@ -10709,7 +10732,30 @@
       ]
     },
     "AS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20261019-AS-L 18-PLAN",
+          "date": "10/19/2026",
+          "shift": "AS",
+          "cluster": "CM3",
+          "group": "NL",
+          "mc": "L 18",
+          "jenis": "GF",
+          "plan": "18:30",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        }
+      ],
       "cm6": []
     },
     "NS": {
@@ -11766,6 +11812,28 @@
       "doff": "11:30",
       "start": "",
       "code": "REP",
+      "std": "35.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20261019-AS-L 18-PLAN",
+      "date": "10/19/2026",
+      "shift": "AS",
+      "cluster": "CM3",
+      "group": "NL",
+      "mc": "L 18",
+      "jenis": "GF",
+      "plan": "18:30",
+      "doff": "",
+      "start": "",
+      "code": "",
       "std": "35.8",
       "dt_mc": "",
       "dt_proc": "",
