@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T16:09:43.352Z",
+  "updatedAt": "2026-10-21T16:14:37.791Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1734,18 +1734,18 @@
             "mc": "L 7",
             "jenis": "GF",
             "plan": "04:00",
-            "doff": "03:10",
+            "doff": "22:00",
             "start": "03:30",
-            "code": "GF",
+            "code": "REP",
             "std": "35.8",
-            "dt_mc": "20",
-            "dt_proc": "20",
-            "loss": "15.8",
-            "pct_loss": "3.3%",
+            "dt_mc": "-1110",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "44.1%"
+            "eff": ""
           },
           {
             "key": "20261021-NS-L 14-PLAN",
