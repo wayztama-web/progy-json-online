@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T23:16:20.688Z",
+  "updatedAt": "2026-10-22T23:21:20.825Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -177,7 +177,30 @@
             "eff": ""
           }
         ],
-        "cm6": []
+        "cm6": [
+          {
+            "key": "20261023-MS-Delta 7-PLAN",
+            "date": "10/23/2026",
+            "shift": "MS",
+            "cluster": "CM6",
+            "group": "TBR Delta",
+            "mc": "Delta 7",
+            "jenis": "GF",
+            "plan": "11:15",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "112.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          }
+        ]
       },
       "AS": {
         "cm3": [
@@ -10375,7 +10398,30 @@
           "eff": ""
         }
       ],
-      "cm6": []
+      "cm6": [
+        {
+          "key": "20261023-MS-Delta 7-PLAN",
+          "date": "10/23/2026",
+          "shift": "MS",
+          "cluster": "CM6",
+          "group": "TBR Delta",
+          "mc": "Delta 7",
+          "jenis": "GF",
+          "plan": "11:15",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "112.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        }
+      ]
     },
     "AS": {
       "cm3": [
@@ -11085,6 +11131,28 @@
       "start": "",
       "code": "",
       "std": "82.7",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20261023-MS-Delta 7-PLAN",
+      "date": "10/23/2026",
+      "shift": "MS",
+      "cluster": "CM6",
+      "group": "TBR Delta",
+      "mc": "Delta 7",
+      "jenis": "GF",
+      "plan": "11:15",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "112.8",
       "dt_mc": "",
       "dt_proc": "",
       "loss": "",
