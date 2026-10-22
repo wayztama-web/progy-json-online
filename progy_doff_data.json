@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T17:41:08.818Z",
+  "updatedAt": "2026-10-22T17:46:07.995Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -449,6 +449,28 @@
             "ket": "",
             "status": "Plan",
             "eff": "16.2%"
+          },
+          {
+            "key": "20261023-NS-L 10-PLAN",
+            "date": "10/23/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 10",
+            "jenis": "GF",
+            "plan": "00:10",
+            "doff": "00:10",
+            "start": "",
+            "code": "GF",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "1420",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
           }
         ]
       }
@@ -10359,6 +10381,28 @@
           "ket": "",
           "status": "Plan",
           "eff": "16.2%"
+        },
+        {
+          "key": "20261023-NS-L 10-PLAN",
+          "date": "10/23/2026",
+          "shift": "NS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 10",
+          "jenis": "GF",
+          "plan": "00:10",
+          "doff": "00:10",
+          "start": "",
+          "code": "GF",
+          "std": "35.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "1420",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
         }
       ]
     }
@@ -10781,6 +10825,28 @@
       "ket": "",
       "status": "Plan",
       "eff": "16.2%"
+    },
+    {
+      "key": "20261023-NS-L 10-PLAN",
+      "date": "10/23/2026",
+      "shift": "NS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 10",
+      "jenis": "GF",
+      "plan": "00:10",
+      "doff": "00:10",
+      "start": "",
+      "code": "GF",
+      "std": "35.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "1420",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
     }
   ]
 }
