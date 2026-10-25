@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T10:04:28.010Z",
+  "updatedAt": "2026-10-25T10:09:27.798Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -955,6 +955,28 @@
             "eff": ""
           },
           {
+            "key": "20261025-AS-L 2-PLAN",
+            "date": "10/25/2026",
+            "shift": "AS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 2",
+            "jenis": "GF",
+            "plan": "16:00",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          },
+          {
             "key": "20261025-AS-L 3-PLAN",
             "date": "10/25/2026",
             "shift": "AS",
@@ -967,14 +989,14 @@
             "start": "",
             "code": "D",
             "std": "35.8",
-            "dt_mc": "-1020",
-            "dt_proc": "-1020",
-            "loss": "1055.8",
-            "pct_loss": "220.0%",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "2950.3%"
+            "eff": ""
           }
         ]
       },
@@ -11859,6 +11881,28 @@
           "eff": ""
         },
         {
+          "key": "20261025-AS-L 2-PLAN",
+          "date": "10/25/2026",
+          "shift": "AS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 2",
+          "jenis": "GF",
+          "plan": "16:00",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        },
+        {
           "key": "20261025-AS-L 3-PLAN",
           "date": "10/25/2026",
           "shift": "AS",
@@ -11871,14 +11915,14 @@
           "start": "",
           "code": "D",
           "std": "35.8",
-          "dt_mc": "-1020",
-          "dt_proc": "-1020",
-          "loss": "1055.8",
-          "pct_loss": "220.0%",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "2950.3%"
+          "eff": ""
         }
       ]
     },
@@ -13255,6 +13299,28 @@
       "eff": ""
     },
     {
+      "key": "20261025-AS-L 2-PLAN",
+      "date": "10/25/2026",
+      "shift": "AS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 2",
+      "jenis": "GF",
+      "plan": "16:00",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
       "key": "20261025-AS-L 3-PLAN",
       "date": "10/25/2026",
       "shift": "AS",
@@ -13267,14 +13333,14 @@
       "start": "",
       "code": "D",
       "std": "35.8",
-      "dt_mc": "-1020",
-      "dt_proc": "-1020",
-      "loss": "1055.8",
-      "pct_loss": "220.0%",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "2950.3%"
+      "eff": ""
     },
     {
       "key": "20261025-NS-DT 12-PLAN",
