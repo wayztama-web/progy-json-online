@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T15:06:30.770Z",
+  "updatedAt": "2026-10-29T15:11:41.619Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -29,7 +29,30 @@
         "cm6": []
       },
       "NS": {
-        "cm3": [],
+        "cm3": [
+          {
+            "key": "20261030-NS-DT 8-PLAN",
+            "date": "10/30/2026",
+            "shift": "NS",
+            "cluster": "CM3",
+            "group": "DT New",
+            "mc": "DT 8",
+            "jenis": "GF",
+            "plan": "05:50",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "82.7",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          }
+        ],
         "cm6": [
           {
             "key": "20261030-NS-L 7-PLAN",
@@ -8970,7 +8993,30 @@
       "cm6": []
     },
     "NS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20261030-NS-DT 8-PLAN",
+          "date": "10/30/2026",
+          "shift": "NS",
+          "cluster": "CM3",
+          "group": "DT New",
+          "mc": "DT 8",
+          "jenis": "GF",
+          "plan": "05:50",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "82.7",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        }
+      ],
       "cm6": [
         {
           "key": "20261030-NS-L 7-PLAN",
@@ -8998,6 +9044,28 @@
     }
   },
   "rows": [
+    {
+      "key": "20261030-NS-DT 8-PLAN",
+      "date": "10/30/2026",
+      "shift": "NS",
+      "cluster": "CM3",
+      "group": "DT New",
+      "mc": "DT 8",
+      "jenis": "GF",
+      "plan": "05:50",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "82.7",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
     {
       "key": "20261030-NS-L 7-PLAN",
       "date": "10/30/2026",
