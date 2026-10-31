@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T18:09:05.515Z",
+  "updatedAt": "2026-10-31T18:14:06.680Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -26,7 +26,30 @@
       },
       "AS": {
         "cm3": [],
-        "cm6": []
+        "cm6": [
+          {
+            "key": "20261101-AS-L 8-PLAN",
+            "date": "11/1/2026",
+            "shift": "AS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 8",
+            "jenis": "GF",
+            "plan": "14:00",
+            "doff": "14:00",
+            "start": "01:00",
+            "code": "L",
+            "std": "35.8",
+            "dt_mc": "-780",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          }
+        ]
       },
       "NS": {
         "cm3": [
@@ -151,18 +174,18 @@
             "mc": "Delta 8",
             "jenis": "GF",
             "plan": "01:00",
-            "doff": "",
+            "doff": "01:00",
             "start": "",
-            "code": "",
+            "code": "GF",
             "std": "112.8",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "dt_mc": "-60",
+            "dt_proc": "-60",
+            "loss": "172.8",
+            "pct_loss": "36.0%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "153.2%"
           },
           {
             "key": "20261101-NS-Delta 7-PLAN",
@@ -811,28 +834,6 @@
             "eff": ""
           },
           {
-            "key": "20261031-MS-L 8-PLAN",
-            "date": "10/31/2026",
-            "shift": "MS",
-            "cluster": "CM6",
-            "group": "TBR L",
-            "mc": "L 8",
-            "jenis": "GF",
-            "plan": "08:00",
-            "doff": "07:47",
-            "start": "08:40",
-            "code": "GF",
-            "std": "35.8",
-            "dt_mc": "53",
-            "dt_proc": "53",
-            "loss": "-17.2",
-            "pct_loss": "-3.6%",
-            "overlap": "243",
-            "ket": "",
-            "status": "Plan",
-            "eff": "-48.1%"
-          },
-          {
             "key": "20261031-MS-L 11-PLAN",
             "date": "10/31/2026",
             "shift": "MS",
@@ -845,14 +846,14 @@
             "start": "10:20",
             "code": "GF",
             "std": "35.8",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "dt_mc": "260",
+            "dt_proc": "155",
+            "loss": "-119.2",
+            "pct_loss": "-24.8%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "-333.1%"
           },
           {
             "key": "20261031-MS-L 1-PLAN",
@@ -899,6 +900,28 @@
             "eff": ""
           },
           {
+            "key": "20261031-MS-L 8-PLAN",
+            "date": "10/31/2026",
+            "shift": "MS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 8",
+            "jenis": "GF",
+            "plan": "08:00",
+            "doff": "07:47",
+            "start": "14:00",
+            "code": "L",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "243",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          },
+          {
             "key": "20261031-MS-L 9-PLAN",
             "date": "10/31/2026",
             "shift": "MS",
@@ -915,7 +938,7 @@
             "dt_proc": "",
             "loss": "",
             "pct_loss": "",
-            "overlap": "",
+            "overlap": "15",
             "ket": "",
             "status": "Plan",
             "eff": ""
@@ -9276,7 +9299,30 @@
     },
     "AS": {
       "cm3": [],
-      "cm6": []
+      "cm6": [
+        {
+          "key": "20261101-AS-L 8-PLAN",
+          "date": "11/1/2026",
+          "shift": "AS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 8",
+          "jenis": "GF",
+          "plan": "14:00",
+          "doff": "14:00",
+          "start": "01:00",
+          "code": "L",
+          "std": "35.8",
+          "dt_mc": "-780",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        }
+      ]
     },
     "NS": {
       "cm3": [
@@ -9401,18 +9447,18 @@
           "mc": "Delta 8",
           "jenis": "GF",
           "plan": "01:00",
-          "doff": "",
+          "doff": "01:00",
           "start": "",
-          "code": "",
+          "code": "GF",
           "std": "112.8",
-          "dt_mc": "",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
+          "dt_mc": "-60",
+          "dt_proc": "-60",
+          "loss": "172.8",
+          "pct_loss": "36.0%",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": ""
+          "eff": "153.2%"
         },
         {
           "key": "20261101-NS-Delta 7-PLAN",
@@ -9639,6 +9685,28 @@
   },
   "rows": [
     {
+      "key": "20261101-AS-L 8-PLAN",
+      "date": "11/1/2026",
+      "shift": "AS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 8",
+      "jenis": "GF",
+      "plan": "14:00",
+      "doff": "14:00",
+      "start": "01:00",
+      "code": "L",
+      "std": "35.8",
+      "dt_mc": "-780",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
       "key": "20261101-NS-DT 13-PLAN",
       "date": "11/1/2026",
       "shift": "NS",
@@ -9757,18 +9825,18 @@
       "mc": "Delta 8",
       "jenis": "GF",
       "plan": "01:00",
-      "doff": "",
+      "doff": "01:00",
       "start": "",
-      "code": "",
+      "code": "GF",
       "std": "112.8",
-      "dt_mc": "",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
+      "dt_mc": "-60",
+      "dt_proc": "-60",
+      "loss": "172.8",
+      "pct_loss": "36.0%",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": ""
+      "eff": "153.2%"
     },
     {
       "key": "20261101-NS-Delta 7-PLAN",
