@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T03:53:29.027Z",
+  "updatedAt": "2026-10-31T03:58:25.515Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -178,6 +178,28 @@
           }
         ],
         "cm6": [
+          {
+            "key": "20261031-MS-Delta 8-REP-1045",
+            "date": "10/31/2026",
+            "shift": "MS",
+            "cluster": "CM6",
+            "group": "Delta",
+            "mc": "Delta 8",
+            "jenis": "MTN",
+            "plan": "",
+            "doff": "10:45",
+            "start": "",
+            "code": "REP",
+            "std": "8.3",
+            "dt_mc": "-645",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "cover mesin depan mengeluarkan asap dan bau gosong",
+            "status": "0",
+            "eff": ""
+          },
           {
             "key": "20261031-MS-Delta 14-PLAN",
             "date": "10/31/2026",
@@ -455,14 +477,14 @@
             "start": "10:20",
             "code": "GF",
             "std": "35.8",
-            "dt_mc": "260",
-            "dt_proc": "100",
-            "loss": "-64.2",
-            "pct_loss": "-13.4%",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "-179.4%"
+            "eff": ""
           },
           {
             "key": "20261031-MS-L 1-PLAN",
@@ -9981,6 +10003,28 @@
       ],
       "cm6": [
         {
+          "key": "20261031-MS-Delta 8-REP-1045",
+          "date": "10/31/2026",
+          "shift": "MS",
+          "cluster": "CM6",
+          "group": "Delta",
+          "mc": "Delta 8",
+          "jenis": "MTN",
+          "plan": "",
+          "doff": "10:45",
+          "start": "",
+          "code": "REP",
+          "std": "8.3",
+          "dt_mc": "-645",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "cover mesin depan mengeluarkan asap dan bau gosong",
+          "status": "0",
+          "eff": ""
+        },
+        {
           "key": "20261031-MS-Delta 14-PLAN",
           "date": "10/31/2026",
           "shift": "MS",
@@ -10257,14 +10301,14 @@
           "start": "10:20",
           "code": "GF",
           "std": "35.8",
-          "dt_mc": "260",
-          "dt_proc": "100",
-          "loss": "-64.2",
-          "pct_loss": "-13.4%",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "-179.4%"
+          "eff": ""
         },
         {
           "key": "20261031-MS-L 1-PLAN",
@@ -11051,6 +11095,28 @@
       "eff": ""
     },
     {
+      "key": "20261031-MS-Delta 8-REP-1045",
+      "date": "10/31/2026",
+      "shift": "MS",
+      "cluster": "CM6",
+      "group": "Delta",
+      "mc": "Delta 8",
+      "jenis": "MTN",
+      "plan": "",
+      "doff": "10:45",
+      "start": "",
+      "code": "REP",
+      "std": "8.3",
+      "dt_mc": "-645",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "cover mesin depan mengeluarkan asap dan bau gosong",
+      "status": "0",
+      "eff": ""
+    },
+    {
       "key": "20261031-MS-Delta 14-PLAN",
       "date": "10/31/2026",
       "shift": "MS",
@@ -11327,14 +11393,14 @@
       "start": "10:20",
       "code": "GF",
       "std": "35.8",
-      "dt_mc": "260",
-      "dt_proc": "100",
-      "loss": "-64.2",
-      "pct_loss": "-13.4%",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "-179.4%"
+      "eff": ""
     },
     {
       "key": "20261031-MS-L 1-PLAN",
