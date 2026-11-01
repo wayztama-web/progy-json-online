@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T04:24:35.912Z",
+  "updatedAt": "2026-11-01T04:29:40.258Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -178,6 +178,28 @@
           }
         ],
         "cm6": [
+          {
+            "key": "20261101-MS-Delta 8-REP-1120",
+            "date": "11/1/2026",
+            "shift": "MS",
+            "cluster": "CM6",
+            "group": "Delta",
+            "mc": "Delta 8",
+            "jenis": "MTN",
+            "plan": "",
+            "doff": "11:20",
+            "start": "",
+            "code": "REP",
+            "std": "8.3",
+            "dt_mc": "-680",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "-",
+            "status": "0",
+            "eff": ""
+          },
           {
             "key": "20261101-MS-Delta 8-PLAN",
             "date": "11/1/2026",
@@ -455,14 +477,14 @@
             "start": "09:15",
             "code": "GF",
             "std": "35.8",
-            "dt_mc": "43",
-            "dt_proc": "43",
-            "loss": "-7.2",
-            "pct_loss": "-1.5%",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "-20.2%"
+            "eff": ""
           },
           {
             "key": "20261101-MS-L 14-PLAN",
@@ -9938,6 +9960,28 @@
       ],
       "cm6": [
         {
+          "key": "20261101-MS-Delta 8-REP-1120",
+          "date": "11/1/2026",
+          "shift": "MS",
+          "cluster": "CM6",
+          "group": "Delta",
+          "mc": "Delta 8",
+          "jenis": "MTN",
+          "plan": "",
+          "doff": "11:20",
+          "start": "",
+          "code": "REP",
+          "std": "8.3",
+          "dt_mc": "-680",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "-",
+          "status": "0",
+          "eff": ""
+        },
+        {
           "key": "20261101-MS-Delta 8-PLAN",
           "date": "11/1/2026",
           "shift": "MS",
@@ -10214,14 +10258,14 @@
           "start": "09:15",
           "code": "GF",
           "std": "35.8",
-          "dt_mc": "43",
-          "dt_proc": "43",
-          "loss": "-7.2",
-          "pct_loss": "-1.5%",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "-20.2%"
+          "eff": ""
         },
         {
           "key": "20261101-MS-L 14-PLAN",
@@ -10811,6 +10855,28 @@
       "eff": ""
     },
     {
+      "key": "20261101-MS-Delta 8-REP-1120",
+      "date": "11/1/2026",
+      "shift": "MS",
+      "cluster": "CM6",
+      "group": "Delta",
+      "mc": "Delta 8",
+      "jenis": "MTN",
+      "plan": "",
+      "doff": "11:20",
+      "start": "",
+      "code": "REP",
+      "std": "8.3",
+      "dt_mc": "-680",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "-",
+      "status": "0",
+      "eff": ""
+    },
+    {
       "key": "20261101-MS-Delta 8-PLAN",
       "date": "11/1/2026",
       "shift": "MS",
@@ -11087,14 +11153,14 @@
       "start": "09:15",
       "code": "GF",
       "std": "35.8",
-      "dt_mc": "43",
-      "dt_proc": "43",
-      "loss": "-7.2",
-      "pct_loss": "-1.5%",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "-20.2%"
+      "eff": ""
     },
     {
       "key": "20261101-MS-L 14-PLAN",
