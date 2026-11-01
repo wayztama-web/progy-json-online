@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T22:30:22.195Z",
+  "updatedAt": "2026-11-01T22:35:20.168Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -53,6 +53,28 @@
       },
       "NS": {
         "cm3": [
+          {
+            "key": "20261102-NS-DT 13-REP-0440",
+            "date": "11/2/2026",
+            "shift": "NS",
+            "cluster": "CM3",
+            "group": "DT",
+            "mc": "DT 13",
+            "jenis": "UNP",
+            "plan": "",
+            "doff": "04:40",
+            "start": "",
+            "code": "REP",
+            "std": "13.5",
+            "dt_mc": "-280",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "1130",
+            "ket": "",
+            "status": "0",
+            "eff": ""
+          },
           {
             "key": "20261102-NS-DT 13-PLAN",
             "date": "11/2/2026",
@@ -1866,18 +1888,18 @@
             "mc": "L 2",
             "jenis": "GF",
             "plan": "00:10",
-            "doff": "",
+            "doff": "03:30",
             "start": "",
-            "code": "",
+            "code": "GF",
             "std": "35.8",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
-            "overlap": "",
+            "dt_mc": "-210",
+            "dt_proc": "-210",
+            "loss": "245.8",
+            "pct_loss": "51.2%",
+            "overlap": "150",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "686.8%"
           }
         ]
       }
@@ -9349,6 +9371,28 @@
     "NS": {
       "cm3": [
         {
+          "key": "20261102-NS-DT 13-REP-0440",
+          "date": "11/2/2026",
+          "shift": "NS",
+          "cluster": "CM3",
+          "group": "DT",
+          "mc": "DT 13",
+          "jenis": "UNP",
+          "plan": "",
+          "doff": "04:40",
+          "start": "",
+          "code": "REP",
+          "std": "13.5",
+          "dt_mc": "-280",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "1130",
+          "ket": "",
+          "status": "0",
+          "eff": ""
+        },
+        {
           "key": "20261102-NS-DT 13-PLAN",
           "date": "11/2/2026",
           "shift": "NS",
@@ -9705,6 +9749,28 @@
       "ket": "",
       "status": "Plan",
       "eff": "1617.0%"
+    },
+    {
+      "key": "20261102-NS-DT 13-REP-0440",
+      "date": "11/2/2026",
+      "shift": "NS",
+      "cluster": "CM3",
+      "group": "DT",
+      "mc": "DT 13",
+      "jenis": "UNP",
+      "plan": "",
+      "doff": "04:40",
+      "start": "",
+      "code": "REP",
+      "std": "13.5",
+      "dt_mc": "-280",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "1130",
+      "ket": "",
+      "status": "0",
+      "eff": ""
     },
     {
       "key": "20261102-NS-DT 13-PLAN",
