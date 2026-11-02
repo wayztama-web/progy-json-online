@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T22:56:50.981Z",
+  "updatedAt": "2026-11-02T23:01:54.569Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -130,16 +130,16 @@
             "plan": "04:35",
             "doff": "04:35",
             "start": "",
-            "code": "GF",
+            "code": "L",
             "std": "82.7",
             "dt_mc": "-275",
-            "dt_proc": "-275",
-            "loss": "357.7",
-            "pct_loss": "74.5%",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "432.4%"
+            "eff": ""
           }
         ],
         "cm6": [
@@ -9640,10 +9640,10 @@
     }
   },
   "dateSelector": "11/3/2026",
-  "shiftSelector": "NS",
+  "shiftSelector": "MS",
   "productionDateSerial": 46329,
   "productionDateText": "11/3/2026",
-  "shiftSet": "NS",
+  "shiftSet": "MS",
   "shifts": {
     "MS": {
       "cm3": [],
@@ -9755,16 +9755,16 @@
           "plan": "04:35",
           "doff": "04:35",
           "start": "",
-          "code": "GF",
+          "code": "L",
           "std": "82.7",
           "dt_mc": "-275",
-          "dt_proc": "-275",
-          "loss": "357.7",
-          "pct_loss": "74.5%",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "432.4%"
+          "eff": ""
         }
       ],
       "cm6": [
@@ -10223,16 +10223,16 @@
       "plan": "04:35",
       "doff": "04:35",
       "start": "",
-      "code": "GF",
+      "code": "L",
       "std": "82.7",
       "dt_mc": "-275",
-      "dt_proc": "-275",
-      "loss": "357.7",
-      "pct_loss": "74.5%",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "432.4%"
+      "eff": ""
     },
     {
       "key": "20261103-NS-Delta 9-PLAN",
