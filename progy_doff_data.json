@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T09:10:52.866Z",
+  "updatedAt": "2026-11-02T09:15:53.831Z",
   "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -798,6 +798,28 @@
       },
       "AS": {
         "cm3": [
+          {
+            "key": "20261102-AS-Heli 6-REP-1610",
+            "date": "11/2/2026",
+            "shift": "AS",
+            "cluster": "CM3",
+            "group": "Alidra Heli",
+            "mc": "Heli 6",
+            "jenis": "UNP",
+            "plan": "",
+            "doff": "16:10",
+            "start": "",
+            "code": "REP",
+            "std": "17.8",
+            "dt_mc": "-970",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "0",
+            "eff": ""
+          },
           {
             "key": "20261102-AS-DT 8-PLAN",
             "date": "11/2/2026",
@@ -11329,6 +11351,28 @@
     "AS": {
       "cm3": [
         {
+          "key": "20261102-AS-Heli 6-REP-1610",
+          "date": "11/2/2026",
+          "shift": "AS",
+          "cluster": "CM3",
+          "group": "Alidra Heli",
+          "mc": "Heli 6",
+          "jenis": "UNP",
+          "plan": "",
+          "doff": "16:10",
+          "start": "",
+          "code": "REP",
+          "std": "17.8",
+          "dt_mc": "-970",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "0",
+          "eff": ""
+        },
+        {
           "key": "20261102-AS-DT 8-PLAN",
           "date": "11/2/2026",
           "shift": "AS",
@@ -12923,6 +12967,28 @@
       "ket": "",
       "status": "Plan",
       "eff": "2391.4%"
+    },
+    {
+      "key": "20261102-AS-Heli 6-REP-1610",
+      "date": "11/2/2026",
+      "shift": "AS",
+      "cluster": "CM3",
+      "group": "Alidra Heli",
+      "mc": "Heli 6",
+      "jenis": "UNP",
+      "plan": "",
+      "doff": "16:10",
+      "start": "",
+      "code": "REP",
+      "std": "17.8",
+      "dt_mc": "-970",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "0",
+      "eff": ""
     },
     {
       "key": "20261102-AS-DT 8-PLAN",
