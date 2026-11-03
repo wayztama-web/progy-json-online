@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T22:58:40.821Z",
+  "updatedAt": "2026-11-03T23:03:40.682Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -9881,10 +9881,10 @@
     }
   },
   "dateSelector": "11/4/2026",
-  "shiftSelector": "NS",
+  "shiftSelector": "MS",
   "productionDateSerial": 46330,
   "productionDateText": "11/4/2026",
-  "shiftSet": "NS",
+  "shiftSet": "MS",
   "shifts": {
     "MS": {
       "cm3": [],
