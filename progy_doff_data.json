@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T15:14:44.769Z",
+  "updatedAt": "2026-11-04T15:19:47.902Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -164,7 +164,30 @@
             "eff": ""
           }
         ],
-        "cm6": []
+        "cm6": [
+          {
+            "key": "20261105-NS-L 2-PLAN",
+            "date": "11/5/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 2",
+            "jenis": "GF",
+            "plan": "23:00",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          }
+        ]
       }
     },
     "2026-11-04": {
@@ -9854,7 +9877,30 @@
           "eff": ""
         }
       ],
-      "cm6": []
+      "cm6": [
+        {
+          "key": "20261105-NS-L 2-PLAN",
+          "date": "11/5/2026",
+          "shift": "NS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 2",
+          "jenis": "GF",
+          "plan": "23:00",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        }
+      ]
     }
   },
   "rows": [
@@ -9981,6 +10027,28 @@
       "start": "",
       "code": "",
       "std": "82.7",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20261105-NS-L 2-PLAN",
+      "date": "11/5/2026",
+      "shift": "NS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 2",
+      "jenis": "GF",
+      "plan": "23:00",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "35.8",
       "dt_mc": "",
       "dt_proc": "",
       "loss": "",
