@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T22:59:04.723Z",
+  "updatedAt": "2026-11-06T23:04:05.364Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -21,7 +21,52 @@
   "dates": {
     "2026-11-07": {
       "MS": {
-        "cm3": [],
+        "cm3": [
+          {
+            "key": "20261107-MS-Heli 6-PLAN",
+            "date": "11/7/2026",
+            "shift": "MS",
+            "cluster": "CM3",
+            "group": "Alidra Heli",
+            "mc": "Heli 6",
+            "jenis": "GF",
+            "plan": "07:10",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "97.3",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          },
+          {
+            "key": "20261107-MS-Heli 7-PLAN",
+            "date": "11/7/2026",
+            "shift": "MS",
+            "cluster": "CM3",
+            "group": "Alidra Heli",
+            "mc": "Heli 7",
+            "jenis": "GF",
+            "plan": "11:35",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "97.3",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          }
+        ],
         "cm6": []
       },
       "AS": {
@@ -10079,13 +10124,58 @@
     }
   },
   "dateSelector": "11/7/2026",
-  "shiftSelector": "NS",
+  "shiftSelector": "MS",
   "productionDateSerial": 46333,
   "productionDateText": "11/7/2026",
-  "shiftSet": "NS",
+  "shiftSet": "MS",
   "shifts": {
     "MS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20261107-MS-Heli 6-PLAN",
+          "date": "11/7/2026",
+          "shift": "MS",
+          "cluster": "CM3",
+          "group": "Alidra Heli",
+          "mc": "Heli 6",
+          "jenis": "GF",
+          "plan": "07:10",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "97.3",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        },
+        {
+          "key": "20261107-MS-Heli 7-PLAN",
+          "date": "11/7/2026",
+          "shift": "MS",
+          "cluster": "CM3",
+          "group": "Alidra Heli",
+          "mc": "Heli 7",
+          "jenis": "GF",
+          "plan": "11:35",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "97.3",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        }
+      ],
       "cm6": []
     },
     "AS": {
@@ -10496,6 +10586,50 @@
     }
   },
   "rows": [
+    {
+      "key": "20261107-MS-Heli 6-PLAN",
+      "date": "11/7/2026",
+      "shift": "MS",
+      "cluster": "CM3",
+      "group": "Alidra Heli",
+      "mc": "Heli 6",
+      "jenis": "GF",
+      "plan": "07:10",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "97.3",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
+      "key": "20261107-MS-Heli 7-PLAN",
+      "date": "11/7/2026",
+      "shift": "MS",
+      "cluster": "CM3",
+      "group": "Alidra Heli",
+      "mc": "Heli 7",
+      "jenis": "GF",
+      "plan": "11:35",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "97.3",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
     {
       "key": "20261107-NS-DT 9-PLAN",
       "date": "11/7/2026",
