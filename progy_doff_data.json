@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T15:19:55.948Z",
+  "updatedAt": "2026-11-07T15:24:55.947Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1287,7 +1287,7 @@
             "jenis": "GF",
             "plan": "14:00",
             "doff": "14:00",
-            "start": "",
+            "start": "22:00",
             "code": "L",
             "std": "35.8",
             "dt_mc": "",
