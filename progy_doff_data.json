@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T20:30:09.327Z",
+  "updatedAt": "2026-11-07T20:35:09.223Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -264,16 +264,16 @@
             "plan": "01:55",
             "doff": "01:50",
             "start": "02:30",
-            "code": "REP",
+            "code": "D",
             "std": "13.5",
             "dt_mc": "40",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "dt_proc": "40",
+            "loss": "-26.5",
+            "pct_loss": "-5.5%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "-197.3%"
           },
           {
             "key": "20261108-NS-DT 7-PLAN",
@@ -10373,16 +10373,16 @@
           "plan": "01:55",
           "doff": "01:50",
           "start": "02:30",
-          "code": "REP",
+          "code": "D",
           "std": "13.5",
           "dt_mc": "40",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
+          "dt_proc": "40",
+          "loss": "-26.5",
+          "pct_loss": "-5.5%",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": ""
+          "eff": "-197.3%"
         },
         {
           "key": "20261108-NS-DT 7-PLAN",
@@ -10817,16 +10817,16 @@
       "plan": "01:55",
       "doff": "01:50",
       "start": "02:30",
-      "code": "REP",
+      "code": "D",
       "std": "13.5",
       "dt_mc": "40",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
+      "dt_proc": "40",
+      "loss": "-26.5",
+      "pct_loss": "-5.5%",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": ""
+      "eff": "-197.3%"
     },
     {
       "key": "20261108-NS-DT 7-PLAN",
