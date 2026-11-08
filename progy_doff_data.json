@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T22:26:50.321Z",
+  "updatedAt": "2026-11-08T22:31:52.502Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -267,13 +267,13 @@
             "code": "GF",
             "std": "112.8",
             "dt_mc": "65",
-            "dt_proc": "65",
-            "loss": "47.8",
-            "pct_loss": "10.0%",
+            "dt_proc": "",
+            "loss": "112.8",
+            "pct_loss": "23.5%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "42.4%"
+            "eff": ""
           },
           {
             "key": "20261109-NS-Delta 10-PLAN",
@@ -759,13 +759,13 @@
             "code": "GF",
             "std": "37.1",
             "dt_mc": "60",
-            "dt_proc": "60",
-            "loss": "-23.0",
-            "pct_loss": "-4.8%",
+            "dt_proc": "",
+            "loss": "37.1",
+            "pct_loss": "7.7%",
             "overlap": "380",
             "ket": "",
             "status": "Plan",
-            "eff": "-61.9%"
+            "eff": ""
           },
           {
             "key": "20261108-MS-Delta 6-PLAN",
@@ -1425,13 +1425,13 @@
             "code": "GF",
             "std": "37.1",
             "dt_mc": "90",
-            "dt_proc": "90",
-            "loss": "-53.0",
-            "pct_loss": "-11.0%",
+            "dt_proc": "",
+            "loss": "37.1",
+            "pct_loss": "7.7%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "-142.9%"
+            "eff": ""
           },
           {
             "key": "20261108-AS-Delta 8-PLAN",
@@ -1915,13 +1915,13 @@
             "code": "GF",
             "std": "37.1",
             "dt_mc": "85",
-            "dt_proc": "85",
-            "loss": "-48.0",
-            "pct_loss": "-10.0%",
+            "dt_proc": "",
+            "loss": "37.1",
+            "pct_loss": "7.7%",
             "overlap": "1080",
             "ket": "",
             "status": "Plan",
-            "eff": "-129.4%"
+            "eff": ""
           },
           {
             "key": "20261108-NS-Delta 12-PLAN",
@@ -2407,13 +2407,13 @@
             "code": "GF",
             "std": "112.8",
             "dt_mc": "55",
-            "dt_proc": "55",
-            "loss": "57.8",
-            "pct_loss": "12.0%",
+            "dt_proc": "",
+            "loss": "112.8",
+            "pct_loss": "23.5%",
             "overlap": "115",
             "ket": "",
             "status": "Plan",
-            "eff": "51.2%"
+            "eff": ""
           },
           {
             "key": "20261107-MS-Delta 4-PLAN",
@@ -2963,13 +2963,13 @@
             "code": "GF",
             "std": "37.1",
             "dt_mc": "90",
-            "dt_proc": "90",
-            "loss": "-53.0",
-            "pct_loss": "-11.0%",
+            "dt_proc": "",
+            "loss": "37.1",
+            "pct_loss": "7.7%",
             "overlap": "360",
             "ket": "",
             "status": "Plan",
-            "eff": "-142.9%"
+            "eff": ""
           },
           {
             "key": "20261107-AS-Delta 3-PLAN",
@@ -3453,13 +3453,13 @@
             "code": "GF",
             "std": "37.1",
             "dt_mc": "120",
-            "dt_proc": "120",
-            "loss": "-82.9",
-            "pct_loss": "-17.3%",
+            "dt_proc": "",
+            "loss": "37.1",
+            "pct_loss": "7.7%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "-223.9%"
+            "eff": ""
           },
           {
             "key": "20261107-NS-Delta 1-PLAN",
@@ -4501,13 +4501,13 @@
             "code": "GF",
             "std": "112.8",
             "dt_mc": "600",
-            "dt_proc": "600",
-            "loss": "-487.2",
-            "pct_loss": "-101.5%",
+            "dt_proc": "",
+            "loss": "112.8",
+            "pct_loss": "23.5%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "-431.9%"
+            "eff": ""
           },
           {
             "key": "20261106-AS-Delta 10-PLAN",
@@ -5013,13 +5013,13 @@
             "code": "GF",
             "std": "37.1",
             "dt_mc": "315",
-            "dt_proc": "315",
-            "loss": "-278.0",
-            "pct_loss": "-57.9%",
+            "dt_proc": "",
+            "loss": "37.1",
+            "pct_loss": "7.7%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "-750.2%"
+            "eff": ""
           },
           {
             "key": "20261106-NS-Delta 6-PLAN",
@@ -5549,13 +5549,13 @@
             "code": "GF",
             "std": "112.8",
             "dt_mc": "130",
-            "dt_proc": "130",
-            "loss": "-17.2",
-            "pct_loss": "-3.6%",
+            "dt_proc": "",
+            "loss": "112.8",
+            "pct_loss": "23.5%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "-15.2%"
+            "eff": ""
           },
           {
             "key": "20261105-MS-Delta 9-PLAN",
@@ -6083,13 +6083,13 @@
             "code": "GF",
             "std": "37.1",
             "dt_mc": "20",
-            "dt_proc": "20",
-            "loss": "17.1",
-            "pct_loss": "3.6%",
+            "dt_proc": "",
+            "loss": "37.1",
+            "pct_loss": "7.7%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "46.0%"
+            "eff": ""
           },
           {
             "key": "20261105-AS-Delta 11-PLAN",
@@ -6529,13 +6529,13 @@
             "code": "GF",
             "std": "112.8",
             "dt_mc": "145",
-            "dt_proc": "145",
-            "loss": "-32.2",
-            "pct_loss": "-6.7%",
+            "dt_proc": "",
+            "loss": "112.8",
+            "pct_loss": "23.5%",
             "overlap": "325",
             "ket": "",
             "status": "Plan",
-            "eff": "-28.5%"
+            "eff": ""
           },
           {
             "key": "20261105-NS-Delta 1-PLAN",
@@ -7043,13 +7043,13 @@
             "code": "GF",
             "std": "37.1",
             "dt_mc": "60",
-            "dt_proc": "60",
-            "loss": "-23.0",
-            "pct_loss": "-4.8%",
+            "dt_proc": "",
+            "loss": "37.1",
+            "pct_loss": "7.7%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "-61.9%"
+            "eff": ""
           },
           {
             "key": "20261104-MS-Delta 14-PLAN",
@@ -7643,13 +7643,13 @@
             "code": "GF",
             "std": "37.1",
             "dt_mc": "55",
-            "dt_proc": "55",
-            "loss": "-18.0",
-            "pct_loss": "-3.7%",
+            "dt_proc": "",
+            "loss": "37.1",
+            "pct_loss": "7.7%",
             "overlap": "105",
             "ket": "",
             "status": "Plan",
-            "eff": "-48.4%"
+            "eff": ""
           },
           {
             "key": "20261104-AS-Delta 10-PLAN",
@@ -8265,13 +8265,13 @@
             "code": "D",
             "std": "8.3",
             "dt_mc": "45",
-            "dt_proc": "45",
-            "loss": "-36.8",
-            "pct_loss": "-7.7%",
+            "dt_proc": "",
+            "loss": "8.3",
+            "pct_loss": "1.7%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "-445.5%"
+            "eff": ""
           },
           {
             "key": "20261104-NS-Delta 10-PLAN",
@@ -8801,13 +8801,13 @@
             "code": "GF",
             "std": "37.1",
             "dt_mc": "55",
-            "dt_proc": "55",
-            "loss": "-18.0",
-            "pct_loss": "-3.7%",
+            "dt_proc": "",
+            "loss": "37.1",
+            "pct_loss": "7.7%",
             "overlap": "165",
             "ket": "",
             "status": "Plan",
-            "eff": "-48.4%"
+            "eff": ""
           },
           {
             "key": "20261103-MS-Delta 10-PLAN",
@@ -9533,13 +9533,13 @@
             "code": "D",
             "std": "13.5",
             "dt_mc": "40",
-            "dt_proc": "25",
-            "loss": "-11.5",
-            "pct_loss": "-2.4%",
+            "dt_proc": "40",
+            "loss": "-26.5",
+            "pct_loss": "-5.5%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "-85.8%"
+            "eff": "-197.3%"
           },
           {
             "key": "20261103-AS-DT 6-PLAN",
@@ -9621,13 +9621,13 @@
             "code": "GF",
             "std": "35.8",
             "dt_mc": "120",
-            "dt_proc": "45",
-            "loss": "-9.2",
-            "pct_loss": "-1.9%",
+            "dt_proc": "120",
+            "loss": "-84.2",
+            "pct_loss": "-17.5%",
             "overlap": "285",
             "ket": "",
             "status": "Plan",
-            "eff": "-25.7%"
+            "eff": "-235.3%"
           },
           {
             "key": "20261103-AS-L 9-PLAN",
@@ -9643,13 +9643,13 @@
             "code": "GF",
             "std": "35.8",
             "dt_mc": "165",
-            "dt_proc": "30",
-            "loss": "5.8",
-            "pct_loss": "1.2%",
+            "dt_proc": "165",
+            "loss": "-129.2",
+            "pct_loss": "-26.9%",
             "overlap": "220",
             "ket": "",
             "status": "Plan",
-            "eff": "16.2%"
+            "eff": "-361.1%"
           },
           {
             "key": "20261103-AS-L 7-PLAN",
@@ -9665,13 +9665,13 @@
             "code": "GF",
             "std": "35.8",
             "dt_mc": "220",
-            "dt_proc": "",
+            "dt_proc": "220",
             "loss": "",
             "pct_loss": "",
             "overlap": "380",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "0.0%"
           },
           {
             "key": "20261103-AS-L 3-PLAN",
@@ -9687,13 +9687,13 @@
             "code": "GF",
             "std": "35.8",
             "dt_mc": "280",
-            "dt_proc": "",
+            "dt_proc": "280",
             "loss": "",
             "pct_loss": "",
             "overlap": "90",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "0.0%"
           },
           {
             "key": "20261103-AS-L 10-PLAN",
@@ -9709,13 +9709,13 @@
             "code": "GF",
             "std": "35.8",
             "dt_mc": "40",
-            "dt_proc": "",
+            "dt_proc": "40",
             "loss": "",
             "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "0.0%"
           },
           {
             "key": "20261103-AS-L 5-PLAN",
@@ -9731,13 +9731,13 @@
             "code": "GF",
             "std": "35.8",
             "dt_mc": "200",
-            "dt_proc": "",
+            "dt_proc": "200",
             "loss": "",
             "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "0.0%"
           },
           {
             "key": "20261103-AS-L 13-PLAN",
@@ -9753,13 +9753,13 @@
             "code": "GF",
             "std": "35.8",
             "dt_mc": "260",
-            "dt_proc": "30",
-            "loss": "5.8",
-            "pct_loss": "1.2%",
+            "dt_proc": "260",
+            "loss": "-224.2",
+            "pct_loss": "-46.7%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "16.2%"
+            "eff": "-626.5%"
           },
           {
             "key": "20261103-AS-L 4-PLAN",
@@ -9775,13 +9775,13 @@
             "code": "GF",
             "std": "35.8",
             "dt_mc": "300",
-            "dt_proc": "-1140",
-            "loss": "1175.8",
-            "pct_loss": "245.0%",
+            "dt_proc": "300",
+            "loss": "-264.2",
+            "pct_loss": "-55.0%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "3285.6%"
+            "eff": "-738.3%"
           }
         ]
       },
@@ -9913,13 +9913,13 @@
             "code": "GF",
             "std": "37.1",
             "dt_mc": "260",
-            "dt_proc": "-1180",
-            "loss": "1217.1",
-            "pct_loss": "253.6%",
+            "dt_proc": "260",
+            "loss": "-223.0",
+            "pct_loss": "-46.4%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "3284.9%"
+            "eff": "-601.8%"
           },
           {
             "key": "20261103-NS-Delta 1-PLAN",
@@ -9957,13 +9957,13 @@
             "code": "D",
             "std": "8.3",
             "dt_mc": "620",
-            "dt_proc": "-820",
-            "loss": "828.3",
-            "pct_loss": "172.6%",
+            "dt_proc": "620",
+            "loss": "-611.8",
+            "pct_loss": "-127.4%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "10039.4%"
+            "eff": "-7415.2%"
           },
           {
             "key": "20261103-NS-DT 3-PLAN",
@@ -10089,13 +10089,13 @@
             "code": "GF",
             "std": "35.8",
             "dt_mc": "40",
-            "dt_proc": "-1400",
-            "loss": "1435.8",
-            "pct_loss": "299.1%",
+            "dt_proc": "40",
+            "loss": "-4.2",
+            "pct_loss": "-0.9%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "4012.2%"
+            "eff": "-11.8%"
           },
           {
             "key": "20261103-NS-L 4-PLAN",
@@ -10155,13 +10155,13 @@
             "code": "GF",
             "std": "35.8",
             "dt_mc": "160",
-            "dt_proc": "40",
-            "loss": "-4.2",
-            "pct_loss": "-0.9%",
+            "dt_proc": "160",
+            "loss": "-124.2",
+            "pct_loss": "-25.9%",
             "overlap": "120",
             "ket": "",
             "status": "Plan",
-            "eff": "-11.8%"
+            "eff": "-347.1%"
           },
           {
             "key": "20261103-NS-L 10-PLAN",
@@ -10177,13 +10177,13 @@
             "code": "GF",
             "std": "35.8",
             "dt_mc": "60",
-            "dt_proc": "",
+            "dt_proc": "60",
             "loss": "",
             "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "0.0%"
           },
           {
             "key": "20261103-NS-L 6-PLAN",
@@ -10199,13 +10199,13 @@
             "code": "GF",
             "std": "35.8",
             "dt_mc": "1260",
-            "dt_proc": "",
+            "dt_proc": "1260",
             "loss": "",
             "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "0.0%"
           },
           {
             "key": "20261103-NS-L 8-PLAN",
@@ -10221,13 +10221,13 @@
             "code": "GF",
             "std": "35.8",
             "dt_mc": "1270",
-            "dt_proc": "",
+            "dt_proc": "1270",
             "loss": "",
             "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "0.0%"
           },
           {
             "key": "20261103-NS-L 14-PLAN",
@@ -10249,7 +10249,7 @@
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "0.0%"
           }
         ]
       }
@@ -10508,13 +10508,13 @@
           "code": "GF",
           "std": "112.8",
           "dt_mc": "65",
-          "dt_proc": "65",
-          "loss": "47.8",
-          "pct_loss": "10.0%",
+          "dt_proc": "",
+          "loss": "112.8",
+          "pct_loss": "23.5%",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "42.4%"
+          "eff": ""
         },
         {
           "key": "20261109-NS-Delta 10-PLAN",
@@ -11062,13 +11062,13 @@
       "code": "GF",
       "std": "112.8",
       "dt_mc": "65",
-      "dt_proc": "65",
-      "loss": "47.8",
-      "pct_loss": "10.0%",
+      "dt_proc": "",
+      "loss": "112.8",
+      "pct_loss": "23.5%",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "42.4%"
+      "eff": ""
     },
     {
       "key": "20261109-NS-Delta 10-PLAN",
