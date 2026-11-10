@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T07:14:05.015Z",
+  "updatedAt": "2026-11-10T07:18:55.017Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -577,7 +577,30 @@
         ]
       },
       "AS": {
-        "cm3": [],
+        "cm3": [
+          {
+            "key": "20261110-AS-DL-PLAN",
+            "date": "11/10/2026",
+            "shift": "AS",
+            "cluster": "CM3",
+            "group": "NL",
+            "mc": "DL",
+            "jenis": "GF",
+            "plan": "07:12",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "37.1",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "37.1",
+            "pct_loss": "7.7%",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": "100.0%"
+          }
+        ],
         "cm6": []
       },
       "NS": {
@@ -11413,7 +11436,30 @@
       ]
     },
     "AS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20261110-AS-DL-PLAN",
+          "date": "11/10/2026",
+          "shift": "AS",
+          "cluster": "CM3",
+          "group": "NL",
+          "mc": "DL",
+          "jenis": "GF",
+          "plan": "07:12",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "37.1",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "37.1",
+          "pct_loss": "7.7%",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": "100.0%"
+        }
+      ],
       "cm6": []
     },
     "NS": {
@@ -12479,6 +12525,28 @@
       "ket": "",
       "status": "Plan",
       "eff": "0.0%"
+    },
+    {
+      "key": "20261110-AS-DL-PLAN",
+      "date": "11/10/2026",
+      "shift": "AS",
+      "cluster": "CM3",
+      "group": "NL",
+      "mc": "DL",
+      "jenis": "GF",
+      "plan": "07:12",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "37.1",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "37.1",
+      "pct_loss": "7.7%",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": "100.0%"
     },
     {
       "key": "20261110-NS-Heli 1-REP-0219",
