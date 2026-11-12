@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T20:45:13.108Z",
+  "updatedAt": "2026-11-12T20:50:10.034Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -475,6 +475,28 @@
             "eff": ""
           },
           {
+            "key": "20261113-NS-L 12-PLAN",
+            "date": "11/13/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 12",
+            "jenis": "GF",
+            "plan": "03:15",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "35.8",
+            "pct_loss": "7.5%",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": "100.0%"
+          },
+          {
             "key": "20261113-NS-L 7-PLAN",
             "date": "11/13/2026",
             "shift": "NS",
@@ -489,12 +511,12 @@
             "std": "35.8",
             "dt_mc": "",
             "dt_proc": "",
-            "loss": "35.8",
-            "pct_loss": "7.5%",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "100.0%"
+            "eff": "0.0%"
           },
           {
             "key": "20261113-NS-L 4-PLAN",
@@ -577,12 +599,12 @@
             "std": "35.8",
             "dt_mc": "",
             "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "loss": "35.8",
+            "pct_loss": "7.5%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "0.0%"
+            "eff": "100.0%"
           }
         ]
       }
@@ -11465,6 +11487,28 @@
           "eff": ""
         },
         {
+          "key": "20261113-NS-L 12-PLAN",
+          "date": "11/13/2026",
+          "shift": "NS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 12",
+          "jenis": "GF",
+          "plan": "03:15",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "35.8",
+          "pct_loss": "7.5%",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": "100.0%"
+        },
+        {
           "key": "20261113-NS-L 7-PLAN",
           "date": "11/13/2026",
           "shift": "NS",
@@ -11479,12 +11523,12 @@
           "std": "35.8",
           "dt_mc": "",
           "dt_proc": "",
-          "loss": "35.8",
-          "pct_loss": "7.5%",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "100.0%"
+          "eff": "0.0%"
         },
         {
           "key": "20261113-NS-L 4-PLAN",
@@ -11567,12 +11611,12 @@
           "std": "35.8",
           "dt_mc": "",
           "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
+          "loss": "35.8",
+          "pct_loss": "7.5%",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "0.0%"
+          "eff": "100.0%"
         }
       ]
     }
@@ -12019,6 +12063,28 @@
       "eff": ""
     },
     {
+      "key": "20261113-NS-L 12-PLAN",
+      "date": "11/13/2026",
+      "shift": "NS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 12",
+      "jenis": "GF",
+      "plan": "03:15",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "35.8",
+      "pct_loss": "7.5%",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": "100.0%"
+    },
+    {
       "key": "20261113-NS-L 7-PLAN",
       "date": "11/13/2026",
       "shift": "NS",
@@ -12033,12 +12099,12 @@
       "std": "35.8",
       "dt_mc": "",
       "dt_proc": "",
-      "loss": "35.8",
-      "pct_loss": "7.5%",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "100.0%"
+      "eff": "0.0%"
     },
     {
       "key": "20261113-NS-L 4-PLAN",
@@ -12121,12 +12187,12 @@
       "std": "35.8",
       "dt_mc": "",
       "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
+      "loss": "35.8",
+      "pct_loss": "7.5%",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "0.0%"
+      "eff": "100.0%"
     }
   ]
 }
