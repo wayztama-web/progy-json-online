@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T07:12:00.124Z",
+  "updatedAt": "2026-11-12T07:16:56.378Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -599,7 +599,30 @@
         ]
       },
       "AS": {
-        "cm3": [],
+        "cm3": [
+          {
+            "key": "20261112-AS-DT 8-PLAN",
+            "date": "11/12/2026",
+            "shift": "AS",
+            "cluster": "CM3",
+            "group": "DT New",
+            "mc": "DT 8",
+            "jenis": "D",
+            "plan": "19:10",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "13.5",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "13.5",
+            "pct_loss": "2.8%",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": "100.0%"
+          }
+        ],
         "cm6": [
           {
             "key": "20261112-AS-L 3-PLAN",
@@ -11986,7 +12009,30 @@
       ]
     },
     "AS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20261112-AS-DT 8-PLAN",
+          "date": "11/12/2026",
+          "shift": "AS",
+          "cluster": "CM3",
+          "group": "DT New",
+          "mc": "DT 8",
+          "jenis": "D",
+          "plan": "19:10",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "13.5",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "13.5",
+          "pct_loss": "2.8%",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": "100.0%"
+        }
+      ],
       "cm6": [
         {
           "key": "20261112-AS-L 3-PLAN",
@@ -13269,6 +13315,28 @@
       "dt_proc": "",
       "loss": "35.8",
       "pct_loss": "7.5%",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": "100.0%"
+    },
+    {
+      "key": "20261112-AS-DT 8-PLAN",
+      "date": "11/12/2026",
+      "shift": "AS",
+      "cluster": "CM3",
+      "group": "DT New",
+      "mc": "DT 8",
+      "jenis": "D",
+      "plan": "19:10",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "13.5",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "13.5",
+      "pct_loss": "2.8%",
       "overlap": "",
       "ket": "",
       "status": "Plan",
