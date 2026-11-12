@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T22:55:51.233Z",
+  "updatedAt": "2026-11-12T23:00:52.324Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -11115,10 +11115,10 @@
     }
   },
   "dateSelector": "11/13/2026",
-  "shiftSelector": "NS",
+  "shiftSelector": "MS",
   "productionDateSerial": 46339,
   "productionDateText": "11/13/2026",
-  "shiftSet": "NS",
+  "shiftSet": "MS",
   "shifts": {
     "MS": {
       "cm3": [
