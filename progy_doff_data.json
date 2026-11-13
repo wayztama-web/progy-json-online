@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T11:26:43.209Z",
+  "updatedAt": "2026-11-13T11:31:45.605Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -635,7 +635,7 @@
             "dt_proc": "445",
             "loss": "-409.2",
             "pct_loss": "-85.3%",
-            "overlap": "",
+            "overlap": "475",
             "ket": "",
             "status": "Plan",
             "eff": "-1143.5%"
@@ -663,6 +663,28 @@
             "eff": "-305.2%"
           },
           {
+            "key": "20261113-MS-L 10-PLAN",
+            "date": "11/13/2026",
+            "shift": "MS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 10",
+            "jenis": "GF",
+            "plan": "09:20",
+            "doff": "10:50",
+            "start": "14:00",
+            "code": "L",
+            "std": "35.78571429",
+            "dt_mc": "190",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          },
+          {
             "key": "20261113-MS-L 1-PLAN",
             "date": "11/13/2026",
             "shift": "MS",
@@ -683,28 +705,6 @@
             "ket": "",
             "status": "Plan",
             "eff": ""
-          },
-          {
-            "key": "20261113-MS-L 10-PLAN",
-            "date": "11/13/2026",
-            "shift": "MS",
-            "cluster": "CM6",
-            "group": "TBR L",
-            "mc": "L 10",
-            "jenis": "GF",
-            "plan": "09:20",
-            "doff": "10:50",
-            "start": "",
-            "code": "GF",
-            "std": "35.78571429",
-            "dt_mc": "790",
-            "dt_proc": "790",
-            "loss": "-754.2",
-            "pct_loss": "-157.1%",
-            "overlap": "",
-            "ket": "",
-            "status": "Plan",
-            "eff": "-2107.6%"
           }
         ]
       },
@@ -1175,6 +1175,28 @@
             "eff": "-417.0%"
           },
           {
+            "key": "20261113-AS-L 10-PLAN",
+            "date": "11/13/2026",
+            "shift": "AS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 10",
+            "jenis": "GF",
+            "plan": "14:00",
+            "doff": "14:00",
+            "start": "18:25",
+            "code": "L",
+            "std": "35.8",
+            "dt_mc": "265",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "165",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          },
+          {
             "key": "20261113-AS-L 1-PLAN",
             "date": "11/13/2026",
             "shift": "AS",
@@ -1277,12 +1299,12 @@
             "std": "35.8",
             "dt_mc": "",
             "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "loss": "35.8",
+            "pct_loss": "7.5%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "0.0%"
+            "eff": "100.0%"
           }
         ]
       },
@@ -12925,7 +12947,7 @@
           "dt_proc": "445",
           "loss": "-409.2",
           "pct_loss": "-85.3%",
-          "overlap": "",
+          "overlap": "475",
           "ket": "",
           "status": "Plan",
           "eff": "-1143.5%"
@@ -12953,6 +12975,28 @@
           "eff": "-305.2%"
         },
         {
+          "key": "20261113-MS-L 10-PLAN",
+          "date": "11/13/2026",
+          "shift": "MS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 10",
+          "jenis": "GF",
+          "plan": "09:20",
+          "doff": "10:50",
+          "start": "14:00",
+          "code": "L",
+          "std": "35.78571429",
+          "dt_mc": "190",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        },
+        {
           "key": "20261113-MS-L 1-PLAN",
           "date": "11/13/2026",
           "shift": "MS",
@@ -12973,28 +13017,6 @@
           "ket": "",
           "status": "Plan",
           "eff": ""
-        },
-        {
-          "key": "20261113-MS-L 10-PLAN",
-          "date": "11/13/2026",
-          "shift": "MS",
-          "cluster": "CM6",
-          "group": "TBR L",
-          "mc": "L 10",
-          "jenis": "GF",
-          "plan": "09:20",
-          "doff": "10:50",
-          "start": "",
-          "code": "GF",
-          "std": "35.78571429",
-          "dt_mc": "790",
-          "dt_proc": "790",
-          "loss": "-754.2",
-          "pct_loss": "-157.1%",
-          "overlap": "",
-          "ket": "",
-          "status": "Plan",
-          "eff": "-2107.6%"
         }
       ]
     },
@@ -13465,6 +13487,28 @@
           "eff": "-417.0%"
         },
         {
+          "key": "20261113-AS-L 10-PLAN",
+          "date": "11/13/2026",
+          "shift": "AS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 10",
+          "jenis": "GF",
+          "plan": "14:00",
+          "doff": "14:00",
+          "start": "18:25",
+          "code": "L",
+          "std": "35.8",
+          "dt_mc": "265",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "165",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        },
+        {
           "key": "20261113-AS-L 1-PLAN",
           "date": "11/13/2026",
           "shift": "AS",
@@ -13567,12 +13611,12 @@
           "std": "35.8",
           "dt_mc": "",
           "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
+          "loss": "35.8",
+          "pct_loss": "7.5%",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "0.0%"
+          "eff": "100.0%"
         }
       ]
     },
@@ -14789,7 +14833,7 @@
       "dt_proc": "445",
       "loss": "-409.2",
       "pct_loss": "-85.3%",
-      "overlap": "",
+      "overlap": "475",
       "ket": "",
       "status": "Plan",
       "eff": "-1143.5%"
@@ -14817,6 +14861,28 @@
       "eff": "-305.2%"
     },
     {
+      "key": "20261113-MS-L 10-PLAN",
+      "date": "11/13/2026",
+      "shift": "MS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 10",
+      "jenis": "GF",
+      "plan": "09:20",
+      "doff": "10:50",
+      "start": "14:00",
+      "code": "L",
+      "std": "35.78571429",
+      "dt_mc": "190",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
       "key": "20261113-MS-L 1-PLAN",
       "date": "11/13/2026",
       "shift": "MS",
@@ -14837,28 +14903,6 @@
       "ket": "",
       "status": "Plan",
       "eff": ""
-    },
-    {
-      "key": "20261113-MS-L 10-PLAN",
-      "date": "11/13/2026",
-      "shift": "MS",
-      "cluster": "CM6",
-      "group": "TBR L",
-      "mc": "L 10",
-      "jenis": "GF",
-      "plan": "09:20",
-      "doff": "10:50",
-      "start": "",
-      "code": "GF",
-      "std": "35.78571429",
-      "dt_mc": "790",
-      "dt_proc": "790",
-      "loss": "-754.2",
-      "pct_loss": "-157.1%",
-      "overlap": "",
-      "ket": "",
-      "status": "Plan",
-      "eff": "-2107.6%"
     },
     {
       "key": "20261113-AS-Heli 7-PLAN",
@@ -15323,6 +15367,28 @@
       "eff": "-417.0%"
     },
     {
+      "key": "20261113-AS-L 10-PLAN",
+      "date": "11/13/2026",
+      "shift": "AS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 10",
+      "jenis": "GF",
+      "plan": "14:00",
+      "doff": "14:00",
+      "start": "18:25",
+      "code": "L",
+      "std": "35.8",
+      "dt_mc": "265",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "165",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
       "key": "20261113-AS-L 1-PLAN",
       "date": "11/13/2026",
       "shift": "AS",
@@ -15425,12 +15491,12 @@
       "std": "35.8",
       "dt_mc": "",
       "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
+      "loss": "35.8",
+      "pct_loss": "7.5%",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "0.0%"
+      "eff": "100.0%"
     },
     {
       "key": "20261113-NS-Heli 8-REP-0100",
