@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-14T15:01:16.215Z",
-  "source": "Eko BY",
+  "updatedAt": "2026-11-14T15:06:14.203Z",
+  "source": "Hizriyan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
-  "si": "Eko BY",
+  "si": "Hizriyan",
   "siCell": "BV5",
-  "siValue": "Eko BY",
+  "siValue": "Hizriyan",
   "siReadMode": "BV5 read before date and shift history update",
   "historyDays": 7,
   "latestDate": "2026-11-15",
@@ -29,7 +29,30 @@
         "cm6": []
       },
       "NS": {
-        "cm3": [],
+        "cm3": [
+          {
+            "key": "20261115-NS-DT 8-PLAN",
+            "date": "11/15/2026",
+            "shift": "NS",
+            "cluster": "CM3",
+            "group": "DT New",
+            "mc": "DT 8",
+            "jenis": "GF",
+            "plan": "04:50",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "82.7",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "82.7",
+            "pct_loss": "17.2%",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": "100.0%"
+          }
+        ],
         "cm6": []
       }
     },
@@ -10861,9 +10884,55 @@
       "cm6": []
     },
     "NS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20261115-NS-DT 8-PLAN",
+          "date": "11/15/2026",
+          "shift": "NS",
+          "cluster": "CM3",
+          "group": "DT New",
+          "mc": "DT 8",
+          "jenis": "GF",
+          "plan": "04:50",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "82.7",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "82.7",
+          "pct_loss": "17.2%",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": "100.0%"
+        }
+      ],
       "cm6": []
     }
   },
-  "rows": []
+  "rows": [
+    {
+      "key": "20261115-NS-DT 8-PLAN",
+      "date": "11/15/2026",
+      "shift": "NS",
+      "cluster": "CM3",
+      "group": "DT New",
+      "mc": "DT 8",
+      "jenis": "GF",
+      "plan": "04:50",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "82.7",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "82.7",
+      "pct_loss": "17.2%",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": "100.0%"
+    }
+  ]
 }
