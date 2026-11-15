@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T00:31:43.551Z",
+  "updatedAt": "2026-11-15T00:36:44.431Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -21,7 +21,30 @@
   "dates": {
     "2026-11-15": {
       "MS": {
-        "cm3": [],
+        "cm3": [
+          {
+            "key": "20261115-MS-DT 14-PLAN",
+            "date": "11/15/2026",
+            "shift": "MS",
+            "cluster": "CM3",
+            "group": "DT New",
+            "mc": "DT 14",
+            "jenis": "GF",
+            "plan": "06:00",
+            "doff": "06:00",
+            "start": "07:25",
+            "code": "L",
+            "std": "82.7",
+            "dt_mc": "85",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          }
+        ],
         "cm6": [
           {
             "key": "20261115-MS-Delta 10-PLAN",
@@ -494,6 +517,28 @@
             "eff": "45.6%"
           },
           {
+            "key": "20261115-NS-DT 14-PLAN",
+            "date": "11/15/2026",
+            "shift": "NS",
+            "cluster": "CM3",
+            "group": "DT New",
+            "mc": "DT 14",
+            "jenis": "GF",
+            "plan": "03:25",
+            "doff": "05:25",
+            "start": "06:00",
+            "code": "L",
+            "std": "82.7",
+            "dt_mc": "35",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "1110",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          },
+          {
             "key": "20261115-NS-DT 13-PLAN",
             "date": "11/15/2026",
             "shift": "NS",
@@ -514,28 +559,6 @@
             "ket": "",
             "status": "Plan",
             "eff": ""
-          },
-          {
-            "key": "20261115-NS-DT 14-PLAN",
-            "date": "11/15/2026",
-            "shift": "NS",
-            "cluster": "CM3",
-            "group": "DT New",
-            "mc": "DT 14",
-            "jenis": "GF",
-            "plan": "03:25",
-            "doff": "05:25",
-            "start": "",
-            "code": "GF",
-            "std": "82.7",
-            "dt_mc": "-325",
-            "dt_proc": "1115",
-            "loss": "-1032.3",
-            "pct_loss": "-215.1%",
-            "overlap": "1110",
-            "ket": "",
-            "status": "Plan",
-            "eff": "-1247.8%"
           }
         ],
         "cm6": [
@@ -11692,7 +11715,30 @@
   "shiftSet": "MS",
   "shifts": {
     "MS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20261115-MS-DT 14-PLAN",
+          "date": "11/15/2026",
+          "shift": "MS",
+          "cluster": "CM3",
+          "group": "DT New",
+          "mc": "DT 14",
+          "jenis": "GF",
+          "plan": "06:00",
+          "doff": "06:00",
+          "start": "07:25",
+          "code": "L",
+          "std": "82.7",
+          "dt_mc": "85",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        }
+      ],
       "cm6": [
         {
           "key": "20261115-MS-Delta 10-PLAN",
@@ -12165,6 +12211,28 @@
           "eff": "45.6%"
         },
         {
+          "key": "20261115-NS-DT 14-PLAN",
+          "date": "11/15/2026",
+          "shift": "NS",
+          "cluster": "CM3",
+          "group": "DT New",
+          "mc": "DT 14",
+          "jenis": "GF",
+          "plan": "03:25",
+          "doff": "05:25",
+          "start": "06:00",
+          "code": "L",
+          "std": "82.7",
+          "dt_mc": "35",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "1110",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        },
+        {
           "key": "20261115-NS-DT 13-PLAN",
           "date": "11/15/2026",
           "shift": "NS",
@@ -12185,28 +12253,6 @@
           "ket": "",
           "status": "Plan",
           "eff": ""
-        },
-        {
-          "key": "20261115-NS-DT 14-PLAN",
-          "date": "11/15/2026",
-          "shift": "NS",
-          "cluster": "CM3",
-          "group": "DT New",
-          "mc": "DT 14",
-          "jenis": "GF",
-          "plan": "03:25",
-          "doff": "05:25",
-          "start": "",
-          "code": "GF",
-          "std": "82.7",
-          "dt_mc": "-325",
-          "dt_proc": "1115",
-          "loss": "-1032.3",
-          "pct_loss": "-215.1%",
-          "overlap": "1110",
-          "ket": "",
-          "status": "Plan",
-          "eff": "-1247.8%"
         }
       ],
       "cm6": [
@@ -12544,6 +12590,28 @@
     }
   },
   "rows": [
+    {
+      "key": "20261115-MS-DT 14-PLAN",
+      "date": "11/15/2026",
+      "shift": "MS",
+      "cluster": "CM3",
+      "group": "DT New",
+      "mc": "DT 14",
+      "jenis": "GF",
+      "plan": "06:00",
+      "doff": "06:00",
+      "start": "07:25",
+      "code": "L",
+      "std": "82.7",
+      "dt_mc": "85",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
     {
       "key": "20261115-MS-Delta 10-PLAN",
       "date": "11/15/2026",
@@ -13007,6 +13075,28 @@
       "eff": "45.6%"
     },
     {
+      "key": "20261115-NS-DT 14-PLAN",
+      "date": "11/15/2026",
+      "shift": "NS",
+      "cluster": "CM3",
+      "group": "DT New",
+      "mc": "DT 14",
+      "jenis": "GF",
+      "plan": "03:25",
+      "doff": "05:25",
+      "start": "06:00",
+      "code": "L",
+      "std": "82.7",
+      "dt_mc": "35",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "1110",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
       "key": "20261115-NS-DT 13-PLAN",
       "date": "11/15/2026",
       "shift": "NS",
@@ -13027,28 +13117,6 @@
       "ket": "",
       "status": "Plan",
       "eff": ""
-    },
-    {
-      "key": "20261115-NS-DT 14-PLAN",
-      "date": "11/15/2026",
-      "shift": "NS",
-      "cluster": "CM3",
-      "group": "DT New",
-      "mc": "DT 14",
-      "jenis": "GF",
-      "plan": "03:25",
-      "doff": "05:25",
-      "start": "",
-      "code": "GF",
-      "std": "82.7",
-      "dt_mc": "-325",
-      "dt_proc": "1115",
-      "loss": "-1032.3",
-      "pct_loss": "-215.1%",
-      "overlap": "1110",
-      "ket": "",
-      "status": "Plan",
-      "eff": "-1247.8%"
     },
     {
       "key": "20261115-NS-Delta 12-PLAN",
