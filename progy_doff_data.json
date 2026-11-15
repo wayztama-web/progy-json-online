@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T11:38:05.376Z",
+  "updatedAt": "2026-11-15T11:43:11.868Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1129,6 +1129,28 @@
             "ket": "",
             "status": "Plan",
             "eff": "-1478.8%"
+          },
+          {
+            "key": "20261115-AS-L 7-GF-1730",
+            "date": "11/15/2026",
+            "shift": "AS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 7",
+            "jenis": "MTN",
+            "plan": "",
+            "doff": "17:30",
+            "start": "",
+            "code": "GF",
+            "std": "35.8",
+            "dt_mc": "390",
+            "dt_proc": "390",
+            "loss": "-354.2",
+            "pct_loss": "-73.8%",
+            "overlap": "",
+            "ket": "Text input",
+            "status": "0",
+            "eff": "-989.8%"
           }
         ]
       },
@@ -13507,6 +13529,28 @@
           "ket": "",
           "status": "Plan",
           "eff": "-1478.8%"
+        },
+        {
+          "key": "20261115-AS-L 7-GF-1730",
+          "date": "11/15/2026",
+          "shift": "AS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 7",
+          "jenis": "MTN",
+          "plan": "",
+          "doff": "17:30",
+          "start": "",
+          "code": "GF",
+          "std": "35.8",
+          "dt_mc": "390",
+          "dt_proc": "390",
+          "loss": "-354.2",
+          "pct_loss": "-73.8%",
+          "overlap": "",
+          "ket": "Text input",
+          "status": "0",
+          "eff": "-989.8%"
         }
       ]
     },
@@ -15057,6 +15101,28 @@
       "ket": "",
       "status": "Plan",
       "eff": "-1478.8%"
+    },
+    {
+      "key": "20261115-AS-L 7-GF-1730",
+      "date": "11/15/2026",
+      "shift": "AS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 7",
+      "jenis": "MTN",
+      "plan": "",
+      "doff": "17:30",
+      "start": "",
+      "code": "GF",
+      "std": "35.8",
+      "dt_mc": "390",
+      "dt_proc": "390",
+      "loss": "-354.2",
+      "pct_loss": "-73.8%",
+      "overlap": "",
+      "ket": "Text input",
+      "status": "0",
+      "eff": "-989.8%"
     },
     {
       "key": "20261115-NS-DT 13-PLAN",
