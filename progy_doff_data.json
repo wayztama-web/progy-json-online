@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T06:24:02.764Z",
+  "updatedAt": "2026-11-16T06:29:00.490Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -23,28 +23,6 @@
       "MS": {
         "cm3": [
           {
-            "key": "20261116-MS-Heli 4-PLAN",
-            "date": "11/16/2026",
-            "shift": "MS",
-            "cluster": "CM3",
-            "group": "Alidra Heli",
-            "mc": "Heli 4",
-            "jenis": "UNP",
-            "plan": "06:00",
-            "doff": "06:00",
-            "start": "11:50",
-            "code": "L",
-            "std": "17.8",
-            "dt_mc": "350",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
-            "overlap": "",
-            "ket": "",
-            "status": "0",
-            "eff": ""
-          },
-          {
             "key": "20261116-MS-DT 8-PLAN",
             "date": "11/16/2026",
             "shift": "MS",
@@ -61,7 +39,7 @@
             "dt_proc": "",
             "loss": "",
             "pct_loss": "",
-            "overlap": "350",
+            "overlap": "",
             "ket": "",
             "status": "Plan",
             "eff": ""
@@ -11784,28 +11762,6 @@
     "MS": {
       "cm3": [
         {
-          "key": "20261116-MS-Heli 4-PLAN",
-          "date": "11/16/2026",
-          "shift": "MS",
-          "cluster": "CM3",
-          "group": "Alidra Heli",
-          "mc": "Heli 4",
-          "jenis": "UNP",
-          "plan": "06:00",
-          "doff": "06:00",
-          "start": "11:50",
-          "code": "L",
-          "std": "17.8",
-          "dt_mc": "350",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
-          "overlap": "",
-          "ket": "",
-          "status": "0",
-          "eff": ""
-        },
-        {
           "key": "20261116-MS-DT 8-PLAN",
           "date": "11/16/2026",
           "shift": "MS",
@@ -11822,7 +11778,7 @@
           "dt_proc": "",
           "loss": "",
           "pct_loss": "",
-          "overlap": "350",
+          "overlap": "",
           "ket": "",
           "status": "Plan",
           "eff": ""
@@ -12879,28 +12835,6 @@
   },
   "rows": [
     {
-      "key": "20261116-MS-Heli 4-PLAN",
-      "date": "11/16/2026",
-      "shift": "MS",
-      "cluster": "CM3",
-      "group": "Alidra Heli",
-      "mc": "Heli 4",
-      "jenis": "UNP",
-      "plan": "06:00",
-      "doff": "06:00",
-      "start": "11:50",
-      "code": "L",
-      "std": "17.8",
-      "dt_mc": "350",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
-      "overlap": "",
-      "ket": "",
-      "status": "0",
-      "eff": ""
-    },
-    {
       "key": "20261116-MS-DT 8-PLAN",
       "date": "11/16/2026",
       "shift": "MS",
@@ -12917,7 +12851,7 @@
       "dt_proc": "",
       "loss": "",
       "pct_loss": "",
-      "overlap": "350",
+      "overlap": "",
       "ket": "",
       "status": "Plan",
       "eff": ""
