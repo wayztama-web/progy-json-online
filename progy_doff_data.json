@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T04:19:47.512Z",
+  "updatedAt": "2026-11-17T04:24:49.976Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1504,17 +1504,17 @@
             "jenis": "GF",
             "plan": "09:20",
             "doff": "09:00",
-            "start": "11:00",
+            "start": "11:20",
             "code": "GF",
             "std": "35.8",
-            "dt_mc": "120",
-            "dt_proc": "120",
-            "loss": "-84.2",
-            "pct_loss": "-17.5%",
+            "dt_mc": "140",
+            "dt_proc": "140",
+            "loss": "-104.2",
+            "pct_loss": "-21.7%",
             "overlap": "25",
             "ket": "",
             "status": "Plan",
-            "eff": "-235.3%"
+            "eff": "-291.2%"
           },
           {
             "key": "20261116-MS-L 7-PLAN",
