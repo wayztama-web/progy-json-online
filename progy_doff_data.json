@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T09:16:07.196Z",
+  "updatedAt": "2026-11-17T09:20:49.653Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -61,7 +61,7 @@
             "dt_proc": "155",
             "loss": "-137.2",
             "pct_loss": "-28.6%",
-            "overlap": "",
+            "overlap": "475",
             "ket": "",
             "status": "Plan",
             "eff": "-771.9%"
@@ -98,17 +98,17 @@
             "jenis": "GF",
             "plan": "08:10",
             "doff": "08:15",
-            "start": "",
-            "code": "GF",
+            "start": "14:00",
+            "code": "L",
             "std": "97.3",
-            "dt_mc": "-495",
-            "dt_proc": "945",
-            "loss": "-847.7",
-            "pct_loss": "-176.6%",
+            "dt_mc": "345",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "-870.9%"
+            "eff": ""
           },
           {
             "key": "20261117-MS-DT 12-PLAN",
@@ -579,6 +579,28 @@
       "AS": {
         "cm3": [
           {
+            "key": "20261117-AS-Heli 8-PLAN",
+            "date": "11/17/2026",
+            "shift": "AS",
+            "cluster": "CM3",
+            "group": "Alidra Heli",
+            "mc": "Heli 8",
+            "jenis": "GF",
+            "plan": "14:00",
+            "doff": "14:00",
+            "start": "15:46",
+            "code": "L",
+            "std": "97.3",
+            "dt_mc": "106",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          },
+          {
             "key": "20261117-AS-Heli 5-PLAN",
             "date": "11/17/2026",
             "shift": "AS",
@@ -747,12 +769,12 @@
             "std": "82.7",
             "dt_mc": "",
             "dt_proc": "",
-            "loss": "82.7",
-            "pct_loss": "17.2%",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "100.0%"
+            "eff": "0.0%"
           }
         ],
         "cm6": [
@@ -12285,7 +12307,7 @@
           "dt_proc": "155",
           "loss": "-137.2",
           "pct_loss": "-28.6%",
-          "overlap": "",
+          "overlap": "475",
           "ket": "",
           "status": "Plan",
           "eff": "-771.9%"
@@ -12322,17 +12344,17 @@
           "jenis": "GF",
           "plan": "08:10",
           "doff": "08:15",
-          "start": "",
-          "code": "GF",
+          "start": "14:00",
+          "code": "L",
           "std": "97.3",
-          "dt_mc": "-495",
-          "dt_proc": "945",
-          "loss": "-847.7",
-          "pct_loss": "-176.6%",
+          "dt_mc": "345",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "-870.9%"
+          "eff": ""
         },
         {
           "key": "20261117-MS-DT 12-PLAN",
@@ -12803,6 +12825,28 @@
     "AS": {
       "cm3": [
         {
+          "key": "20261117-AS-Heli 8-PLAN",
+          "date": "11/17/2026",
+          "shift": "AS",
+          "cluster": "CM3",
+          "group": "Alidra Heli",
+          "mc": "Heli 8",
+          "jenis": "GF",
+          "plan": "14:00",
+          "doff": "14:00",
+          "start": "15:46",
+          "code": "L",
+          "std": "97.3",
+          "dt_mc": "106",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        },
+        {
           "key": "20261117-AS-Heli 5-PLAN",
           "date": "11/17/2026",
           "shift": "AS",
@@ -12971,12 +13015,12 @@
           "std": "82.7",
           "dt_mc": "",
           "dt_proc": "",
-          "loss": "82.7",
-          "pct_loss": "17.2%",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "100.0%"
+          "eff": "0.0%"
         }
       ],
       "cm6": [
@@ -13843,7 +13887,7 @@
       "dt_proc": "155",
       "loss": "-137.2",
       "pct_loss": "-28.6%",
-      "overlap": "",
+      "overlap": "475",
       "ket": "",
       "status": "Plan",
       "eff": "-771.9%"
@@ -13880,17 +13924,17 @@
       "jenis": "GF",
       "plan": "08:10",
       "doff": "08:15",
-      "start": "",
-      "code": "GF",
+      "start": "14:00",
+      "code": "L",
       "std": "97.3",
-      "dt_mc": "-495",
-      "dt_proc": "945",
-      "loss": "-847.7",
-      "pct_loss": "-176.6%",
+      "dt_mc": "345",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "-870.9%"
+      "eff": ""
     },
     {
       "key": "20261117-MS-DT 12-PLAN",
@@ -14355,6 +14399,28 @@
       "eff": "0.0%"
     },
     {
+      "key": "20261117-AS-Heli 8-PLAN",
+      "date": "11/17/2026",
+      "shift": "AS",
+      "cluster": "CM3",
+      "group": "Alidra Heli",
+      "mc": "Heli 8",
+      "jenis": "GF",
+      "plan": "14:00",
+      "doff": "14:00",
+      "start": "15:46",
+      "code": "L",
+      "std": "97.3",
+      "dt_mc": "106",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
       "key": "20261117-AS-Heli 5-PLAN",
       "date": "11/17/2026",
       "shift": "AS",
@@ -14523,12 +14589,12 @@
       "std": "82.7",
       "dt_mc": "",
       "dt_proc": "",
-      "loss": "82.7",
-      "pct_loss": "17.2%",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "100.0%"
+      "eff": "0.0%"
     },
     {
       "key": "20261117-AS-Delta 10-PLAN",
