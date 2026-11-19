@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T15:56:42.635Z",
+  "updatedAt": "2026-11-19T16:01:44.714Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -29,7 +29,30 @@
         "cm6": []
       },
       "NS": {
-        "cm3": [],
+        "cm3": [
+          {
+            "key": "20261120-NS-DT 8-PLAN",
+            "date": "11/20/2026",
+            "shift": "NS",
+            "cluster": "CM3",
+            "group": "DT New",
+            "mc": "DT 8",
+            "jenis": "GF",
+            "plan": "03:40",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "82.7",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "82.7",
+            "pct_loss": "17.2%",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": "100.0%"
+          }
+        ],
         "cm6": [
           {
             "key": "20261120-NS-DT 4-PLAN",
@@ -10070,7 +10093,30 @@
       "cm6": []
     },
     "NS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20261120-NS-DT 8-PLAN",
+          "date": "11/20/2026",
+          "shift": "NS",
+          "cluster": "CM3",
+          "group": "DT New",
+          "mc": "DT 8",
+          "jenis": "GF",
+          "plan": "03:40",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "82.7",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "82.7",
+          "pct_loss": "17.2%",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": "100.0%"
+        }
+      ],
       "cm6": [
         {
           "key": "20261120-NS-DT 4-PLAN",
@@ -10186,6 +10232,28 @@
     }
   },
   "rows": [
+    {
+      "key": "20261120-NS-DT 8-PLAN",
+      "date": "11/20/2026",
+      "shift": "NS",
+      "cluster": "CM3",
+      "group": "DT New",
+      "mc": "DT 8",
+      "jenis": "GF",
+      "plan": "03:40",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "82.7",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "82.7",
+      "pct_loss": "17.2%",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": "100.0%"
+    },
     {
       "key": "20261120-NS-DT 4-PLAN",
       "date": "11/20/2026",
