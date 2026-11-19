@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T20:07:58.711Z",
+  "updatedAt": "2026-11-19T20:12:49.631Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1821,18 +1821,18 @@
             "mc": "L 5",
             "jenis": "GF",
             "plan": "22:00",
-            "doff": "22:00",
-            "start": "06:00",
-            "code": "L",
+            "doff": "02:15",
+            "start": "03:00",
+            "code": "D",
             "std": "35.8",
-            "dt_mc": "480",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "dt_mc": "45",
+            "dt_proc": "45",
+            "loss": "-9.2",
+            "pct_loss": "-1.9%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "-25.7%"
           },
           {
             "key": "20261119-NS-L 8-PLAN",
