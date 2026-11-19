@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T08:45:12.451Z",
+  "updatedAt": "2026-11-19T08:50:10.106Z",
   "source": "Wahyu S",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1041,6 +1041,28 @@
             "ket": "",
             "status": "Plan",
             "eff": "100.0%"
+          },
+          {
+            "key": "20261119-AS-L 14-PLAN",
+            "date": "11/19/2026",
+            "shift": "AS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 14",
+            "jenis": "GF",
+            "plan": "19:00",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": "0.0%"
           }
         ]
       },
@@ -12737,6 +12759,28 @@
           "ket": "",
           "status": "Plan",
           "eff": "100.0%"
+        },
+        {
+          "key": "20261119-AS-L 14-PLAN",
+          "date": "11/19/2026",
+          "shift": "AS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 14",
+          "jenis": "GF",
+          "plan": "19:00",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "35.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": "0.0%"
         }
       ]
     },
@@ -14243,6 +14287,28 @@
       "ket": "",
       "status": "Plan",
       "eff": "100.0%"
+    },
+    {
+      "key": "20261119-AS-L 14-PLAN",
+      "date": "11/19/2026",
+      "shift": "AS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 14",
+      "jenis": "GF",
+      "plan": "19:00",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "35.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": "0.0%"
     },
     {
       "key": "20261119-NS-Heli 4-PLAN",
