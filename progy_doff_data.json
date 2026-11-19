@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T07:00:04.130Z",
+  "updatedAt": "2026-11-19T07:05:04.424Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -489,7 +489,30 @@
         ]
       },
       "AS": {
-        "cm3": [],
+        "cm3": [
+          {
+            "key": "20261119-AS-Heli 3-PLAN",
+            "date": "11/19/2026",
+            "shift": "AS",
+            "cluster": "CM3",
+            "group": "Alidra Heli",
+            "mc": "Heli 3",
+            "jenis": "GF",
+            "plan": "14:00",
+            "doff": "",
+            "start": "",
+            "code": "SCR",
+            "std": "97.3",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          }
+        ],
         "cm6": []
       },
       "NS": {
@@ -11159,10 +11182,10 @@
     }
   },
   "dateSelector": "11/19/2026",
-  "shiftSelector": "MS",
+  "shiftSelector": "AS",
   "productionDateSerial": 46345,
   "productionDateText": "11/19/2026",
-  "shiftSet": "MS",
+  "shiftSet": "AS",
   "shifts": {
     "MS": {
       "cm3": [
@@ -11633,7 +11656,30 @@
       ]
     },
     "AS": {
-      "cm3": [],
+      "cm3": [
+        {
+          "key": "20261119-AS-Heli 3-PLAN",
+          "date": "11/19/2026",
+          "shift": "AS",
+          "cluster": "CM3",
+          "group": "Alidra Heli",
+          "mc": "Heli 3",
+          "jenis": "GF",
+          "plan": "14:00",
+          "doff": "",
+          "start": "",
+          "code": "SCR",
+          "std": "97.3",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        }
+      ],
       "cm6": []
     },
     "NS": {
@@ -12589,6 +12635,28 @@
       "ket": "",
       "status": "Plan",
       "eff": "-11.8%"
+    },
+    {
+      "key": "20261119-AS-Heli 3-PLAN",
+      "date": "11/19/2026",
+      "shift": "AS",
+      "cluster": "CM3",
+      "group": "Alidra Heli",
+      "mc": "Heli 3",
+      "jenis": "GF",
+      "plan": "14:00",
+      "doff": "",
+      "start": "",
+      "code": "SCR",
+      "std": "97.3",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
     },
     {
       "key": "20261119-NS-Heli 4-PLAN",
