@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T07:00:00.760Z",
+  "updatedAt": "2026-11-21T07:04:59.354Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -557,6 +557,28 @@
       "AS": {
         "cm3": [],
         "cm6": [
+          {
+            "key": "20261121-AS-DT 1-PLAN",
+            "date": "11/21/2026",
+            "shift": "AS",
+            "cluster": "CM6",
+            "group": "TBR DT",
+            "mc": "DT 1",
+            "jenis": "GF",
+            "plan": "21:45",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "82.7",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "82.7",
+            "pct_loss": "17.2%",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": "100.0%"
+          },
           {
             "key": "20261121-AS-L 9-PLAN",
             "date": "11/21/2026",
@@ -10720,10 +10742,10 @@
     }
   },
   "dateSelector": "11/21/2026",
-  "shiftSelector": "MS",
+  "shiftSelector": "AS",
   "productionDateSerial": 46347,
   "productionDateText": "11/21/2026",
-  "shiftSet": "MS",
+  "shiftSet": "AS",
   "shifts": {
     "MS": {
       "cm3": [
@@ -11262,6 +11284,28 @@
     "AS": {
       "cm3": [],
       "cm6": [
+        {
+          "key": "20261121-AS-DT 1-PLAN",
+          "date": "11/21/2026",
+          "shift": "AS",
+          "cluster": "CM6",
+          "group": "TBR DT",
+          "mc": "DT 1",
+          "jenis": "GF",
+          "plan": "21:45",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "82.7",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "82.7",
+          "pct_loss": "17.2%",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": "100.0%"
+        },
         {
           "key": "20261121-AS-L 9-PLAN",
           "date": "11/21/2026",
@@ -12239,6 +12283,28 @@
       "ket": "",
       "status": "Plan",
       "eff": "0.0%"
+    },
+    {
+      "key": "20261121-AS-DT 1-PLAN",
+      "date": "11/21/2026",
+      "shift": "AS",
+      "cluster": "CM6",
+      "group": "TBR DT",
+      "mc": "DT 1",
+      "jenis": "GF",
+      "plan": "21:45",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "82.7",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "82.7",
+      "pct_loss": "17.2%",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": "100.0%"
     },
     {
       "key": "20261121-AS-L 9-PLAN",
