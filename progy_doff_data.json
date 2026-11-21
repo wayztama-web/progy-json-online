@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T22:15:31.959Z",
+  "updatedAt": "2026-11-21T22:20:32.300Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -261,18 +261,18 @@
             "mc": "DT 6",
             "jenis": "GF",
             "plan": "03:30",
-            "doff": "",
+            "doff": "03:30",
             "start": "",
-            "code": "",
+            "code": "GF",
             "std": "82.7",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "82.7",
-            "pct_loss": "17.2%",
-            "overlap": "",
+            "dt_mc": "1230",
+            "dt_proc": "1230",
+            "loss": "-1147.3",
+            "pct_loss": "-239.0%",
+            "overlap": "60",
             "ket": "",
             "status": "Plan",
-            "eff": "100.0%"
+            "eff": "-1386.8%"
           },
           {
             "key": "20261122-NS-DT 7-PLAN",
@@ -283,18 +283,18 @@
             "mc": "DT 7",
             "jenis": "GF",
             "plan": "05:35",
-            "doff": "",
+            "doff": "05:35",
             "start": "",
-            "code": "",
+            "code": "L",
             "std": "82.7",
-            "dt_mc": "",
+            "dt_mc": "1105",
             "dt_proc": "",
-            "loss": "82.7",
-            "pct_loss": "17.2%",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "100.0%"
+            "eff": ""
           }
         ]
       }
@@ -10281,18 +10281,18 @@
           "mc": "DT 6",
           "jenis": "GF",
           "plan": "03:30",
-          "doff": "",
+          "doff": "03:30",
           "start": "",
-          "code": "",
+          "code": "GF",
           "std": "82.7",
-          "dt_mc": "",
-          "dt_proc": "",
-          "loss": "82.7",
-          "pct_loss": "17.2%",
-          "overlap": "",
+          "dt_mc": "1230",
+          "dt_proc": "1230",
+          "loss": "-1147.3",
+          "pct_loss": "-239.0%",
+          "overlap": "60",
           "ket": "",
           "status": "Plan",
-          "eff": "100.0%"
+          "eff": "-1386.8%"
         },
         {
           "key": "20261122-NS-DT 7-PLAN",
@@ -10303,18 +10303,18 @@
           "mc": "DT 7",
           "jenis": "GF",
           "plan": "05:35",
-          "doff": "",
+          "doff": "05:35",
           "start": "",
-          "code": "",
+          "code": "L",
           "std": "82.7",
-          "dt_mc": "",
+          "dt_mc": "1105",
           "dt_proc": "",
-          "loss": "82.7",
-          "pct_loss": "17.2%",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "100.0%"
+          "eff": ""
         }
       ]
     }
@@ -10549,18 +10549,18 @@
       "mc": "DT 6",
       "jenis": "GF",
       "plan": "03:30",
-      "doff": "",
+      "doff": "03:30",
       "start": "",
-      "code": "",
+      "code": "GF",
       "std": "82.7",
-      "dt_mc": "",
-      "dt_proc": "",
-      "loss": "82.7",
-      "pct_loss": "17.2%",
-      "overlap": "",
+      "dt_mc": "1230",
+      "dt_proc": "1230",
+      "loss": "-1147.3",
+      "pct_loss": "-239.0%",
+      "overlap": "60",
       "ket": "",
       "status": "Plan",
-      "eff": "100.0%"
+      "eff": "-1386.8%"
     },
     {
       "key": "20261122-NS-DT 7-PLAN",
@@ -10571,18 +10571,18 @@
       "mc": "DT 7",
       "jenis": "GF",
       "plan": "05:35",
-      "doff": "",
+      "doff": "05:35",
       "start": "",
-      "code": "",
+      "code": "L",
       "std": "82.7",
-      "dt_mc": "",
+      "dt_mc": "1105",
       "dt_proc": "",
-      "loss": "82.7",
-      "pct_loss": "17.2%",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "100.0%"
+      "eff": ""
     }
   ]
 }
