@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T17:16:21.679Z",
+  "updatedAt": "2026-11-22T17:21:23.201Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1613,6 +1613,28 @@
             "eff": "27.5%"
           },
           {
+            "key": "20261122-NS-DT 13-PLAN",
+            "date": "11/22/2026",
+            "shift": "NS",
+            "cluster": "CM3",
+            "group": "DT New",
+            "mc": "DT 13",
+            "jenis": "GF",
+            "plan": "22:00",
+            "doff": "22:00",
+            "start": "23:20",
+            "code": "GF",
+            "std": "82.7",
+            "dt_mc": "80",
+            "dt_proc": "80",
+            "loss": "2.7",
+            "pct_loss": "0.6%",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": "3.3%"
+          },
+          {
             "key": "20261122-NS-DT 8-PLAN",
             "date": "11/22/2026",
             "shift": "NS",
@@ -1647,14 +1669,14 @@
             "start": "",
             "code": "D",
             "std": "13.5",
-            "dt_mc": "-340",
+            "dt_mc": "",
             "dt_proc": "1100",
-            "loss": "-1086.5",
-            "pct_loss": "-226.4%",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "-8075.7%"
+            "eff": "0.0%"
           }
         ],
         "cm6": [
