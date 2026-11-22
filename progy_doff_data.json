@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T06:45:57.677Z",
+  "updatedAt": "2026-11-22T06:50:58.085Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -495,18 +495,18 @@
             "mc": "L 3",
             "jenis": "GF",
             "plan": "11:00",
-            "doff": "",
+            "doff": "13:45",
             "start": "",
-            "code": "",
+            "code": "L",
             "std": "35.8",
-            "dt_mc": "",
+            "dt_mc": "615",
             "dt_proc": "",
             "loss": "",
             "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "0.0%"
+            "eff": ""
           }
         ]
       },
@@ -11001,18 +11001,18 @@
           "mc": "L 3",
           "jenis": "GF",
           "plan": "11:00",
-          "doff": "",
+          "doff": "13:45",
           "start": "",
-          "code": "",
+          "code": "L",
           "std": "35.8",
-          "dt_mc": "",
+          "dt_mc": "615",
           "dt_proc": "",
           "loss": "",
           "pct_loss": "",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "0.0%"
+          "eff": ""
         }
       ]
     },
@@ -11763,18 +11763,18 @@
       "mc": "L 3",
       "jenis": "GF",
       "plan": "11:00",
-      "doff": "",
+      "doff": "13:45",
       "start": "",
-      "code": "",
+      "code": "L",
       "std": "35.8",
-      "dt_mc": "",
+      "dt_mc": "615",
       "dt_proc": "",
       "loss": "",
       "pct_loss": "",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "0.0%"
+      "eff": ""
     },
     {
       "key": "20261122-NS-Heli 6-PLAN",
