@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T15:32:31.243Z",
+  "updatedAt": "2026-11-23T15:37:25.918Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1877,6 +1877,50 @@
             "ket": "",
             "status": "Plan",
             "eff": "100.0%"
+          },
+          {
+            "key": "20261123-NS-L 9-PLAN",
+            "date": "11/23/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 9",
+            "jenis": "GF",
+            "plan": "04:30",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": "0.0%"
+          },
+          {
+            "key": "20261123-NS-L 10-PLAN",
+            "date": "11/23/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 10",
+            "jenis": "GF",
+            "plan": "04:50",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "35.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": "0.0%"
           }
         ]
       }
