@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:18:39.487Z",
+  "updatedAt": "2026-11-24T20:23:39.489Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -963,7 +963,7 @@
             "dt_proc": "80",
             "loss": "17.3",
             "pct_loss": "3.6%",
-            "overlap": "",
+            "overlap": "160",
             "ket": "",
             "status": "Plan",
             "eff": "17.8%"
@@ -1000,17 +1000,17 @@
             "jenis": "GF",
             "plan": "19:40",
             "doff": "19:40",
-            "start": "",
-            "code": "GF",
+            "start": "22:00",
+            "code": "L",
             "std": "97.3",
-            "dt_mc": "-1180",
-            "dt_proc": "260",
-            "loss": "-162.7",
-            "pct_loss": "-33.9%",
+            "dt_mc": "140",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "120",
             "ket": "",
             "status": "Plan",
-            "eff": "-167.1%"
+            "eff": ""
           },
           {
             "key": "20261124-AS-Heli 7-PLAN",
