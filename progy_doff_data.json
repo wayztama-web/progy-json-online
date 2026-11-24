@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:33:43.562Z",
+  "updatedAt": "2026-11-24T20:38:42.311Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -317,6 +317,28 @@
             "ket": "",
             "status": "Plan",
             "eff": "100.0%"
+          },
+          {
+            "key": "20261126-NS-L 6-REP-2200",
+            "date": "11/25/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 6",
+            "jenis": "MTN",
+            "plan": "",
+            "doff": "22:00",
+            "start": "",
+            "code": "REP",
+            "std": "35.8",
+            "dt_mc": "120",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "",
+            "ket": "Mesin mati dengan sendirinya",
+            "status": "0",
+            "eff": ""
           }
         ]
       }
@@ -1923,6 +1945,28 @@
             "eff": "-67.7%"
           },
           {
+            "key": "20261124-NS-L 11-PLAN",
+            "date": "11/24/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 11",
+            "jenis": "GF",
+            "plan": "02:35",
+            "doff": "23:20",
+            "start": "01:30",
+            "code": "GF",
+            "std": "35.8",
+            "dt_mc": "130",
+            "dt_proc": "130",
+            "loss": "-94.2",
+            "pct_loss": "-19.6%",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": "-263.3%"
+          },
+          {
             "key": "20261124-NS-L 6-REP-0245",
             "date": "11/24/2026",
             "shift": "NS",
@@ -1997,28 +2041,6 @@
             "mc": "L 1",
             "jenis": "GF",
             "plan": "01:30",
-            "doff": "",
-            "start": "",
-            "code": "",
-            "std": "35.8",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "35.8",
-            "pct_loss": "7.5%",
-            "overlap": "",
-            "ket": "",
-            "status": "Plan",
-            "eff": "100.0%"
-          },
-          {
-            "key": "20261124-NS-L 11-PLAN",
-            "date": "11/24/2026",
-            "shift": "NS",
-            "cluster": "CM6",
-            "group": "TBR L",
-            "mc": "L 11",
-            "jenis": "GF",
-            "plan": "02:35",
             "doff": "",
             "start": "",
             "code": "",
@@ -10095,6 +10117,28 @@
           "ket": "",
           "status": "Plan",
           "eff": "100.0%"
+        },
+        {
+          "key": "20261126-NS-L 6-REP-2200",
+          "date": "11/25/2026",
+          "shift": "NS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 6",
+          "jenis": "MTN",
+          "plan": "",
+          "doff": "22:00",
+          "start": "",
+          "code": "REP",
+          "std": "35.8",
+          "dt_mc": "120",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "",
+          "ket": "Mesin mati dengan sendirinya",
+          "status": "0",
+          "eff": ""
         }
       ]
     }
@@ -10385,6 +10429,28 @@
       "ket": "",
       "status": "Plan",
       "eff": "100.0%"
+    },
+    {
+      "key": "20261126-NS-L 6-REP-2200",
+      "date": "11/25/2026",
+      "shift": "NS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 6",
+      "jenis": "MTN",
+      "plan": "",
+      "doff": "22:00",
+      "start": "",
+      "code": "REP",
+      "std": "35.8",
+      "dt_mc": "120",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "",
+      "ket": "Mesin mati dengan sendirinya",
+      "status": "0",
+      "eff": ""
     }
   ]
 }
