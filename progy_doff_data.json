@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T15:29:40.782Z",
+  "updatedAt": "2026-11-25T15:34:38.116Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -73,6 +73,50 @@
             "ket": "",
             "status": "Plan",
             "eff": ""
+          },
+          {
+            "key": "20261126-NS-Heli 2-PLAN",
+            "date": "11/26/2026",
+            "shift": "NS",
+            "cluster": "CM3",
+            "group": "Alidra Heli",
+            "mc": "Heli 2",
+            "jenis": "D",
+            "plan": "04:25",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "17.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "17.8",
+            "pct_loss": "3.7%",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": "100.0%"
+          },
+          {
+            "key": "20261126-NS-Heli 7-PLAN",
+            "date": "11/26/2026",
+            "shift": "NS",
+            "cluster": "CM3",
+            "group": "Alidra Heli",
+            "mc": "Heli 7",
+            "jenis": "D",
+            "plan": "05:20",
+            "doff": "",
+            "start": "",
+            "code": "",
+            "std": "17.8",
+            "dt_mc": "",
+            "dt_proc": "",
+            "loss": "17.8",
+            "pct_loss": "3.7%",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": "100.0%"
           },
           {
             "key": "20261126-NS-DT 10-PLAN",
@@ -177,12 +221,12 @@
             "std": "13.5",
             "dt_mc": "",
             "dt_proc": "",
-            "loss": "13.5",
-            "pct_loss": "2.8%",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "100.0%"
+            "eff": "0.0%"
           },
           {
             "key": "20261126-NS-DT 13-PLAN",
@@ -199,12 +243,12 @@
             "std": "82.7",
             "dt_mc": "",
             "dt_proc": "",
-            "loss": "82.7",
-            "pct_loss": "17.2%",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "100.0%"
+            "eff": "0.0%"
           },
           {
             "key": "20261126-NS-DT 11-PLAN",
@@ -221,12 +265,12 @@
             "std": "13.5",
             "dt_mc": "",
             "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "loss": "13.5",
+            "pct_loss": "2.8%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "0.0%"
+            "eff": "100.0%"
           },
           {
             "key": "20261126-NS-DT 9-PLAN",
@@ -243,12 +287,12 @@
             "std": "13.5",
             "dt_mc": "",
             "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "loss": "13.5",
+            "pct_loss": "2.8%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "0.0%"
+            "eff": "100.0%"
           }
         ],
         "cm6": [
@@ -9875,6 +9919,50 @@
           "eff": ""
         },
         {
+          "key": "20261126-NS-Heli 2-PLAN",
+          "date": "11/26/2026",
+          "shift": "NS",
+          "cluster": "CM3",
+          "group": "Alidra Heli",
+          "mc": "Heli 2",
+          "jenis": "D",
+          "plan": "04:25",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "17.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "17.8",
+          "pct_loss": "3.7%",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": "100.0%"
+        },
+        {
+          "key": "20261126-NS-Heli 7-PLAN",
+          "date": "11/26/2026",
+          "shift": "NS",
+          "cluster": "CM3",
+          "group": "Alidra Heli",
+          "mc": "Heli 7",
+          "jenis": "D",
+          "plan": "05:20",
+          "doff": "",
+          "start": "",
+          "code": "",
+          "std": "17.8",
+          "dt_mc": "",
+          "dt_proc": "",
+          "loss": "17.8",
+          "pct_loss": "3.7%",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": "100.0%"
+        },
+        {
           "key": "20261126-NS-DT 10-PLAN",
           "date": "11/26/2026",
           "shift": "NS",
@@ -9977,12 +10065,12 @@
           "std": "13.5",
           "dt_mc": "",
           "dt_proc": "",
-          "loss": "13.5",
-          "pct_loss": "2.8%",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "100.0%"
+          "eff": "0.0%"
         },
         {
           "key": "20261126-NS-DT 13-PLAN",
@@ -9999,12 +10087,12 @@
           "std": "82.7",
           "dt_mc": "",
           "dt_proc": "",
-          "loss": "82.7",
-          "pct_loss": "17.2%",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "100.0%"
+          "eff": "0.0%"
         },
         {
           "key": "20261126-NS-DT 11-PLAN",
@@ -10021,12 +10109,12 @@
           "std": "13.5",
           "dt_mc": "",
           "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
+          "loss": "13.5",
+          "pct_loss": "2.8%",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "0.0%"
+          "eff": "100.0%"
         },
         {
           "key": "20261126-NS-DT 9-PLAN",
@@ -10043,12 +10131,12 @@
           "std": "13.5",
           "dt_mc": "",
           "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
+          "loss": "13.5",
+          "pct_loss": "2.8%",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "0.0%"
+          "eff": "100.0%"
         }
       ],
       "cm6": [
@@ -10255,6 +10343,50 @@
       "eff": ""
     },
     {
+      "key": "20261126-NS-Heli 2-PLAN",
+      "date": "11/26/2026",
+      "shift": "NS",
+      "cluster": "CM3",
+      "group": "Alidra Heli",
+      "mc": "Heli 2",
+      "jenis": "D",
+      "plan": "04:25",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "17.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "17.8",
+      "pct_loss": "3.7%",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": "100.0%"
+    },
+    {
+      "key": "20261126-NS-Heli 7-PLAN",
+      "date": "11/26/2026",
+      "shift": "NS",
+      "cluster": "CM3",
+      "group": "Alidra Heli",
+      "mc": "Heli 7",
+      "jenis": "D",
+      "plan": "05:20",
+      "doff": "",
+      "start": "",
+      "code": "",
+      "std": "17.8",
+      "dt_mc": "",
+      "dt_proc": "",
+      "loss": "17.8",
+      "pct_loss": "3.7%",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": "100.0%"
+    },
+    {
       "key": "20261126-NS-DT 10-PLAN",
       "date": "11/26/2026",
       "shift": "NS",
@@ -10357,12 +10489,12 @@
       "std": "13.5",
       "dt_mc": "",
       "dt_proc": "",
-      "loss": "13.5",
-      "pct_loss": "2.8%",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "100.0%"
+      "eff": "0.0%"
     },
     {
       "key": "20261126-NS-DT 13-PLAN",
@@ -10379,12 +10511,12 @@
       "std": "82.7",
       "dt_mc": "",
       "dt_proc": "",
-      "loss": "82.7",
-      "pct_loss": "17.2%",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "100.0%"
+      "eff": "0.0%"
     },
     {
       "key": "20261126-NS-DT 11-PLAN",
@@ -10401,12 +10533,12 @@
       "std": "13.5",
       "dt_mc": "",
       "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
+      "loss": "13.5",
+      "pct_loss": "2.8%",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "0.0%"
+      "eff": "100.0%"
     },
     {
       "key": "20261126-NS-DT 9-PLAN",
@@ -10423,12 +10555,12 @@
       "std": "13.5",
       "dt_mc": "",
       "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
+      "loss": "13.5",
+      "pct_loss": "2.8%",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "0.0%"
+      "eff": "100.0%"
     },
     {
       "key": "20261126-NS-DT 6-PLAN",
