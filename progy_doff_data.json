@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T13:54:28.846Z",
+  "updatedAt": "2026-11-25T13:59:29.748Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -603,6 +603,28 @@
             "eff": "5.5%"
           },
           {
+            "key": "20261125-AS-DT 7-PLAN",
+            "date": "11/25/2026",
+            "shift": "AS",
+            "cluster": "CM6",
+            "group": "TBR DT",
+            "mc": "DT 7",
+            "jenis": "D",
+            "plan": "20:25",
+            "doff": "20:25",
+            "start": "14:00",
+            "code": "L",
+            "std": "13.5",
+            "dt_mc": "1055",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "95",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          },
+          {
             "key": "20261125-AS-DT 4-PLAN",
             "date": "11/25/2026",
             "shift": "AS",
@@ -669,6 +691,28 @@
             "eff": "-271.6%"
           },
           {
+            "key": "20261125-AS-DT 7-PLAN",
+            "date": "11/25/2026",
+            "shift": "AS",
+            "cluster": "CM6",
+            "group": "TBR DT",
+            "mc": "DT 7",
+            "jenis": "D",
+            "plan": "14:00",
+            "doff": "14:00",
+            "start": "20:45",
+            "code": "L",
+            "std": "13.5",
+            "dt_mc": "405",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
+            "overlap": "315",
+            "ket": "",
+            "status": "Plan",
+            "eff": ""
+          },
+          {
             "key": "20261125-AS-DT 6-PLAN",
             "date": "11/25/2026",
             "shift": "AS",
@@ -689,28 +733,6 @@
             "ket": "",
             "status": "Plan",
             "eff": ""
-          },
-          {
-            "key": "20261125-AS-DT 7-PLAN",
-            "date": "11/25/2026",
-            "shift": "AS",
-            "cluster": "CM6",
-            "group": "TBR DT",
-            "mc": "DT 7",
-            "jenis": "D",
-            "plan": "20:25",
-            "doff": "20:25",
-            "start": "",
-            "code": "D",
-            "std": "13.5",
-            "dt_mc": "215",
-            "dt_proc": "215",
-            "loss": "-201.5",
-            "pct_loss": "-42.0%",
-            "overlap": "95",
-            "ket": "",
-            "status": "Plan",
-            "eff": "-1498.0%"
           },
           {
             "key": "20261125-AS-DT 3-PLAN",
@@ -859,12 +881,12 @@
             "std": "35.8",
             "dt_mc": "20",
             "dt_proc": "20",
-            "loss": "15.8",
-            "pct_loss": "3.3%",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "44.1%"
+            "eff": "0.0%"
           },
           {
             "key": "20261125-AS-L 4-PLAN",
@@ -947,12 +969,12 @@
             "std": "35.8",
             "dt_mc": "",
             "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "loss": "35.8",
+            "pct_loss": "7.5%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "0.0%"
+            "eff": "100.0%"
           }
         ]
       },
@@ -11397,6 +11419,28 @@
           "eff": "5.5%"
         },
         {
+          "key": "20261125-AS-DT 7-PLAN",
+          "date": "11/25/2026",
+          "shift": "AS",
+          "cluster": "CM6",
+          "group": "TBR DT",
+          "mc": "DT 7",
+          "jenis": "D",
+          "plan": "20:25",
+          "doff": "20:25",
+          "start": "14:00",
+          "code": "L",
+          "std": "13.5",
+          "dt_mc": "1055",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "95",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        },
+        {
           "key": "20261125-AS-DT 4-PLAN",
           "date": "11/25/2026",
           "shift": "AS",
@@ -11463,6 +11507,28 @@
           "eff": "-271.6%"
         },
         {
+          "key": "20261125-AS-DT 7-PLAN",
+          "date": "11/25/2026",
+          "shift": "AS",
+          "cluster": "CM6",
+          "group": "TBR DT",
+          "mc": "DT 7",
+          "jenis": "D",
+          "plan": "14:00",
+          "doff": "14:00",
+          "start": "20:45",
+          "code": "L",
+          "std": "13.5",
+          "dt_mc": "405",
+          "dt_proc": "",
+          "loss": "",
+          "pct_loss": "",
+          "overlap": "315",
+          "ket": "",
+          "status": "Plan",
+          "eff": ""
+        },
+        {
           "key": "20261125-AS-DT 6-PLAN",
           "date": "11/25/2026",
           "shift": "AS",
@@ -11483,28 +11549,6 @@
           "ket": "",
           "status": "Plan",
           "eff": ""
-        },
-        {
-          "key": "20261125-AS-DT 7-PLAN",
-          "date": "11/25/2026",
-          "shift": "AS",
-          "cluster": "CM6",
-          "group": "TBR DT",
-          "mc": "DT 7",
-          "jenis": "D",
-          "plan": "20:25",
-          "doff": "20:25",
-          "start": "",
-          "code": "D",
-          "std": "13.5",
-          "dt_mc": "215",
-          "dt_proc": "215",
-          "loss": "-201.5",
-          "pct_loss": "-42.0%",
-          "overlap": "95",
-          "ket": "",
-          "status": "Plan",
-          "eff": "-1498.0%"
         },
         {
           "key": "20261125-AS-DT 3-PLAN",
@@ -11653,12 +11697,12 @@
           "std": "35.8",
           "dt_mc": "20",
           "dt_proc": "20",
-          "loss": "15.8",
-          "pct_loss": "3.3%",
+          "loss": "",
+          "pct_loss": "",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "44.1%"
+          "eff": "0.0%"
         },
         {
           "key": "20261125-AS-L 4-PLAN",
@@ -11741,12 +11785,12 @@
           "std": "35.8",
           "dt_mc": "",
           "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
+          "loss": "35.8",
+          "pct_loss": "7.5%",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "0.0%"
+          "eff": "100.0%"
         }
       ]
     },
@@ -12705,6 +12749,28 @@
       "eff": "5.5%"
     },
     {
+      "key": "20261125-AS-DT 7-PLAN",
+      "date": "11/25/2026",
+      "shift": "AS",
+      "cluster": "CM6",
+      "group": "TBR DT",
+      "mc": "DT 7",
+      "jenis": "D",
+      "plan": "20:25",
+      "doff": "20:25",
+      "start": "14:00",
+      "code": "L",
+      "std": "13.5",
+      "dt_mc": "1055",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "95",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
       "key": "20261125-AS-DT 4-PLAN",
       "date": "11/25/2026",
       "shift": "AS",
@@ -12771,6 +12837,28 @@
       "eff": "-271.6%"
     },
     {
+      "key": "20261125-AS-DT 7-PLAN",
+      "date": "11/25/2026",
+      "shift": "AS",
+      "cluster": "CM6",
+      "group": "TBR DT",
+      "mc": "DT 7",
+      "jenis": "D",
+      "plan": "14:00",
+      "doff": "14:00",
+      "start": "20:45",
+      "code": "L",
+      "std": "13.5",
+      "dt_mc": "405",
+      "dt_proc": "",
+      "loss": "",
+      "pct_loss": "",
+      "overlap": "315",
+      "ket": "",
+      "status": "Plan",
+      "eff": ""
+    },
+    {
       "key": "20261125-AS-DT 6-PLAN",
       "date": "11/25/2026",
       "shift": "AS",
@@ -12791,28 +12879,6 @@
       "ket": "",
       "status": "Plan",
       "eff": ""
-    },
-    {
-      "key": "20261125-AS-DT 7-PLAN",
-      "date": "11/25/2026",
-      "shift": "AS",
-      "cluster": "CM6",
-      "group": "TBR DT",
-      "mc": "DT 7",
-      "jenis": "D",
-      "plan": "20:25",
-      "doff": "20:25",
-      "start": "",
-      "code": "D",
-      "std": "13.5",
-      "dt_mc": "215",
-      "dt_proc": "215",
-      "loss": "-201.5",
-      "pct_loss": "-42.0%",
-      "overlap": "95",
-      "ket": "",
-      "status": "Plan",
-      "eff": "-1498.0%"
     },
     {
       "key": "20261125-AS-DT 3-PLAN",
@@ -12961,12 +13027,12 @@
       "std": "35.8",
       "dt_mc": "20",
       "dt_proc": "20",
-      "loss": "15.8",
-      "pct_loss": "3.3%",
+      "loss": "",
+      "pct_loss": "",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "44.1%"
+      "eff": "0.0%"
     },
     {
       "key": "20261125-AS-L 4-PLAN",
@@ -13049,12 +13115,12 @@
       "std": "35.8",
       "dt_mc": "",
       "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
+      "loss": "35.8",
+      "pct_loss": "7.5%",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "0.0%"
+      "eff": "100.0%"
     },
     {
       "key": "20261125-NS-DT 8-PLAN",
