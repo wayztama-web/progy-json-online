@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T17:50:39.545Z",
+  "updatedAt": "2026-11-26T17:55:40.646Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -208,6 +208,28 @@
           }
         ],
         "cm6": [
+          {
+            "key": "20261127-NS-Delta 10-PLAN",
+            "date": "11/27/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR Delta",
+            "mc": "Delta 10",
+            "jenis": "GF",
+            "plan": "23:30",
+            "doff": "23:30",
+            "start": "00:30",
+            "code": "GF",
+            "std": "37.1",
+            "dt_mc": "60",
+            "dt_proc": "60",
+            "loss": "-23.0",
+            "pct_loss": "-4.8%",
+            "overlap": "",
+            "ket": "",
+            "status": "Plan",
+            "eff": "-61.9%"
+          },
           {
             "key": "20261127-NS-DT 1-PLAN",
             "date": "11/27/2026",
@@ -10163,6 +10185,28 @@
       ],
       "cm6": [
         {
+          "key": "20261127-NS-Delta 10-PLAN",
+          "date": "11/27/2026",
+          "shift": "NS",
+          "cluster": "CM6",
+          "group": "TBR Delta",
+          "mc": "Delta 10",
+          "jenis": "GF",
+          "plan": "23:30",
+          "doff": "23:30",
+          "start": "00:30",
+          "code": "GF",
+          "std": "37.1",
+          "dt_mc": "60",
+          "dt_proc": "60",
+          "loss": "-23.0",
+          "pct_loss": "-4.8%",
+          "overlap": "",
+          "ket": "",
+          "status": "Plan",
+          "eff": "-61.9%"
+        },
+        {
           "key": "20261127-NS-DT 1-PLAN",
           "date": "11/27/2026",
           "shift": "NS",
@@ -10517,6 +10561,28 @@
       "ket": "",
       "status": "Plan",
       "eff": "100.0%"
+    },
+    {
+      "key": "20261127-NS-Delta 10-PLAN",
+      "date": "11/27/2026",
+      "shift": "NS",
+      "cluster": "CM6",
+      "group": "TBR Delta",
+      "mc": "Delta 10",
+      "jenis": "GF",
+      "plan": "23:30",
+      "doff": "23:30",
+      "start": "00:30",
+      "code": "GF",
+      "std": "37.1",
+      "dt_mc": "60",
+      "dt_proc": "60",
+      "loss": "-23.0",
+      "pct_loss": "-4.8%",
+      "overlap": "",
+      "ket": "",
+      "status": "Plan",
+      "eff": "-61.9%"
     },
     {
       "key": "20261127-NS-DT 1-PLAN",
