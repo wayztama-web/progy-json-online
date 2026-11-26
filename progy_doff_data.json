@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T14:50:29.684Z",
+  "updatedAt": "2026-11-26T14:55:30.176Z",
   "source": "Wirawan",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -633,16 +633,16 @@
             "plan": "14:00",
             "doff": "14:00",
             "start": "14:50",
-            "code": "L",
+            "code": "D",
             "std": "13.5",
             "dt_mc": "50",
-            "dt_proc": "",
-            "loss": "",
-            "pct_loss": "",
+            "dt_proc": "50",
+            "loss": "-36.5",
+            "pct_loss": "-7.6%",
             "overlap": "160",
             "ket": "",
             "status": "Plan",
-            "eff": ""
+            "eff": "-271.6%"
           },
           {
             "key": "20261126-AS-DT 12-PLAN",
@@ -11713,16 +11713,16 @@
           "plan": "14:00",
           "doff": "14:00",
           "start": "14:50",
-          "code": "L",
+          "code": "D",
           "std": "13.5",
           "dt_mc": "50",
-          "dt_proc": "",
-          "loss": "",
-          "pct_loss": "",
+          "dt_proc": "50",
+          "loss": "-36.5",
+          "pct_loss": "-7.6%",
           "overlap": "160",
           "ket": "",
           "status": "Plan",
-          "eff": ""
+          "eff": "-271.6%"
         },
         {
           "key": "20261126-AS-DT 12-PLAN",
@@ -13375,16 +13375,16 @@
       "plan": "14:00",
       "doff": "14:00",
       "start": "14:50",
-      "code": "L",
+      "code": "D",
       "std": "13.5",
       "dt_mc": "50",
-      "dt_proc": "",
-      "loss": "",
-      "pct_loss": "",
+      "dt_proc": "50",
+      "loss": "-36.5",
+      "pct_loss": "-7.6%",
       "overlap": "160",
       "ket": "",
       "status": "Plan",
-      "eff": ""
+      "eff": "-271.6%"
     },
     {
       "key": "20261126-AS-DT 12-PLAN",
