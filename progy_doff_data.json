@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T18:05:40.284Z",
+  "updatedAt": "2026-11-26T18:11:16.471Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -1229,7 +1229,7 @@
             "dt_proc": "90",
             "loss": "-53.0",
             "pct_loss": "-11.0%",
-            "overlap": "",
+            "overlap": "480",
             "ket": "",
             "status": "Plan",
             "eff": "-142.9%"
@@ -1398,17 +1398,17 @@
             "jenis": "GF",
             "plan": "18:50",
             "doff": "18:50",
-            "start": "",
-            "code": "GF",
+            "start": "22:00",
+            "code": "L",
             "std": "82.7",
-            "dt_mc": "310",
-            "dt_proc": "310",
-            "loss": "-227.3",
-            "pct_loss": "-47.3%",
+            "dt_mc": "190",
+            "dt_proc": "",
+            "loss": "",
+            "pct_loss": "",
             "overlap": "40",
             "ket": "",
             "status": "Plan",
-            "eff": "-274.7%"
+            "eff": ""
           },
           {
             "key": "20261126-AS-L 4-PLAN",
