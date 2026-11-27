@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T17:51:50.180Z",
+  "updatedAt": "2026-11-27T17:56:54.147Z",
   "source": "Eko BY",
   "dataSource": "Dashboard",
   "workbook": "Doff Management rev.1.xlsx",
@@ -438,18 +438,18 @@
             "mc": "L 9",
             "jenis": "GF",
             "plan": "23:00",
-            "doff": "",
-            "start": "",
-            "code": "",
+            "doff": "22:45",
+            "start": "23:25",
+            "code": "GF",
             "std": "35.8",
-            "dt_mc": "",
-            "dt_proc": "",
-            "loss": "35.8",
-            "pct_loss": "7.5%",
+            "dt_mc": "40",
+            "dt_proc": "40",
+            "loss": "-4.2",
+            "pct_loss": "-0.9%",
             "overlap": "",
             "ket": "",
             "status": "Plan",
-            "eff": "100.0%"
+            "eff": "-11.8%"
           },
           {
             "key": "20261128-NS-L 11-PLAN",
@@ -494,6 +494,28 @@
             "ket": "",
             "status": "Plan",
             "eff": "100.0%"
+          },
+          {
+            "key": "20261129-NS-L 1-GF-2200",
+            "date": "11/28/2026",
+            "shift": "NS",
+            "cluster": "CM6",
+            "group": "TBR L",
+            "mc": "L 1",
+            "jenis": "MTN",
+            "plan": "",
+            "doff": "22:00",
+            "start": "",
+            "code": "GF",
+            "std": "35.8",
+            "dt_mc": "120",
+            "dt_proc": "120",
+            "loss": "-84.2",
+            "pct_loss": "-17.5%",
+            "overlap": "",
+            "ket": "Text input",
+            "status": "0",
+            "eff": "-235.3%"
           }
         ]
       }
@@ -10547,18 +10569,18 @@
           "mc": "L 9",
           "jenis": "GF",
           "plan": "23:00",
-          "doff": "",
-          "start": "",
-          "code": "",
+          "doff": "22:45",
+          "start": "23:25",
+          "code": "GF",
           "std": "35.8",
-          "dt_mc": "",
-          "dt_proc": "",
-          "loss": "35.8",
-          "pct_loss": "7.5%",
+          "dt_mc": "40",
+          "dt_proc": "40",
+          "loss": "-4.2",
+          "pct_loss": "-0.9%",
           "overlap": "",
           "ket": "",
           "status": "Plan",
-          "eff": "100.0%"
+          "eff": "-11.8%"
         },
         {
           "key": "20261128-NS-L 11-PLAN",
@@ -10603,6 +10625,28 @@
           "ket": "",
           "status": "Plan",
           "eff": "100.0%"
+        },
+        {
+          "key": "20261129-NS-L 1-GF-2200",
+          "date": "11/28/2026",
+          "shift": "NS",
+          "cluster": "CM6",
+          "group": "TBR L",
+          "mc": "L 1",
+          "jenis": "MTN",
+          "plan": "",
+          "doff": "22:00",
+          "start": "",
+          "code": "GF",
+          "std": "35.8",
+          "dt_mc": "120",
+          "dt_proc": "120",
+          "loss": "-84.2",
+          "pct_loss": "-17.5%",
+          "overlap": "",
+          "ket": "Text input",
+          "status": "0",
+          "eff": "-235.3%"
         }
       ]
     }
@@ -11013,18 +11057,18 @@
       "mc": "L 9",
       "jenis": "GF",
       "plan": "23:00",
-      "doff": "",
-      "start": "",
-      "code": "",
+      "doff": "22:45",
+      "start": "23:25",
+      "code": "GF",
       "std": "35.8",
-      "dt_mc": "",
-      "dt_proc": "",
-      "loss": "35.8",
-      "pct_loss": "7.5%",
+      "dt_mc": "40",
+      "dt_proc": "40",
+      "loss": "-4.2",
+      "pct_loss": "-0.9%",
       "overlap": "",
       "ket": "",
       "status": "Plan",
-      "eff": "100.0%"
+      "eff": "-11.8%"
     },
     {
       "key": "20261128-NS-L 11-PLAN",
@@ -11069,6 +11113,28 @@
       "ket": "",
       "status": "Plan",
       "eff": "100.0%"
+    },
+    {
+      "key": "20261129-NS-L 1-GF-2200",
+      "date": "11/28/2026",
+      "shift": "NS",
+      "cluster": "CM6",
+      "group": "TBR L",
+      "mc": "L 1",
+      "jenis": "MTN",
+      "plan": "",
+      "doff": "22:00",
+      "start": "",
+      "code": "GF",
+      "std": "35.8",
+      "dt_mc": "120",
+      "dt_proc": "120",
+      "loss": "-84.2",
+      "pct_loss": "-17.5%",
+      "overlap": "",
+      "ket": "Text input",
+      "status": "0",
+      "eff": "-235.3%"
     }
   ]
 }
